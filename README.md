@@ -125,10 +125,31 @@ verify_project.py              # Static/data + optional Streamlit app checks
 
 For evaluation corrections and methodological caveats, see [`AUDIT_DECISIONS.md`](AUDIT_DECISIONS.md) and [`VERIFICATION_STATUS.md`](VERIFICATION_STATUS.md).
 
-## Screenshot
+## Dashboard Preview
 
+Explore the five interactive modules of FIFA World Cup Intelligence.
+
+🌍 Overview — World Cup Explorer
+
+Visualize historical tournament statistics, champions, scoring trends, and global football history.
 ![Overview](docs/images/overview.png)
+
+🧪 Team Lab — Comparative Scouting
+
+Compare national teams using Elo ratings, performance metrics, historical trends, and illustrative lineups.
 ![Team Lab](docs/images/team_lab.png)
+
+🎯 Match Predictor — Explainable Probabilities
+
+Explore retrospective 90-minute win, draw, and loss probabilities using a Random Forest classifier.
 ![Match Predictor](docs/images/match_predictor.png)
+
+📊 Model Report — Performance Evaluation
+
+Evaluate predictive accuracy, log loss, calibration, and model limitations against transparent Elo baselines.
 ![Model Report](docs/images/model_report.png)
+
+💡 Insights — From Data to Decisions
+
+Discover historical upsets, scoring patterns, defensive trends, and actionable scouting insights.
 ![Insights](docs/images/insights.png)
