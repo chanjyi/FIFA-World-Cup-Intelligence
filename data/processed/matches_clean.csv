@@ -1,0 +1,1070 @@
+﻿year,date,team_1_raw,team_2_raw,team_1,team_2,goals_1,goals_2,round,group,is_group,score_format,ambiguous_flat_knockout,extra_time,penalty_shootout,source_file,source_row,match_key,result_90,ml_eligible
+1930,1930-07-13,USA,Belgium,United States,Belgium,3.0,0.0,Matchday 1,Group 4,True,ft_object,False,False,False,1930/worldcup.json,12,1930|1930-07-13|Belgium|United States,team_1_win,True
+1930,1930-07-13,France,Mexico,France,Mexico,4.0,1.0,Matchday 1,Group 1,True,ft_object,False,False,False,1930/worldcup.json,0,1930|1930-07-13|France|Mexico,team_1_win,True
+1930,1930-07-14,Yugoslavia,Brazil,Yugoslavia,Brazil,2.0,1.0,Matchday 2,Group 2,True,ft_object,False,False,False,1930/worldcup.json,6,1930|1930-07-14|Brazil|Yugoslavia,team_1_win,True
+1930,1930-07-14,Romania,Peru,Romania,Peru,3.0,1.0,Matchday 2,Group 3,True,ft_object,False,False,False,1930/worldcup.json,9,1930|1930-07-14|Peru|Romania,team_1_win,True
+1930,1930-07-15,Argentina,France,Argentina,France,1.0,0.0,Matchday 3,Group 1,True,ft_object,False,False,False,1930/worldcup.json,1,1930|1930-07-15|Argentina|France,team_1_win,True
+1930,1930-07-16,Chile,Mexico,Chile,Mexico,3.0,0.0,Matchday 4,Group 1,True,ft_object,False,False,False,1930/worldcup.json,2,1930|1930-07-16|Chile|Mexico,team_1_win,True
+1930,1930-07-17,Yugoslavia,Bolivia,Yugoslavia,Bolivia,4.0,0.0,Matchday 5,Group 2,True,ft_object,False,False,False,1930/worldcup.json,7,1930|1930-07-17|Bolivia|Yugoslavia,team_1_win,True
+1930,1930-07-17,USA,Paraguay,United States,Paraguay,3.0,0.0,Matchday 5,Group 4,True,ft_object,False,False,False,1930/worldcup.json,13,1930|1930-07-17|Paraguay|United States,team_1_win,True
+1930,1930-07-18,Uruguay,Peru,Uruguay,Peru,1.0,0.0,Matchday 6,Group 3,True,ft_object,False,False,False,1930/worldcup.json,10,1930|1930-07-18|Peru|Uruguay,team_1_win,True
+1930,1930-07-19,Argentina,Mexico,Argentina,Mexico,6.0,3.0,Matchday 7,Group 1,True,ft_object,False,False,False,1930/worldcup.json,4,1930|1930-07-19|Argentina|Mexico,team_1_win,True
+1930,1930-07-19,Chile,France,Chile,France,1.0,0.0,Matchday 7,Group 1,True,ft_object,False,False,False,1930/worldcup.json,3,1930|1930-07-19|Chile|France,team_1_win,True
+1930,1930-07-20,Paraguay,Belgium,Paraguay,Belgium,1.0,0.0,Matchday 8,Group 4,True,ft_object,False,False,False,1930/worldcup.json,14,1930|1930-07-20|Belgium|Paraguay,team_1_win,True
+1930,1930-07-20,Brazil,Bolivia,Brazil,Bolivia,4.0,0.0,Matchday 8,Group 2,True,ft_object,False,False,False,1930/worldcup.json,8,1930|1930-07-20|Bolivia|Brazil,team_1_win,True
+1930,1930-07-21,Uruguay,Romania,Uruguay,Romania,4.0,0.0,Matchday 9,Group 3,True,ft_object,False,False,False,1930/worldcup.json,11,1930|1930-07-21|Romania|Uruguay,team_1_win,True
+1930,1930-07-22,Argentina,Chile,Argentina,Chile,3.0,1.0,Matchday 10,Group 1,True,ft_object,False,False,False,1930/worldcup.json,5,1930|1930-07-22|Argentina|Chile,team_1_win,True
+1930,1930-07-26,Argentina,USA,Argentina,United States,6.0,1.0,Semi-finals,,False,ft_object,False,False,False,1930/worldcup.json,15,1930|1930-07-26|Argentina|United States,team_1_win,True
+1930,1930-07-27,Uruguay,Yugoslavia,Uruguay,Yugoslavia,6.0,1.0,Semi-finals,,False,ft_object,False,False,False,1930/worldcup.json,16,1930|1930-07-27|Uruguay|Yugoslavia,team_1_win,True
+1930,1930-07-30,Uruguay,Argentina,Uruguay,Argentina,4.0,2.0,Final,,False,ft_object,False,False,False,1930/worldcup.json,17,1930|1930-07-30|Argentina|Uruguay,team_1_win,True
+1934,1934-05-27,Sweden,Argentina,Sweden,Argentina,3.0,2.0,Preliminary round,,False,ft_object,False,False,False,1934/worldcup.json,0,1934|1934-05-27|Argentina|Sweden,team_1_win,True
+1934,1934-05-27,Austria,France,Austria,France,1.0,1.0,Preliminary round,,False,ft_object,False,True,False,1934/worldcup.json,1,1934|1934-05-27|Austria|France,draw,True
+1934,1934-05-27,Germany,Belgium,Germany,Belgium,5.0,2.0,Preliminary round,,False,ft_object,False,False,False,1934/worldcup.json,2,1934|1934-05-27|Belgium|Germany,team_1_win,True
+1934,1934-05-27,Spain,Brazil,Spain,Brazil,3.0,1.0,Preliminary round,,False,ft_object,False,False,False,1934/worldcup.json,3,1934|1934-05-27|Brazil|Spain,team_1_win,True
+1934,1934-05-27,Czechoslovakia,Romania,Czechoslovakia,Romania,2.0,1.0,Preliminary round,,False,ft_object,False,False,False,1934/worldcup.json,7,1934|1934-05-27|Czechoslovakia|Romania,team_1_win,True
+1934,1934-05-27,Hungary,Egypt,Hungary,Egypt,4.0,2.0,Preliminary round,,False,ft_object,False,False,False,1934/worldcup.json,4,1934|1934-05-27|Egypt|Hungary,team_1_win,True
+1934,1934-05-27,Italy,United States,Italy,United States,7.0,1.0,Preliminary round,,False,ft_object,False,False,False,1934/worldcup.json,6,1934|1934-05-27|Italy|United States,team_1_win,True
+1934,1934-05-27,Switzerland,Netherlands,Switzerland,Netherlands,3.0,2.0,Preliminary round,,False,ft_object,False,False,False,1934/worldcup.json,5,1934|1934-05-27|Netherlands|Switzerland,team_1_win,True
+1934,1934-05-31,Austria,Hungary,Austria,Hungary,2.0,1.0,Quarter-finals,,False,ft_object,False,False,False,1934/worldcup.json,11,1934|1934-05-31|Austria|Hungary,team_1_win,True
+1934,1934-05-31,Czechoslovakia,Switzerland,Czechoslovakia,Switzerland,3.0,2.0,Quarter-finals,,False,ft_object,False,False,False,1934/worldcup.json,8,1934|1934-05-31|Czechoslovakia|Switzerland,team_1_win,True
+1934,1934-05-31,Germany,Sweden,Germany,Sweden,2.0,1.0,Quarter-finals,,False,ft_object,False,False,False,1934/worldcup.json,9,1934|1934-05-31|Germany|Sweden,team_1_win,True
+1934,1934-05-31,Italy,Spain,Italy,Spain,1.0,1.0,Quarter-finals,,False,ft_object,False,True,False,1934/worldcup.json,10,1934|1934-05-31|Italy|Spain,draw,True
+1934,1934-06-01,Italy,Spain,Italy,Spain,1.0,0.0,"Quarter-finals, Replays",,False,ft_object,False,False,False,1934/worldcup.json,12,1934|1934-06-01|Italy|Spain,team_1_win,True
+1934,1934-06-03,Italy,Austria,Italy,Austria,1.0,0.0,Semi-finals,,False,ft_object,False,False,False,1934/worldcup.json,13,1934|1934-06-03|Austria|Italy,team_1_win,True
+1934,1934-06-03,Czechoslovakia,Germany,Czechoslovakia,Germany,3.0,1.0,Semi-finals,,False,ft_object,False,False,False,1934/worldcup.json,14,1934|1934-06-03|Czechoslovakia|Germany,team_1_win,True
+1934,1934-06-07,Germany,Austria,Germany,Austria,3.0,2.0,Third-place match,,False,ft_object,False,False,False,1934/worldcup.json,15,1934|1934-06-07|Austria|Germany,team_1_win,True
+1934,1934-06-10,Italy,Czechoslovakia,Italy,Czechoslovakia,1.0,1.0,Final,,False,ft_object,False,True,False,1934/worldcup.json,16,1934|1934-06-10|Czechoslovakia|Italy,draw,True
+1938,1938-06-04,Switzerland,Germany,Switzerland,Germany,1.0,1.0,First round,,False,ft_object,False,True,False,1938/worldcup.json,0,1938|1938-06-04|Germany|Switzerland,draw,True
+1938,1938-06-05,Sweden,Austria,Sweden,Austria,,,First round,,False,missing,False,False,False,1938/worldcup.json,7,1938|1938-06-05|Austria|Sweden,,False
+1938,1938-06-05,France,Belgium,France,Belgium,3.0,1.0,First round,,False,ft_object,False,False,False,1938/worldcup.json,2,1938|1938-06-05|Belgium|France,team_1_win,True
+1938,1938-06-05,Brazil,Poland,Brazil,Poland,4.0,4.0,First round,,False,ft_object,False,True,False,1938/worldcup.json,5,1938|1938-06-05|Brazil|Poland,draw,True
+1938,1938-06-05,Cuba,Romania,Cuba,Romania,2.0,2.0,First round,,False,ft_object,False,True,False,1938/worldcup.json,3,1938|1938-06-05|Cuba|Romania,draw,True
+1938,1938-06-05,Czechoslovakia,Netherlands,Czechoslovakia,Netherlands,0.0,0.0,First round,,False,ft_object,False,True,False,1938/worldcup.json,6,1938|1938-06-05|Czechoslovakia|Netherlands,draw,True
+1938,1938-06-05,Hungary,Dutch East Indies,Hungary,Dutch East Indies,6.0,0.0,First round,,False,ft_object,False,False,False,1938/worldcup.json,1,1938|1938-06-05|Dutch East Indies|Hungary,team_1_win,True
+1938,1938-06-05,Italy,Norway,Italy,Norway,1.0,1.0,First round,,False,ft_object,False,True,False,1938/worldcup.json,4,1938|1938-06-05|Italy|Norway,draw,True
+1938,1938-06-09,Cuba,Romania,Cuba,Romania,2.0,1.0,"First round, Replays",,False,ft_object,False,False,False,1938/worldcup.json,8,1938|1938-06-09|Cuba|Romania,team_1_win,True
+1938,1938-06-09,Germany,Switzerland,Germany,Switzerland,2.0,4.0,"First round, Replays",,False,ft_object,False,False,False,1938/worldcup.json,9,1938|1938-06-09|Germany|Switzerland,team_2_win,True
+1938,1938-06-12,Brazil,Czechoslovakia,Brazil,Czechoslovakia,1.0,1.0,Quarter-finals,,False,ft_object,False,True,False,1938/worldcup.json,10,1938|1938-06-12|Brazil|Czechoslovakia,draw,True
+1938,1938-06-12,Sweden,Cuba,Sweden,Cuba,8.0,0.0,Quarter-finals,,False,ft_object,False,False,False,1938/worldcup.json,12,1938|1938-06-12|Cuba|Sweden,team_1_win,True
+1938,1938-06-12,France,Italy,France,Italy,1.0,3.0,Quarter-finals,,False,ft_object,False,False,False,1938/worldcup.json,13,1938|1938-06-12|France|Italy,team_2_win,True
+1938,1938-06-12,Switzerland,Hungary,Switzerland,Hungary,0.0,2.0,Quarter-finals,,False,ft_object,False,False,False,1938/worldcup.json,11,1938|1938-06-12|Hungary|Switzerland,team_2_win,True
+1938,1938-06-14,Brazil,Czechoslovakia,Brazil,Czechoslovakia,2.0,1.0,"Quarter-finals, Replays",,False,ft_object,False,False,False,1938/worldcup.json,14,1938|1938-06-14|Brazil|Czechoslovakia,team_1_win,True
+1938,1938-06-16,Italy,Brazil,Italy,Brazil,2.0,1.0,Semi-finals,,False,ft_object,False,False,False,1938/worldcup.json,16,1938|1938-06-16|Brazil|Italy,team_1_win,True
+1938,1938-06-16,Hungary,Sweden,Hungary,Sweden,5.0,1.0,Semi-finals,,False,ft_object,False,False,False,1938/worldcup.json,15,1938|1938-06-16|Hungary|Sweden,team_1_win,True
+1938,1938-06-19,Sweden,Brazil,Sweden,Brazil,2.0,4.0,Match for third place,,False,ft_object,False,False,False,1938/worldcup.json,17,1938|1938-06-19|Brazil|Sweden,team_2_win,True
+1938,1938-06-19,Hungary,Italy,Hungary,Italy,2.0,4.0,Final,,False,ft_object,False,False,False,1938/worldcup.json,18,1938|1938-06-19|Hungary|Italy,team_2_win,True
+1950,1950-06-24,Brazil,Mexico,Brazil,Mexico,4.0,0.0,First round,Group 1,True,ft_object,False,False,False,1950/worldcup.json,0,1950|1950-06-24|Brazil|Mexico,team_1_win,True
+1950,1950-06-25,England,Chile,England,Chile,2.0,0.0,First round,Group 2,True,flat_score,False,False,False,1950/worldcup.json,6,1950|1950-06-25|Chile|England,team_1_win,True
+1950,1950-06-25,Sweden,Italy,Sweden,Italy,3.0,2.0,First round,Group 3,True,flat_score,False,False,False,1950/worldcup.json,12,1950|1950-06-25|Italy|Sweden,team_1_win,True
+1950,1950-06-25,Spain,United States,Spain,United States,3.0,1.0,First round,Group 2,True,flat_score,False,False,False,1950/worldcup.json,7,1950|1950-06-25|Spain|United States,team_1_win,True
+1950,1950-06-25,Yugoslavia,Switzerland,Yugoslavia,Switzerland,3.0,0.0,First round,Group 1,True,ft_object,False,False,False,1950/worldcup.json,1,1950|1950-06-25|Switzerland|Yugoslavia,team_1_win,True
+1950,1950-06-28,Brazil,Switzerland,Brazil,Switzerland,2.0,2.0,First round,Group 1,True,ft_object,False,False,False,1950/worldcup.json,2,1950|1950-06-28|Brazil|Switzerland,draw,True
+1950,1950-06-28,Yugoslavia,Mexico,Yugoslavia,Mexico,4.0,1.0,First round,Group 1,True,ft_object,False,False,False,1950/worldcup.json,3,1950|1950-06-28|Mexico|Yugoslavia,team_1_win,True
+1950,1950-06-29,Spain,Chile,Spain,Chile,2.0,0.0,First round,Group 2,True,flat_score,False,False,False,1950/worldcup.json,8,1950|1950-06-29|Chile|Spain,team_1_win,True
+1950,1950-06-29,United States,England,United States,England,1.0,0.0,First round,Group 2,True,flat_score,False,False,False,1950/worldcup.json,9,1950|1950-06-29|England|United States,team_1_win,True
+1950,1950-06-29,Sweden,Paraguay,Sweden,Paraguay,2.0,2.0,First round,Group 3,True,flat_score,False,False,False,1950/worldcup.json,13,1950|1950-06-29|Paraguay|Sweden,draw,True
+1950,1950-07-01,Brazil,Yugoslavia,Brazil,Yugoslavia,2.0,0.0,First round,Group 1,True,ft_object,False,False,False,1950/worldcup.json,4,1950|1950-07-01|Brazil|Yugoslavia,team_1_win,True
+1950,1950-07-02,Uruguay,Bolivia,Uruguay,Bolivia,8.0,0.0,First round,Group 4,True,flat_score,False,False,False,1950/worldcup.json,15,1950|1950-07-02|Bolivia|Uruguay,team_1_win,True
+1950,1950-07-02,Chile,United States,Chile,United States,5.0,2.0,First round,Group 2,True,flat_score,False,False,False,1950/worldcup.json,11,1950|1950-07-02|Chile|United States,team_1_win,True
+1950,1950-07-02,Spain,England,Spain,England,1.0,0.0,First round,Group 2,True,flat_score,False,False,False,1950/worldcup.json,10,1950|1950-07-02|England|Spain,team_1_win,True
+1950,1950-07-02,Italy,Paraguay,Italy,Paraguay,2.0,0.0,First round,Group 3,True,flat_score,False,False,False,1950/worldcup.json,14,1950|1950-07-02|Italy|Paraguay,team_1_win,True
+1950,1950-07-02,Switzerland,Mexico,Switzerland,Mexico,2.0,1.0,First round,Group 1,True,ft_object,False,False,False,1950/worldcup.json,5,1950|1950-07-02|Mexico|Switzerland,team_1_win,True
+1950,1950-07-09,Brazil,Sweden,Brazil,Sweden,7.0,1.0,Final Round,,False,flat_score,True,False,False,1950/worldcup.json,17,1950|1950-07-09|Brazil|Sweden,team_1_win,False
+1950,1950-07-09,Uruguay,Spain,Uruguay,Spain,2.0,2.0,Final Round,,False,flat_score,True,False,False,1950/worldcup.json,16,1950|1950-07-09|Spain|Uruguay,draw,False
+1950,1950-07-13,Brazil,Spain,Brazil,Spain,6.0,1.0,Final Round,,False,flat_score,True,False,False,1950/worldcup.json,18,1950|1950-07-13|Brazil|Spain,team_1_win,False
+1950,1950-07-13,Uruguay,Sweden,Uruguay,Sweden,3.0,2.0,Final Round,,False,flat_score,True,False,False,1950/worldcup.json,19,1950|1950-07-13|Sweden|Uruguay,team_1_win,False
+1950,1950-07-16,Uruguay,Brazil,Uruguay,Brazil,2.0,1.0,Final Round,,False,flat_score,True,False,False,1950/worldcup.json,21,1950|1950-07-16|Brazil|Uruguay,team_1_win,False
+1950,1950-07-16,Sweden,Spain,Sweden,Spain,3.0,1.0,Final Round,,False,flat_score,True,False,False,1950/worldcup.json,20,1950|1950-07-16|Spain|Sweden,team_1_win,False
+1954,1954-06-16,Austria,Scotland,Austria,Scotland,1.0,0.0,Matchday 1,Group 3,True,flat_score,False,False,False,1954/worldcup.json,10,1954|1954-06-16|Austria|Scotland,team_1_win,True
+1954,1954-06-16,Brazil,Mexico,Brazil,Mexico,5.0,0.0,Matchday 1,Group 1,True,flat_score,False,False,False,1954/worldcup.json,0,1954|1954-06-16|Brazil|Mexico,team_1_win,True
+1954,1954-06-16,Uruguay,Czechoslovakia,Uruguay,Czechoslovakia,2.0,0.0,Matchday 1,Group 3,True,flat_score,False,False,False,1954/worldcup.json,9,1954|1954-06-16|Czechoslovakia|Uruguay,team_1_win,True
+1954,1954-06-16,Yugoslavia,France,Yugoslavia,France,1.0,0.0,Matchday 1,Group 1,True,flat_score,False,False,False,1954/worldcup.json,1,1954|1954-06-16|France|Yugoslavia,team_1_win,True
+1954,1954-06-17,England,Belgium,England,Belgium,3.0,3.0,Matchday 1,Group 4,True,ft_object,False,True,False,1954/worldcup.json,13,1954|1954-06-17|Belgium|England,draw,True
+1954,1954-06-17,Hungary,South Korea,Hungary,South Korea,9.0,0.0,Matchday 1,Group 2,True,flat_score,False,False,False,1954/worldcup.json,5,1954|1954-06-17|Hungary|South Korea,team_1_win,True
+1954,1954-06-17,Switzerland,Italy,Switzerland,Italy,2.0,1.0,Matchday 1,Group 4,True,flat_score,False,False,False,1954/worldcup.json,14,1954|1954-06-17|Italy|Switzerland,team_1_win,True
+1954,1954-06-17,West Germany,Turkey,West Germany,Turkey,4.0,1.0,Matchday 1,Group 2,True,flat_score,False,False,False,1954/worldcup.json,4,1954|1954-06-17|Turkey|West Germany,team_1_win,True
+1954,1954-06-19,Austria,Czechoslovakia,Austria,Czechoslovakia,5.0,0.0,Matchday 2,Group 3,True,flat_score,False,False,False,1954/worldcup.json,11,1954|1954-06-19|Austria|Czechoslovakia,team_1_win,True
+1954,1954-06-19,Brazil,Yugoslavia,Brazil,Yugoslavia,1.0,1.0,Matchday 2,Group 1,True,ft_object,False,True,False,1954/worldcup.json,2,1954|1954-06-19|Brazil|Yugoslavia,draw,True
+1954,1954-06-19,France,Mexico,France,Mexico,3.0,2.0,Matchday 2,Group 1,True,flat_score,False,False,False,1954/worldcup.json,3,1954|1954-06-19|France|Mexico,team_1_win,True
+1954,1954-06-19,Uruguay,Scotland,Uruguay,Scotland,7.0,0.0,Matchday 2,Group 3,True,flat_score,False,False,False,1954/worldcup.json,12,1954|1954-06-19|Scotland|Uruguay,team_1_win,True
+1954,1954-06-20,Italy,Belgium,Italy,Belgium,4.0,1.0,Matchday 2,Group 4,True,flat_score,False,False,False,1954/worldcup.json,16,1954|1954-06-20|Belgium|Italy,team_1_win,True
+1954,1954-06-20,England,Switzerland,England,Switzerland,2.0,0.0,Matchday 2,Group 4,True,flat_score,False,False,False,1954/worldcup.json,15,1954|1954-06-20|England|Switzerland,team_1_win,True
+1954,1954-06-20,Hungary,West Germany,Hungary,West Germany,8.0,3.0,Matchday 2,Group 2,True,flat_score,False,False,False,1954/worldcup.json,6,1954|1954-06-20|Hungary|West Germany,team_1_win,True
+1954,1954-06-20,Turkey,South Korea,Turkey,South Korea,7.0,0.0,Matchday 2,Group 2,True,flat_score,False,False,False,1954/worldcup.json,7,1954|1954-06-20|South Korea|Turkey,team_1_win,True
+1954,1954-06-23,Switzerland,Italy,Switzerland,Italy,4.0,1.0,Group 4 Play-off,,False,flat_score,True,False,False,1954/worldcup.json,17,1954|1954-06-23|Italy|Switzerland,team_1_win,False
+1954,1954-06-23,West Germany,Turkey,West Germany,Turkey,7.0,2.0,Group 2 Play-off,,False,flat_score,True,False,False,1954/worldcup.json,8,1954|1954-06-23|Turkey|West Germany,team_1_win,False
+1954,1954-06-26,Austria,Switzerland,Austria,Switzerland,7.0,5.0,Quarter-finals,,False,flat_score,True,False,False,1954/worldcup.json,18,1954|1954-06-26|Austria|Switzerland,team_1_win,False
+1954,1954-06-26,Uruguay,England,Uruguay,England,4.0,2.0,Quarter-finals,,False,flat_score,True,False,False,1954/worldcup.json,19,1954|1954-06-26|England|Uruguay,team_1_win,False
+1954,1954-06-27,Brazil,Hungary,Brazil,Hungary,2.0,4.0,Quarter-finals,,False,flat_score,True,False,False,1954/worldcup.json,21,1954|1954-06-27|Brazil|Hungary,team_2_win,False
+1954,1954-06-27,Yugoslavia,West Germany,Yugoslavia,West Germany,0.0,2.0,Quarter-finals,,False,flat_score,True,False,False,1954/worldcup.json,20,1954|1954-06-27|West Germany|Yugoslavia,team_2_win,False
+1954,1954-06-30,West Germany,Austria,West Germany,Austria,6.0,1.0,Semi-finals,,False,flat_score,True,False,False,1954/worldcup.json,22,1954|1954-06-30|Austria|West Germany,team_1_win,False
+1954,1954-06-30,Hungary,Uruguay,Hungary,Uruguay,2.0,2.0,Semi-finals,,False,ft_object,False,True,False,1954/worldcup.json,23,1954|1954-06-30|Hungary|Uruguay,draw,True
+1954,1954-07-03,Uruguay,Austria,Uruguay,Austria,1.0,3.0,Third-place match,,False,flat_score,True,False,False,1954/worldcup.json,24,1954|1954-07-03|Austria|Uruguay,team_2_win,False
+1954,1954-07-04,Hungary,West Germany,Hungary,West Germany,2.0,3.0,Final,,False,flat_score,True,False,False,1954/worldcup.json,25,1954|1954-07-04|Hungary|West Germany,team_2_win,False
+1958,1958-06-08,West Germany,Argentina,West Germany,Argentina,3.0,1.0,Matchday 1,Group 1,True,flat_score,False,False,False,1958/worldcup.json,0,1958|1958-06-08|Argentina|West Germany,team_1_win,True
+1958,1958-06-08,Brazil,Austria,Brazil,Austria,3.0,0.0,Matchday 1,Group 4,True,flat_score,False,False,False,1958/worldcup.json,20,1958|1958-06-08|Austria|Brazil,team_1_win,True
+1958,1958-06-08,Northern Ireland,Czechoslovakia,Northern Ireland,Czechoslovakia,1.0,0.0,Matchday 1,Group 1,True,flat_score,False,False,False,1958/worldcup.json,1,1958|1958-06-08|Czechoslovakia|Northern Ireland,team_1_win,True
+1958,1958-06-08,Soviet Union,England,Soviet Union,England,2.0,2.0,Matchday 1,Group 4,True,flat_score,False,False,False,1958/worldcup.json,21,1958|1958-06-08|England|Soviet Union,draw,True
+1958,1958-06-08,France,Paraguay,France,Paraguay,7.0,3.0,Matchday 1,Group 2,True,flat_score,False,False,False,1958/worldcup.json,7,1958|1958-06-08|France|Paraguay,team_1_win,True
+1958,1958-06-08,Hungary,Wales,Hungary,Wales,1.0,1.0,Matchday 1,Group 3,True,flat_score,False,False,False,1958/worldcup.json,14,1958|1958-06-08|Hungary|Wales,draw,True
+1958,1958-06-08,Sweden,Mexico,Sweden,Mexico,3.0,0.0,Matchday 1,Group 3,True,flat_score,False,False,False,1958/worldcup.json,13,1958|1958-06-08|Mexico|Sweden,team_1_win,True
+1958,1958-06-08,Yugoslavia,Scotland,Yugoslavia,Scotland,1.0,1.0,Matchday 1,Group 2,True,flat_score,False,False,False,1958/worldcup.json,8,1958|1958-06-08|Scotland|Yugoslavia,draw,True
+1958,1958-06-11,Argentina,Northern Ireland,Argentina,Northern Ireland,3.0,1.0,Matchday 2,Group 1,True,flat_score,False,False,False,1958/worldcup.json,2,1958|1958-06-11|Argentina|Northern Ireland,team_1_win,True
+1958,1958-06-11,Soviet Union,Austria,Soviet Union,Austria,2.0,0.0,Matchday 2,Group 4,True,flat_score,False,False,False,1958/worldcup.json,23,1958|1958-06-11|Austria|Soviet Union,team_1_win,True
+1958,1958-06-11,Brazil,England,Brazil,England,0.0,0.0,Matchday 2,Group 4,True,flat_score,False,False,False,1958/worldcup.json,22,1958|1958-06-11|Brazil|England,draw,True
+1958,1958-06-11,West Germany,Czechoslovakia,West Germany,Czechoslovakia,2.0,2.0,Matchday 2,Group 1,True,flat_score,False,False,False,1958/worldcup.json,3,1958|1958-06-11|Czechoslovakia|West Germany,draw,True
+1958,1958-06-11,Yugoslavia,France,Yugoslavia,France,3.0,2.0,Matchday 2,Group 2,True,flat_score,False,False,False,1958/worldcup.json,9,1958|1958-06-11|France|Yugoslavia,team_1_win,True
+1958,1958-06-11,Mexico,Wales,Mexico,Wales,1.0,1.0,Matchday 2,Group 3,True,flat_score,False,False,False,1958/worldcup.json,15,1958|1958-06-11|Mexico|Wales,draw,True
+1958,1958-06-11,Paraguay,Scotland,Paraguay,Scotland,3.0,2.0,Matchday 2,Group 2,True,flat_score,False,False,False,1958/worldcup.json,10,1958|1958-06-11|Paraguay|Scotland,team_1_win,True
+1958,1958-06-12,Sweden,Hungary,Sweden,Hungary,2.0,1.0,Matchday 2,Group 3,True,flat_score,False,False,False,1958/worldcup.json,16,1958|1958-06-12|Hungary|Sweden,team_1_win,True
+1958,1958-06-15,Czechoslovakia,Argentina,Czechoslovakia,Argentina,6.0,1.0,Matchday 3,Group 1,True,flat_score,False,False,False,1958/worldcup.json,5,1958|1958-06-15|Argentina|Czechoslovakia,team_1_win,True
+1958,1958-06-15,England,Austria,England,Austria,2.0,2.0,Matchday 3,Group 4,True,flat_score,False,False,False,1958/worldcup.json,24,1958|1958-06-15|Austria|England,draw,True
+1958,1958-06-15,Brazil,Soviet Union,Brazil,Soviet Union,2.0,0.0,Matchday 3,Group 4,True,flat_score,False,False,False,1958/worldcup.json,25,1958|1958-06-15|Brazil|Soviet Union,team_1_win,True
+1958,1958-06-15,France,Scotland,France,Scotland,2.0,1.0,Matchday 3,Group 2,True,flat_score,False,False,False,1958/worldcup.json,11,1958|1958-06-15|France|Scotland,team_1_win,True
+1958,1958-06-15,Hungary,Mexico,Hungary,Mexico,4.0,0.0,Matchday 3,Group 3,True,flat_score,False,False,False,1958/worldcup.json,18,1958|1958-06-15|Hungary|Mexico,team_1_win,True
+1958,1958-06-15,West Germany,Northern Ireland,West Germany,Northern Ireland,2.0,2.0,Matchday 3,Group 1,True,flat_score,False,False,False,1958/worldcup.json,4,1958|1958-06-15|Northern Ireland|West Germany,draw,True
+1958,1958-06-15,Paraguay,Yugoslavia,Paraguay,Yugoslavia,3.0,3.0,Matchday 3,Group 2,True,flat_score,False,False,False,1958/worldcup.json,12,1958|1958-06-15|Paraguay|Yugoslavia,draw,True
+1958,1958-06-15,Sweden,Wales,Sweden,Wales,0.0,0.0,Matchday 3,Group 3,True,flat_score,False,False,False,1958/worldcup.json,17,1958|1958-06-15|Sweden|Wales,draw,True
+1958,1958-06-17,Northern Ireland,Czechoslovakia,Northern Ireland,Czechoslovakia,1.0,1.0,Group 1 Play-off,,False,ft_object,False,True,False,1958/worldcup.json,6,1958|1958-06-17|Czechoslovakia|Northern Ireland,draw,True
+1958,1958-06-17,Soviet Union,England,Soviet Union,England,1.0,0.0,Group 4 Play-off,,False,flat_score,True,False,False,1958/worldcup.json,26,1958|1958-06-17|England|Soviet Union,team_1_win,False
+1958,1958-06-17,Wales,Hungary,Wales,Hungary,2.0,1.0,Group 3 Play-off,,False,flat_score,True,False,False,1958/worldcup.json,19,1958|1958-06-17|Hungary|Wales,team_1_win,False
+1958,1958-06-19,Brazil,Wales,Brazil,Wales,1.0,0.0,Quarter-finals,,False,flat_score,True,False,False,1958/worldcup.json,29,1958|1958-06-19|Brazil|Wales,team_1_win,False
+1958,1958-06-19,France,Northern Ireland,France,Northern Ireland,4.0,0.0,Quarter-finals,,False,flat_score,True,False,False,1958/worldcup.json,27,1958|1958-06-19|France|Northern Ireland,team_1_win,False
+1958,1958-06-19,Sweden,Soviet Union,Sweden,Soviet Union,2.0,0.0,Quarter-finals,,False,flat_score,True,False,False,1958/worldcup.json,28,1958|1958-06-19|Soviet Union|Sweden,team_1_win,False
+1958,1958-06-19,West Germany,Yugoslavia,West Germany,Yugoslavia,1.0,0.0,Quarter-finals,,False,flat_score,True,False,False,1958/worldcup.json,30,1958|1958-06-19|West Germany|Yugoslavia,team_1_win,False
+1958,1958-06-24,France,Brazil,France,Brazil,2.0,5.0,Semi-finals,,False,flat_score,True,False,False,1958/worldcup.json,31,1958|1958-06-24|Brazil|France,team_2_win,False
+1958,1958-06-24,West Germany,Sweden,West Germany,Sweden,1.0,3.0,Semi-finals,,False,flat_score,True,False,False,1958/worldcup.json,32,1958|1958-06-24|Sweden|West Germany,team_2_win,False
+1958,1958-06-28,West Germany,France,West Germany,France,3.0,6.0,Match for third place,,False,flat_score,True,False,False,1958/worldcup.json,33,1958|1958-06-28|France|West Germany,team_2_win,False
+1958,1958-06-29,Sweden,Brazil,Sweden,Brazil,2.0,5.0,Final,,False,flat_score,True,False,False,1958/worldcup.json,34,1958|1958-06-29|Brazil|Sweden,team_2_win,False
+1962,1962-05-30,Argentina,Bulgaria,Argentina,Bulgaria,1.0,0.0,Matchday 1,Group 4,True,flat_score,False,False,False,1962/worldcup.json,18,1962|1962-05-30|Argentina|Bulgaria,team_1_win,True
+1962,1962-05-30,Brazil,Mexico,Brazil,Mexico,2.0,0.0,Matchday 1,Group 3,True,flat_score,False,False,False,1962/worldcup.json,12,1962|1962-05-30|Brazil|Mexico,team_1_win,True
+1962,1962-05-30,Chile,Switzerland,Chile,Switzerland,3.0,1.0,Matchday 1,Group 2,True,flat_score,False,False,False,1962/worldcup.json,6,1962|1962-05-30|Chile|Switzerland,team_1_win,True
+1962,1962-05-30,Uruguay,Colombia,Uruguay,Colombia,2.0,1.0,Matchday 1,Group 1,True,flat_score,False,False,False,1962/worldcup.json,0,1962|1962-05-30|Colombia|Uruguay,team_1_win,True
+1962,1962-05-31,Czechoslovakia,Spain,Czechoslovakia,Spain,1.0,0.0,Matchday 1,Group 3,True,flat_score,False,False,False,1962/worldcup.json,13,1962|1962-05-31|Czechoslovakia|Spain,team_1_win,True
+1962,1962-05-31,Hungary,England,Hungary,England,2.0,1.0,Matchday 1,Group 4,True,flat_score,False,False,False,1962/worldcup.json,19,1962|1962-05-31|England|Hungary,team_1_win,True
+1962,1962-05-31,West Germany,Italy,West Germany,Italy,0.0,0.0,Matchday 1,Group 2,True,flat_score,False,False,False,1962/worldcup.json,7,1962|1962-05-31|Italy|West Germany,draw,True
+1962,1962-05-31,Soviet Union,Yugoslavia,Soviet Union,Yugoslavia,2.0,0.0,Matchday 1,Group 1,True,flat_score,False,False,False,1962/worldcup.json,1,1962|1962-05-31|Soviet Union|Yugoslavia,team_1_win,True
+1962,1962-06-02,England,Argentina,England,Argentina,3.0,1.0,Matchday 2,Group 4,True,flat_score,False,False,False,1962/worldcup.json,20,1962|1962-06-02|Argentina|England,team_1_win,True
+1962,1962-06-02,Brazil,Czechoslovakia,Brazil,Czechoslovakia,0.0,0.0,Matchday 2,Group 3,True,flat_score,False,False,False,1962/worldcup.json,14,1962|1962-06-02|Brazil|Czechoslovakia,draw,True
+1962,1962-06-02,Chile,Italy,Chile,Italy,2.0,0.0,Matchday 2,Group 2,True,flat_score,False,False,False,1962/worldcup.json,8,1962|1962-06-02|Chile|Italy,team_1_win,True
+1962,1962-06-02,Yugoslavia,Uruguay,Yugoslavia,Uruguay,3.0,1.0,Matchday 2,Group 1,True,flat_score,False,False,False,1962/worldcup.json,2,1962|1962-06-02|Uruguay|Yugoslavia,team_1_win,True
+1962,1962-06-03,Hungary,Bulgaria,Hungary,Bulgaria,6.0,1.0,Matchday 2,Group 4,True,flat_score,False,False,False,1962/worldcup.json,21,1962|1962-06-03|Bulgaria|Hungary,team_1_win,True
+1962,1962-06-03,Soviet Union,Colombia,Soviet Union,Colombia,4.0,4.0,Matchday 2,Group 1,True,flat_score,False,False,False,1962/worldcup.json,3,1962|1962-06-03|Colombia|Soviet Union,draw,True
+1962,1962-06-03,Spain,Mexico,Spain,Mexico,1.0,0.0,Matchday 2,Group 3,True,flat_score,False,False,False,1962/worldcup.json,15,1962|1962-06-03|Mexico|Spain,team_1_win,True
+1962,1962-06-03,West Germany,Switzerland,West Germany,Switzerland,2.0,1.0,Matchday 2,Group 2,True,flat_score,False,False,False,1962/worldcup.json,9,1962|1962-06-03|Switzerland|West Germany,team_1_win,True
+1962,1962-06-06,Hungary,Argentina,Hungary,Argentina,0.0,0.0,Matchday 3,Group 4,True,flat_score,False,False,False,1962/worldcup.json,22,1962|1962-06-06|Argentina|Hungary,draw,True
+1962,1962-06-06,Brazil,Spain,Brazil,Spain,2.0,1.0,Matchday 3,Group 3,True,flat_score,False,False,False,1962/worldcup.json,16,1962|1962-06-06|Brazil|Spain,team_1_win,True
+1962,1962-06-06,West Germany,Chile,West Germany,Chile,2.0,0.0,Matchday 3,Group 2,True,flat_score,False,False,False,1962/worldcup.json,10,1962|1962-06-06|Chile|West Germany,team_1_win,True
+1962,1962-06-06,Soviet Union,Uruguay,Soviet Union,Uruguay,2.0,1.0,Matchday 3,Group 1,True,flat_score,False,False,False,1962/worldcup.json,4,1962|1962-06-06|Soviet Union|Uruguay,team_1_win,True
+1962,1962-06-07,England,Bulgaria,England,Bulgaria,0.0,0.0,Matchday 3,Group 4,True,flat_score,False,False,False,1962/worldcup.json,23,1962|1962-06-07|Bulgaria|England,draw,True
+1962,1962-06-07,Yugoslavia,Colombia,Yugoslavia,Colombia,5.0,0.0,Matchday 3,Group 1,True,flat_score,False,False,False,1962/worldcup.json,5,1962|1962-06-07|Colombia|Yugoslavia,team_1_win,True
+1962,1962-06-07,Mexico,Czechoslovakia,Mexico,Czechoslovakia,3.0,1.0,Matchday 3,Group 3,True,flat_score,False,False,False,1962/worldcup.json,17,1962|1962-06-07|Czechoslovakia|Mexico,team_1_win,True
+1962,1962-06-07,Italy,Switzerland,Italy,Switzerland,3.0,0.0,Matchday 3,Group 2,True,flat_score,False,False,False,1962/worldcup.json,11,1962|1962-06-07|Italy|Switzerland,team_1_win,True
+1962,1962-06-10,Brazil,England,Brazil,England,3.0,1.0,Quarter-finals,,False,flat_score,True,False,False,1962/worldcup.json,26,1962|1962-06-10|Brazil|England,team_1_win,False
+1962,1962-06-10,Chile,Soviet Union,Chile,Soviet Union,2.0,1.0,Quarter-finals,,False,flat_score,True,False,False,1962/worldcup.json,24,1962|1962-06-10|Chile|Soviet Union,team_1_win,False
+1962,1962-06-10,Czechoslovakia,Hungary,Czechoslovakia,Hungary,1.0,0.0,Quarter-finals,,False,flat_score,True,False,False,1962/worldcup.json,27,1962|1962-06-10|Czechoslovakia|Hungary,team_1_win,False
+1962,1962-06-10,Yugoslavia,West Germany,Yugoslavia,West Germany,1.0,0.0,Quarter-finals,,False,flat_score,True,False,False,1962/worldcup.json,25,1962|1962-06-10|West Germany|Yugoslavia,team_1_win,False
+1962,1962-06-13,Brazil,Chile,Brazil,Chile,4.0,2.0,Semi-finals,,False,flat_score,True,False,False,1962/worldcup.json,28,1962|1962-06-13|Brazil|Chile,team_1_win,False
+1962,1962-06-13,Czechoslovakia,Yugoslavia,Czechoslovakia,Yugoslavia,3.0,1.0,Semi-finals,,False,flat_score,True,False,False,1962/worldcup.json,29,1962|1962-06-13|Czechoslovakia|Yugoslavia,team_1_win,False
+1962,1962-06-16,Chile,Yugoslavia,Chile,Yugoslavia,1.0,0.0,Third-place match,,False,flat_score,True,False,False,1962/worldcup.json,30,1962|1962-06-16|Chile|Yugoslavia,team_1_win,False
+1962,1962-06-17,Brazil,Czechoslovakia,Brazil,Czechoslovakia,3.0,1.0,Final,,False,flat_score,True,False,False,1962/worldcup.json,31,1962|1962-06-17|Brazil|Czechoslovakia,team_1_win,False
+1966,1966-07-11,England,Uruguay,England,Uruguay,0.0,0.0,Matchday 1,Group 1,True,flat_score,False,False,False,1966/worldcup.json,0,1966|1966-07-11|England|Uruguay,draw,True
+1966,1966-07-12,Brazil,Bulgaria,Brazil,Bulgaria,2.0,0.0,Matchday 1,Group 3,True,flat_score,False,False,False,1966/worldcup.json,12,1966|1966-07-12|Brazil|Bulgaria,team_1_win,True
+1966,1966-07-12,Soviet Union,North Korea,Soviet Union,North Korea,3.0,0.0,Matchday 1,Group 4,True,flat_score,False,False,False,1966/worldcup.json,18,1966|1966-07-12|North Korea|Soviet Union,team_1_win,True
+1966,1966-07-12,West Germany,Switzerland,West Germany,Switzerland,5.0,0.0,Matchday 1,Group 2,True,flat_score,False,False,False,1966/worldcup.json,6,1966|1966-07-12|Switzerland|West Germany,team_1_win,True
+1966,1966-07-13,Argentina,Spain,Argentina,Spain,2.0,1.0,Matchday 1,Group 2,True,flat_score,False,False,False,1966/worldcup.json,7,1966|1966-07-13|Argentina|Spain,team_1_win,True
+1966,1966-07-13,Italy,Chile,Italy,Chile,2.0,0.0,Matchday 1,Group 4,True,flat_score,False,False,False,1966/worldcup.json,19,1966|1966-07-13|Chile|Italy,team_1_win,True
+1966,1966-07-13,France,Mexico,France,Mexico,1.0,1.0,Matchday 1,Group 1,True,flat_score,False,False,False,1966/worldcup.json,1,1966|1966-07-13|France|Mexico,draw,True
+1966,1966-07-13,Portugal,Hungary,Portugal,Hungary,3.0,1.0,Matchday 1,Group 3,True,flat_score,False,False,False,1966/worldcup.json,13,1966|1966-07-13|Hungary|Portugal,team_1_win,True
+1966,1966-07-15,Hungary,Brazil,Hungary,Brazil,3.0,1.0,Matchday 2,Group 3,True,flat_score,False,False,False,1966/worldcup.json,14,1966|1966-07-15|Brazil|Hungary,team_1_win,True
+1966,1966-07-15,Chile,North Korea,Chile,North Korea,1.0,1.0,Matchday 2,Group 4,True,flat_score,False,False,False,1966/worldcup.json,20,1966|1966-07-15|Chile|North Korea,draw,True
+1966,1966-07-15,Uruguay,France,Uruguay,France,2.0,1.0,Matchday 2,Group 1,True,flat_score,False,False,False,1966/worldcup.json,2,1966|1966-07-15|France|Uruguay,team_1_win,True
+1966,1966-07-15,Spain,Switzerland,Spain,Switzerland,2.0,1.0,Matchday 2,Group 2,True,flat_score,False,False,False,1966/worldcup.json,8,1966|1966-07-15|Spain|Switzerland,team_1_win,True
+1966,1966-07-16,Argentina,West Germany,Argentina,West Germany,0.0,0.0,Matchday 2,Group 2,True,flat_score,False,False,False,1966/worldcup.json,9,1966|1966-07-16|Argentina|West Germany,draw,True
+1966,1966-07-16,Portugal,Bulgaria,Portugal,Bulgaria,3.0,0.0,Matchday 2,Group 3,True,flat_score,False,False,False,1966/worldcup.json,15,1966|1966-07-16|Bulgaria|Portugal,team_1_win,True
+1966,1966-07-16,England,Mexico,England,Mexico,2.0,0.0,Matchday 2,Group 1,True,flat_score,False,False,False,1966/worldcup.json,3,1966|1966-07-16|England|Mexico,team_1_win,True
+1966,1966-07-16,Soviet Union,Italy,Soviet Union,Italy,1.0,0.0,Matchday 2,Group 4,True,flat_score,False,False,False,1966/worldcup.json,21,1966|1966-07-16|Italy|Soviet Union,team_1_win,True
+1966,1966-07-19,Argentina,Switzerland,Argentina,Switzerland,2.0,0.0,Matchday 3,Group 2,True,flat_score,False,False,False,1966/worldcup.json,10,1966|1966-07-19|Argentina|Switzerland,team_1_win,True
+1966,1966-07-19,Portugal,Brazil,Portugal,Brazil,3.0,1.0,Matchday 3,Group 3,True,flat_score,False,False,False,1966/worldcup.json,16,1966|1966-07-19|Brazil|Portugal,team_1_win,True
+1966,1966-07-19,North Korea,Italy,North Korea,Italy,1.0,0.0,Matchday 3,Group 4,True,flat_score,False,False,False,1966/worldcup.json,22,1966|1966-07-19|Italy|North Korea,team_1_win,True
+1966,1966-07-19,Mexico,Uruguay,Mexico,Uruguay,0.0,0.0,Matchday 3,Group 1,True,flat_score,False,False,False,1966/worldcup.json,4,1966|1966-07-19|Mexico|Uruguay,draw,True
+1966,1966-07-20,Hungary,Bulgaria,Hungary,Bulgaria,3.0,1.0,Matchday 3,Group 3,True,flat_score,False,False,False,1966/worldcup.json,17,1966|1966-07-20|Bulgaria|Hungary,team_1_win,True
+1966,1966-07-20,Soviet Union,Chile,Soviet Union,Chile,2.0,1.0,Matchday 3,Group 4,True,flat_score,False,False,False,1966/worldcup.json,23,1966|1966-07-20|Chile|Soviet Union,team_1_win,True
+1966,1966-07-20,England,France,England,France,2.0,0.0,Matchday 3,Group 1,True,flat_score,False,False,False,1966/worldcup.json,5,1966|1966-07-20|England|France,team_1_win,True
+1966,1966-07-20,West Germany,Spain,West Germany,Spain,2.0,1.0,Matchday 3,Group 2,True,flat_score,False,False,False,1966/worldcup.json,11,1966|1966-07-20|Spain|West Germany,team_1_win,True
+1966,1966-07-23,England,Argentina,England,Argentina,1.0,0.0,Quarter-finals,,False,flat_score,True,False,False,1966/worldcup.json,24,1966|1966-07-23|Argentina|England,team_1_win,False
+1966,1966-07-23,Soviet Union,Hungary,Soviet Union,Hungary,2.0,1.0,Quarter-finals,,False,flat_score,True,False,False,1966/worldcup.json,26,1966|1966-07-23|Hungary|Soviet Union,team_1_win,False
+1966,1966-07-23,Portugal,North Korea,Portugal,North Korea,5.0,3.0,Quarter-finals,,False,flat_score,True,False,False,1966/worldcup.json,27,1966|1966-07-23|North Korea|Portugal,team_1_win,False
+1966,1966-07-23,West Germany,Uruguay,West Germany,Uruguay,4.0,0.0,Quarter-finals,,False,flat_score,True,False,False,1966/worldcup.json,25,1966|1966-07-23|Uruguay|West Germany,team_1_win,False
+1966,1966-07-25,West Germany,Soviet Union,West Germany,Soviet Union,2.0,1.0,Semi-finals,,False,flat_score,True,False,False,1966/worldcup.json,28,1966|1966-07-25|Soviet Union|West Germany,team_1_win,False
+1966,1966-07-26,England,Portugal,England,Portugal,2.0,1.0,Semi-finals,,False,flat_score,True,False,False,1966/worldcup.json,29,1966|1966-07-26|England|Portugal,team_1_win,False
+1966,1966-07-28,Portugal,Soviet Union,Portugal,Soviet Union,2.0,1.0,Third-place match,,False,flat_score,True,False,False,1966/worldcup.json,30,1966|1966-07-28|Portugal|Soviet Union,team_1_win,False
+1966,1966-07-30,England,West Germany,England,West Germany,2.0,2.0,Final,,False,ft_object,False,True,False,1966/worldcup.json,31,1966|1966-07-30|England|West Germany,draw,True
+1970,1970-05-31,Mexico,Soviet Union,Mexico,Soviet Union,0.0,0.0,Matchday 1,Group 1,True,flat_score,False,False,False,1970/worldcup.json,0,1970|1970-05-31|Mexico|Soviet Union,draw,True
+1970,1970-06-02,Peru,Bulgaria,Peru,Bulgaria,3.0,2.0,Matchday 1,Group 4,True,flat_score,False,False,False,1970/worldcup.json,18,1970|1970-06-02|Bulgaria|Peru,team_1_win,True
+1970,1970-06-02,Romania,England,Romania,England,0.0,1.0,Matchday 1,Group 3,True,flat_score,False,False,False,1970/worldcup.json,12,1970|1970-06-02|England|Romania,team_2_win,True
+1970,1970-06-02,Uruguay,Israel,Uruguay,Israel,2.0,0.0,Matchday 1,Group 2,True,flat_score,False,False,False,1970/worldcup.json,6,1970|1970-06-02|Israel|Uruguay,team_1_win,True
+1970,1970-06-03,Belgium,El Salvador,Belgium,El Salvador,3.0,0.0,Matchday 1,Group 1,True,flat_score,False,False,False,1970/worldcup.json,1,1970|1970-06-03|Belgium|El Salvador,team_1_win,True
+1970,1970-06-03,Czechoslovakia,Brazil,Czechoslovakia,Brazil,1.0,4.0,Matchday 1,Group 3,True,flat_score,False,False,False,1970/worldcup.json,13,1970|1970-06-03|Brazil|Czechoslovakia,team_2_win,True
+1970,1970-06-03,Italy,Sweden,Italy,Sweden,1.0,0.0,Matchday 1,Group 2,True,flat_score,False,False,False,1970/worldcup.json,7,1970|1970-06-03|Italy|Sweden,team_1_win,True
+1970,1970-06-03,Morocco,West Germany,Morocco,West Germany,1.0,2.0,Matchday 1,Group 4,True,flat_score,False,False,False,1970/worldcup.json,19,1970|1970-06-03|Morocco|West Germany,team_2_win,True
+1970,1970-06-06,Soviet Union,Belgium,Soviet Union,Belgium,4.0,1.0,Matchday 2,Group 1,True,flat_score,False,False,False,1970/worldcup.json,2,1970|1970-06-06|Belgium|Soviet Union,team_1_win,True
+1970,1970-06-06,Romania,Czechoslovakia,Romania,Czechoslovakia,2.0,1.0,Matchday 2,Group 3,True,flat_score,False,False,False,1970/worldcup.json,14,1970|1970-06-06|Czechoslovakia|Romania,team_1_win,True
+1970,1970-06-06,Uruguay,Italy,Uruguay,Italy,0.0,0.0,Matchday 2,Group 2,True,flat_score,False,False,False,1970/worldcup.json,8,1970|1970-06-06|Italy|Uruguay,draw,True
+1970,1970-06-06,Peru,Morocco,Peru,Morocco,3.0,0.0,Matchday 2,Group 4,True,flat_score,False,False,False,1970/worldcup.json,20,1970|1970-06-06|Morocco|Peru,team_1_win,True
+1970,1970-06-07,England,Brazil,England,Brazil,0.0,1.0,Matchday 2,Group 3,True,flat_score,False,False,False,1970/worldcup.json,15,1970|1970-06-07|Brazil|England,team_2_win,True
+1970,1970-06-07,Bulgaria,West Germany,Bulgaria,West Germany,2.0,5.0,Matchday 2,Group 4,True,flat_score,False,False,False,1970/worldcup.json,21,1970|1970-06-07|Bulgaria|West Germany,team_2_win,True
+1970,1970-06-07,Mexico,El Salvador,Mexico,El Salvador,4.0,0.0,Matchday 2,Group 1,True,flat_score,False,False,False,1970/worldcup.json,3,1970|1970-06-07|El Salvador|Mexico,team_1_win,True
+1970,1970-06-07,Sweden,Israel,Sweden,Israel,1.0,1.0,Matchday 2,Group 2,True,flat_score,False,False,False,1970/worldcup.json,9,1970|1970-06-07|Israel|Sweden,draw,True
+1970,1970-06-10,Romania,Brazil,Romania,Brazil,2.0,3.0,Matchday 3,Group 3,True,flat_score,False,False,False,1970/worldcup.json,16,1970|1970-06-10|Brazil|Romania,team_2_win,True
+1970,1970-06-10,Soviet Union,El Salvador,Soviet Union,El Salvador,2.0,0.0,Matchday 3,Group 1,True,flat_score,False,False,False,1970/worldcup.json,4,1970|1970-06-10|El Salvador|Soviet Union,team_1_win,True
+1970,1970-06-10,Peru,West Germany,Peru,West Germany,1.0,3.0,Matchday 3,Group 4,True,flat_score,False,False,False,1970/worldcup.json,22,1970|1970-06-10|Peru|West Germany,team_2_win,True
+1970,1970-06-10,Uruguay,Sweden,Uruguay,Sweden,0.0,1.0,Matchday 3,Group 2,True,flat_score,False,False,False,1970/worldcup.json,10,1970|1970-06-10|Sweden|Uruguay,team_2_win,True
+1970,1970-06-11,Mexico,Belgium,Mexico,Belgium,1.0,0.0,Matchday 3,Group 1,True,flat_score,False,False,False,1970/worldcup.json,5,1970|1970-06-11|Belgium|Mexico,team_1_win,True
+1970,1970-06-11,Bulgaria,Morocco,Bulgaria,Morocco,1.0,1.0,Matchday 3,Group 4,True,flat_score,False,False,False,1970/worldcup.json,23,1970|1970-06-11|Bulgaria|Morocco,draw,True
+1970,1970-06-11,England,Czechoslovakia,England,Czechoslovakia,1.0,0.0,Matchday 3,Group 3,True,flat_score,False,False,False,1970/worldcup.json,17,1970|1970-06-11|Czechoslovakia|England,team_1_win,True
+1970,1970-06-11,Israel,Italy,Israel,Italy,0.0,0.0,Matchday 3,Group 2,True,flat_score,False,False,False,1970/worldcup.json,11,1970|1970-06-11|Israel|Italy,draw,True
+1970,1970-06-14,Brazil,Peru,Brazil,Peru,4.0,2.0,Quarter-finals,,False,flat_score,True,False,False,1970/worldcup.json,26,1970|1970-06-14|Brazil|Peru,team_1_win,False
+1970,1970-06-14,West Germany,England,West Germany,England,2.0,2.0,Quarter-finals,,False,ft_object,False,True,False,1970/worldcup.json,27,1970|1970-06-14|England|West Germany,draw,True
+1970,1970-06-14,Italy,Mexico,Italy,Mexico,4.0,1.0,Quarter-finals,,False,flat_score,True,False,False,1970/worldcup.json,25,1970|1970-06-14|Italy|Mexico,team_1_win,False
+1970,1970-06-14,Soviet Union,Uruguay,Soviet Union,Uruguay,0.0,0.0,Quarter-finals,,False,ft_object,False,True,False,1970/worldcup.json,24,1970|1970-06-14|Soviet Union|Uruguay,draw,True
+1970,1970-06-17,Uruguay,Brazil,Uruguay,Brazil,1.0,3.0,Semi-finals,,False,flat_score,True,False,False,1970/worldcup.json,28,1970|1970-06-17|Brazil|Uruguay,team_2_win,False
+1970,1970-06-17,Italy,West Germany,Italy,West Germany,1.0,1.0,Semi-finals,,False,ft_object,False,True,False,1970/worldcup.json,29,1970|1970-06-17|Italy|West Germany,draw,True
+1970,1970-06-20,Uruguay,West Germany,Uruguay,West Germany,0.0,1.0,Match for third place,,False,flat_score,True,False,False,1970/worldcup.json,30,1970|1970-06-20|Uruguay|West Germany,team_2_win,False
+1970,1970-06-21,Brazil,Italy,Brazil,Italy,4.0,1.0,Final,,False,flat_score,True,False,False,1970/worldcup.json,31,1970|1970-06-21|Brazil|Italy,team_1_win,False
+1974,1974-06-13,Brazil,Yugoslavia,Brazil,Yugoslavia,0.0,0.0,Matchday 1,Group 2,True,flat_score,False,False,False,1974/worldcup.json,6,1974|1974-06-13|Brazil|Yugoslavia,draw,True
+1974,1974-06-14,East Germany,Australia,East Germany,Australia,2.0,0.0,Matchday 1,Group 1,True,flat_score,False,False,False,1974/worldcup.json,1,1974|1974-06-14|Australia|East Germany,team_1_win,True
+1974,1974-06-14,West Germany,Chile,West Germany,Chile,1.0,0.0,Matchday 1,Group 1,True,flat_score,False,False,False,1974/worldcup.json,0,1974|1974-06-14|Chile|West Germany,team_1_win,True
+1974,1974-06-14,Zaire,Scotland,Zaire,Scotland,0.0,2.0,Matchday 1,Group 2,True,flat_score,False,False,False,1974/worldcup.json,7,1974|1974-06-14|Scotland|Zaire,team_2_win,True
+1974,1974-06-15,Poland,Argentina,Poland,Argentina,3.0,2.0,Matchday 1,Group 4,True,flat_score,False,False,False,1974/worldcup.json,19,1974|1974-06-15|Argentina|Poland,team_1_win,True
+1974,1974-06-15,Sweden,Bulgaria,Sweden,Bulgaria,0.0,0.0,Matchday 1,Group 3,True,flat_score,False,False,False,1974/worldcup.json,13,1974|1974-06-15|Bulgaria|Sweden,draw,True
+1974,1974-06-15,Italy,Haiti,Italy,Haiti,3.0,1.0,Matchday 1,Group 4,True,flat_score,False,False,False,1974/worldcup.json,18,1974|1974-06-15|Haiti|Italy,team_1_win,True
+1974,1974-06-15,Uruguay,Netherlands,Uruguay,Netherlands,0.0,2.0,Matchday 1,Group 3,True,flat_score,False,False,False,1974/worldcup.json,12,1974|1974-06-15|Netherlands|Uruguay,team_2_win,True
+1974,1974-06-18,Australia,West Germany,Australia,West Germany,0.0,3.0,Matchday 2,Group 1,True,flat_score,False,False,False,1974/worldcup.json,3,1974|1974-06-18|Australia|West Germany,team_2_win,True
+1974,1974-06-18,Scotland,Brazil,Scotland,Brazil,0.0,0.0,Matchday 2,Group 2,True,flat_score,False,False,False,1974/worldcup.json,9,1974|1974-06-18|Brazil|Scotland,draw,True
+1974,1974-06-18,Chile,East Germany,Chile,East Germany,1.0,1.0,Matchday 2,Group 1,True,flat_score,False,False,False,1974/worldcup.json,2,1974|1974-06-18|Chile|East Germany,draw,True
+1974,1974-06-18,Yugoslavia,Zaire,Yugoslavia,Zaire,9.0,0.0,Matchday 2,Group 2,True,flat_score,False,False,False,1974/worldcup.json,8,1974|1974-06-18|Yugoslavia|Zaire,team_1_win,True
+1974,1974-06-19,Argentina,Italy,Argentina,Italy,1.0,1.0,Matchday 2,Group 4,True,flat_score,False,False,False,1974/worldcup.json,21,1974|1974-06-19|Argentina|Italy,draw,True
+1974,1974-06-19,Uruguay,Bulgaria,Uruguay,Bulgaria,1.0,1.0,Matchday 2,Group 3,True,flat_score,False,False,False,1974/worldcup.json,15,1974|1974-06-19|Bulgaria|Uruguay,draw,True
+1974,1974-06-19,Haiti,Poland,Haiti,Poland,0.0,7.0,Matchday 2,Group 4,True,flat_score,False,False,False,1974/worldcup.json,20,1974|1974-06-19|Haiti|Poland,team_2_win,True
+1974,1974-06-19,Netherlands,Sweden,Netherlands,Sweden,0.0,0.0,Matchday 2,Group 3,True,flat_score,False,False,False,1974/worldcup.json,14,1974|1974-06-19|Netherlands|Sweden,draw,True
+1974,1974-06-22,Australia,Chile,Australia,Chile,0.0,0.0,Matchday 3,Group 1,True,flat_score,False,False,False,1974/worldcup.json,4,1974|1974-06-22|Australia|Chile,draw,True
+1974,1974-06-22,Zaire,Brazil,Zaire,Brazil,0.0,3.0,Matchday 3,Group 2,True,flat_score,False,False,False,1974/worldcup.json,11,1974|1974-06-22|Brazil|Zaire,team_2_win,True
+1974,1974-06-22,East Germany,West Germany,East Germany,West Germany,1.0,0.0,Matchday 3,Group 1,True,flat_score,False,False,False,1974/worldcup.json,5,1974|1974-06-22|East Germany|West Germany,team_1_win,True
+1974,1974-06-22,Scotland,Yugoslavia,Scotland,Yugoslavia,1.0,1.0,Matchday 3,Group 2,True,flat_score,False,False,False,1974/worldcup.json,10,1974|1974-06-22|Scotland|Yugoslavia,draw,True
+1974,1974-06-23,Argentina,Haiti,Argentina,Haiti,4.0,1.0,Matchday 3,Group 4,True,flat_score,False,False,False,1974/worldcup.json,22,1974|1974-06-23|Argentina|Haiti,team_1_win,True
+1974,1974-06-23,Netherlands,Bulgaria,Netherlands,Bulgaria,4.0,1.0,Matchday 3,Group 3,True,flat_score,False,False,False,1974/worldcup.json,16,1974|1974-06-23|Bulgaria|Netherlands,team_1_win,True
+1974,1974-06-23,Poland,Italy,Poland,Italy,2.0,1.0,Matchday 3,Group 4,True,flat_score,False,False,False,1974/worldcup.json,23,1974|1974-06-23|Italy|Poland,team_1_win,True
+1974,1974-06-23,Sweden,Uruguay,Sweden,Uruguay,3.0,0.0,Matchday 3,Group 3,True,flat_score,False,False,False,1974/worldcup.json,17,1974|1974-06-23|Sweden|Uruguay,team_1_win,True
+1974,1974-06-26,Netherlands,Argentina,Netherlands,Argentina,4.0,0.0,Matchday 4,Group A,True,flat_score,False,False,False,1974/worldcup.json,25,1974|1974-06-26|Argentina|Netherlands,team_1_win,True
+1974,1974-06-26,Brazil,East Germany,Brazil,East Germany,1.0,0.0,Matchday 4,Group A,True,flat_score,False,False,False,1974/worldcup.json,24,1974|1974-06-26|Brazil|East Germany,team_1_win,True
+1974,1974-06-26,Sweden,Poland,Sweden,Poland,0.0,1.0,Matchday 4,Group B,True,flat_score,False,False,False,1974/worldcup.json,31,1974|1974-06-26|Poland|Sweden,team_2_win,True
+1974,1974-06-26,Yugoslavia,West Germany,Yugoslavia,West Germany,0.0,2.0,Matchday 4,Group B,True,flat_score,False,False,False,1974/worldcup.json,30,1974|1974-06-26|West Germany|Yugoslavia,team_2_win,True
+1974,1974-06-30,Argentina,Brazil,Argentina,Brazil,1.0,2.0,Matchday 5,Group A,True,flat_score,False,False,False,1974/worldcup.json,27,1974|1974-06-30|Argentina|Brazil,team_2_win,True
+1974,1974-06-30,East Germany,Netherlands,East Germany,Netherlands,0.0,2.0,Matchday 5,Group A,True,flat_score,False,False,False,1974/worldcup.json,26,1974|1974-06-30|East Germany|Netherlands,team_2_win,True
+1974,1974-06-30,Poland,Yugoslavia,Poland,Yugoslavia,2.0,1.0,Matchday 5,Group B,True,flat_score,False,False,False,1974/worldcup.json,33,1974|1974-06-30|Poland|Yugoslavia,team_1_win,True
+1974,1974-06-30,West Germany,Sweden,West Germany,Sweden,4.0,2.0,Matchday 5,Group B,True,flat_score,False,False,False,1974/worldcup.json,32,1974|1974-06-30|Sweden|West Germany,team_1_win,True
+1974,1974-07-03,Argentina,East Germany,Argentina,East Germany,1.0,1.0,Matchday 6,Group A,True,flat_score,False,False,False,1974/worldcup.json,28,1974|1974-07-03|Argentina|East Germany,draw,True
+1974,1974-07-03,Netherlands,Brazil,Netherlands,Brazil,2.0,0.0,Matchday 6,Group A,True,flat_score,False,False,False,1974/worldcup.json,29,1974|1974-07-03|Brazil|Netherlands,team_1_win,True
+1974,1974-07-03,Poland,West Germany,Poland,West Germany,0.0,1.0,Matchday 6,Group B,True,flat_score,False,False,False,1974/worldcup.json,34,1974|1974-07-03|Poland|West Germany,team_2_win,True
+1974,1974-07-03,Sweden,Yugoslavia,Sweden,Yugoslavia,2.0,1.0,Matchday 6,Group B,True,flat_score,False,False,False,1974/worldcup.json,35,1974|1974-07-03|Sweden|Yugoslavia,team_1_win,True
+1974,1974-07-06,Brazil,Poland,Brazil,Poland,0.0,1.0,Match for third place,,False,flat_score,True,False,False,1974/worldcup.json,36,1974|1974-07-06|Brazil|Poland,team_2_win,False
+1974,1974-07-07,Netherlands,West Germany,Netherlands,West Germany,1.0,2.0,Final,,False,flat_score,True,False,False,1974/worldcup.json,37,1974|1974-07-07|Netherlands|West Germany,team_2_win,False
+1978,1978-06-01,West Germany,Poland,West Germany,Poland,0.0,0.0,Matchday 1,Group 2,True,flat_score,False,False,False,1978/worldcup.json,6,1978|1978-06-01|Poland|West Germany,draw,True
+1978,1978-06-02,Argentina,Hungary,Argentina,Hungary,2.0,1.0,Matchday 1,Group 1,True,flat_score,False,False,False,1978/worldcup.json,0,1978|1978-06-02|Argentina|Hungary,team_1_win,True
+1978,1978-06-02,Italy,France,Italy,France,2.0,1.0,Matchday 1,Group 1,True,flat_score,False,False,False,1978/worldcup.json,1,1978|1978-06-02|France|Italy,team_1_win,True
+1978,1978-06-02,Tunisia,Mexico,Tunisia,Mexico,3.0,1.0,Matchday 1,Group 2,True,flat_score,False,False,False,1978/worldcup.json,7,1978|1978-06-02|Mexico|Tunisia,team_1_win,True
+1978,1978-06-03,Austria,Spain,Austria,Spain,2.0,1.0,Matchday 1,Group 3,True,flat_score,False,False,False,1978/worldcup.json,12,1978|1978-06-03|Austria|Spain,team_1_win,True
+1978,1978-06-03,Brazil,Sweden,Brazil,Sweden,1.0,1.0,Matchday 1,Group 3,True,flat_score,False,False,False,1978/worldcup.json,13,1978|1978-06-03|Brazil|Sweden,draw,True
+1978,1978-06-03,Netherlands,Iran,Netherlands,Iran,3.0,0.0,Matchday 1,Group 4,True,flat_score,False,False,False,1978/worldcup.json,19,1978|1978-06-03|Iran|Netherlands,team_1_win,True
+1978,1978-06-03,Peru,Scotland,Peru,Scotland,3.0,1.0,Matchday 1,Group 4,True,flat_score,False,False,False,1978/worldcup.json,18,1978|1978-06-03|Peru|Scotland,team_1_win,True
+1978,1978-06-06,Argentina,France,Argentina,France,2.0,1.0,Matchday 2,Group 1,True,flat_score,False,False,False,1978/worldcup.json,2,1978|1978-06-06|Argentina|France,team_1_win,True
+1978,1978-06-06,Italy,Hungary,Italy,Hungary,3.0,1.0,Matchday 2,Group 1,True,flat_score,False,False,False,1978/worldcup.json,3,1978|1978-06-06|Hungary|Italy,team_1_win,True
+1978,1978-06-06,West Germany,Mexico,West Germany,Mexico,6.0,0.0,Matchday 2,Group 2,True,flat_score,False,False,False,1978/worldcup.json,9,1978|1978-06-06|Mexico|West Germany,team_1_win,True
+1978,1978-06-06,Poland,Tunisia,Poland,Tunisia,1.0,0.0,Matchday 2,Group 2,True,flat_score,False,False,False,1978/worldcup.json,8,1978|1978-06-06|Poland|Tunisia,team_1_win,True
+1978,1978-06-07,Austria,Sweden,Austria,Sweden,1.0,0.0,Matchday 2,Group 3,True,flat_score,False,False,False,1978/worldcup.json,14,1978|1978-06-07|Austria|Sweden,team_1_win,True
+1978,1978-06-07,Brazil,Spain,Brazil,Spain,0.0,0.0,Matchday 2,Group 3,True,flat_score,False,False,False,1978/worldcup.json,15,1978|1978-06-07|Brazil|Spain,draw,True
+1978,1978-06-07,Scotland,Iran,Scotland,Iran,1.0,1.0,Matchday 2,Group 4,True,flat_score,False,False,False,1978/worldcup.json,20,1978|1978-06-07|Iran|Scotland,draw,True
+1978,1978-06-07,Netherlands,Peru,Netherlands,Peru,0.0,0.0,Matchday 2,Group 4,True,flat_score,False,False,False,1978/worldcup.json,21,1978|1978-06-07|Netherlands|Peru,draw,True
+1978,1978-06-10,Argentina,Italy,Argentina,Italy,0.0,1.0,Matchday 3,Group 1,True,flat_score,False,False,False,1978/worldcup.json,4,1978|1978-06-10|Argentina|Italy,team_2_win,True
+1978,1978-06-10,France,Hungary,France,Hungary,3.0,1.0,Matchday 3,Group 1,True,flat_score,False,False,False,1978/worldcup.json,5,1978|1978-06-10|France|Hungary,team_1_win,True
+1978,1978-06-10,Poland,Mexico,Poland,Mexico,3.0,1.0,Matchday 3,Group 2,True,flat_score,False,False,False,1978/worldcup.json,10,1978|1978-06-10|Mexico|Poland,team_1_win,True
+1978,1978-06-10,West Germany,Tunisia,West Germany,Tunisia,0.0,0.0,Matchday 3,Group 2,True,flat_score,False,False,False,1978/worldcup.json,11,1978|1978-06-10|Tunisia|West Germany,draw,True
+1978,1978-06-11,Brazil,Austria,Brazil,Austria,1.0,0.0,Matchday 3,Group 3,True,flat_score,False,False,False,1978/worldcup.json,17,1978|1978-06-11|Austria|Brazil,team_1_win,True
+1978,1978-06-11,Peru,Iran,Peru,Iran,4.0,1.0,Matchday 3,Group 4,True,flat_score,False,False,False,1978/worldcup.json,22,1978|1978-06-11|Iran|Peru,team_1_win,True
+1978,1978-06-11,Scotland,Netherlands,Scotland,Netherlands,3.0,2.0,Matchday 3,Group 4,True,flat_score,False,False,False,1978/worldcup.json,23,1978|1978-06-11|Netherlands|Scotland,team_1_win,True
+1978,1978-06-11,Spain,Sweden,Spain,Sweden,1.0,0.0,Matchday 3,Group 3,True,flat_score,False,False,False,1978/worldcup.json,16,1978|1978-06-11|Spain|Sweden,team_1_win,True
+1978,1978-06-14,Argentina,Poland,Argentina,Poland,2.0,0.0,Matchday 4,Group B,True,flat_score,False,False,False,1978/worldcup.json,30,1978|1978-06-14|Argentina|Poland,team_1_win,True
+1978,1978-06-14,Austria,Netherlands,Austria,Netherlands,1.0,5.0,Matchday 4,Group A,True,flat_score,False,False,False,1978/worldcup.json,25,1978|1978-06-14|Austria|Netherlands,team_2_win,True
+1978,1978-06-14,Peru,Brazil,Peru,Brazil,0.0,3.0,Matchday 4,Group B,True,flat_score,False,False,False,1978/worldcup.json,31,1978|1978-06-14|Brazil|Peru,team_2_win,True
+1978,1978-06-14,Italy,West Germany,Italy,West Germany,0.0,0.0,Matchday 4,Group A,True,flat_score,False,False,False,1978/worldcup.json,24,1978|1978-06-14|Italy|West Germany,draw,True
+1978,1978-06-18,Argentina,Brazil,Argentina,Brazil,0.0,0.0,Matchday 5,Group B,True,flat_score,False,False,False,1978/worldcup.json,32,1978|1978-06-18|Argentina|Brazil,draw,True
+1978,1978-06-18,Italy,Austria,Italy,Austria,1.0,0.0,Matchday 5,Group A,True,flat_score,False,False,False,1978/worldcup.json,26,1978|1978-06-18|Austria|Italy,team_1_win,True
+1978,1978-06-18,Netherlands,West Germany,Netherlands,West Germany,2.0,2.0,Matchday 5,Group A,True,flat_score,False,False,False,1978/worldcup.json,27,1978|1978-06-18|Netherlands|West Germany,draw,True
+1978,1978-06-18,Peru,Poland,Peru,Poland,0.0,1.0,Matchday 5,Group B,True,flat_score,False,False,False,1978/worldcup.json,33,1978|1978-06-18|Peru|Poland,team_2_win,True
+1978,1978-06-21,Argentina,Peru,Argentina,Peru,6.0,0.0,Matchday 6,Group B,True,flat_score,False,False,False,1978/worldcup.json,34,1978|1978-06-21|Argentina|Peru,team_1_win,True
+1978,1978-06-21,Austria,West Germany,Austria,West Germany,3.0,2.0,Matchday 6,Group A,True,flat_score,False,False,False,1978/worldcup.json,29,1978|1978-06-21|Austria|West Germany,team_1_win,True
+1978,1978-06-21,Poland,Brazil,Poland,Brazil,1.0,3.0,Matchday 6,Group B,True,flat_score,False,False,False,1978/worldcup.json,35,1978|1978-06-21|Brazil|Poland,team_2_win,True
+1978,1978-06-21,Italy,Netherlands,Italy,Netherlands,1.0,2.0,Matchday 6,Group A,True,flat_score,False,False,False,1978/worldcup.json,28,1978|1978-06-21|Italy|Netherlands,team_2_win,True
+1978,1978-06-24,Brazil,Italy,Brazil,Italy,2.0,1.0,Third place match,,False,flat_score,True,False,False,1978/worldcup.json,36,1978|1978-06-24|Brazil|Italy,team_1_win,False
+1978,1978-06-25,Netherlands,Argentina,Netherlands,Argentina,1.0,1.0,Final,,False,ft_object,False,True,False,1978/worldcup.json,37,1978|1978-06-25|Argentina|Netherlands,draw,True
+1982,1982-06-13,Argentina,Belgium,Argentina,Belgium,0.0,1.0,Matchday 1,Group 3,True,flat_score,False,False,False,1982/worldcup.json,12,1982|1982-06-13|Argentina|Belgium,team_2_win,True
+1982,1982-06-14,Brazil,Soviet Union,Brazil,Soviet Union,2.0,1.0,Matchday 1,Group 6,True,flat_score,False,False,False,1982/worldcup.json,30,1982|1982-06-14|Brazil|Soviet Union,team_1_win,True
+1982,1982-06-14,Italy,Poland,Italy,Poland,0.0,0.0,Matchday 1,Group 1,True,flat_score,False,False,False,1982/worldcup.json,0,1982|1982-06-14|Italy|Poland,draw,True
+1982,1982-06-15,Peru,Cameroon,Peru,Cameroon,0.0,0.0,Matchday 1,Group 1,True,flat_score,False,False,False,1982/worldcup.json,1,1982|1982-06-15|Cameroon|Peru,draw,True
+1982,1982-06-15,Hungary,El Salvador,Hungary,El Salvador,10.0,1.0,Matchday 1,Group 3,True,flat_score,False,False,False,1982/worldcup.json,13,1982|1982-06-15|El Salvador|Hungary,team_1_win,True
+1982,1982-06-15,Scotland,New Zealand,Scotland,New Zealand,5.0,2.0,Matchday 1,Group 6,True,flat_score,False,False,False,1982/worldcup.json,31,1982|1982-06-15|New Zealand|Scotland,team_1_win,True
+1982,1982-06-16,West Germany,Algeria,West Germany,Algeria,1.0,2.0,Matchday 1,Group 2,True,flat_score,False,False,False,1982/worldcup.json,6,1982|1982-06-16|Algeria|West Germany,team_2_win,True
+1982,1982-06-16,England,France,England,France,3.0,1.0,Matchday 1,Group 4,True,flat_score,False,False,False,1982/worldcup.json,18,1982|1982-06-16|England|France,team_1_win,True
+1982,1982-06-16,Spain,Honduras,Spain,Honduras,1.0,1.0,Matchday 1,Group 5,True,flat_score,False,False,False,1982/worldcup.json,24,1982|1982-06-16|Honduras|Spain,draw,True
+1982,1982-06-17,Chile,Austria,Chile,Austria,0.0,1.0,Matchday 1,Group 2,True,flat_score,False,False,False,1982/worldcup.json,7,1982|1982-06-17|Austria|Chile,team_2_win,True
+1982,1982-06-17,Czechoslovakia,Kuwait,Czechoslovakia,Kuwait,1.0,1.0,Matchday 1,Group 4,True,flat_score,False,False,False,1982/worldcup.json,19,1982|1982-06-17|Czechoslovakia|Kuwait,draw,True
+1982,1982-06-17,Yugoslavia,Northern Ireland,Yugoslavia,Northern Ireland,0.0,0.0,Matchday 1,Group 5,True,flat_score,False,False,False,1982/worldcup.json,25,1982|1982-06-17|Northern Ireland|Yugoslavia,draw,True
+1982,1982-06-18,Argentina,Hungary,Argentina,Hungary,4.0,1.0,Matchday 2,Group 3,True,flat_score,False,False,False,1982/worldcup.json,14,1982|1982-06-18|Argentina|Hungary,team_1_win,True
+1982,1982-06-18,Brazil,Scotland,Brazil,Scotland,4.0,1.0,Matchday 2,Group 6,True,flat_score,False,False,False,1982/worldcup.json,32,1982|1982-06-18|Brazil|Scotland,team_1_win,True
+1982,1982-06-18,Italy,Peru,Italy,Peru,1.0,1.0,Matchday 2,Group 1,True,flat_score,False,False,False,1982/worldcup.json,2,1982|1982-06-18|Italy|Peru,draw,True
+1982,1982-06-19,Belgium,El Salvador,Belgium,El Salvador,1.0,0.0,Matchday 2,Group 3,True,flat_score,False,False,False,1982/worldcup.json,15,1982|1982-06-19|Belgium|El Salvador,team_1_win,True
+1982,1982-06-19,Poland,Cameroon,Poland,Cameroon,0.0,0.0,Matchday 2,Group 1,True,flat_score,False,False,False,1982/worldcup.json,3,1982|1982-06-19|Cameroon|Poland,draw,True
+1982,1982-06-19,Soviet Union,New Zealand,Soviet Union,New Zealand,3.0,0.0,Matchday 2,Group 6,True,flat_score,False,False,False,1982/worldcup.json,33,1982|1982-06-19|New Zealand|Soviet Union,team_1_win,True
+1982,1982-06-20,West Germany,Chile,West Germany,Chile,4.0,1.0,Matchday 2,Group 2,True,flat_score,False,False,False,1982/worldcup.json,8,1982|1982-06-20|Chile|West Germany,team_1_win,True
+1982,1982-06-20,England,Czechoslovakia,England,Czechoslovakia,2.0,0.0,Matchday 2,Group 4,True,flat_score,False,False,False,1982/worldcup.json,20,1982|1982-06-20|Czechoslovakia|England,team_1_win,True
+1982,1982-06-20,Spain,Yugoslavia,Spain,Yugoslavia,2.0,1.0,Matchday 2,Group 5,True,flat_score,False,False,False,1982/worldcup.json,26,1982|1982-06-20|Spain|Yugoslavia,team_1_win,True
+1982,1982-06-21,Algeria,Austria,Algeria,Austria,0.0,2.0,Matchday 2,Group 2,True,flat_score,False,False,False,1982/worldcup.json,9,1982|1982-06-21|Algeria|Austria,team_2_win,True
+1982,1982-06-21,France,Kuwait,France,Kuwait,4.0,1.0,Matchday 2,Group 4,True,flat_score,False,False,False,1982/worldcup.json,21,1982|1982-06-21|France|Kuwait,team_1_win,True
+1982,1982-06-21,Honduras,Northern Ireland,Honduras,Northern Ireland,1.0,1.0,Matchday 2,Group 5,True,flat_score,False,False,False,1982/worldcup.json,27,1982|1982-06-21|Honduras|Northern Ireland,draw,True
+1982,1982-06-22,Belgium,Hungary,Belgium,Hungary,1.0,1.0,Matchday 3,Group 3,True,flat_score,False,False,False,1982/worldcup.json,16,1982|1982-06-22|Belgium|Hungary,draw,True
+1982,1982-06-22,Poland,Peru,Poland,Peru,5.0,1.0,Matchday 3,Group 1,True,flat_score,False,False,False,1982/worldcup.json,4,1982|1982-06-22|Peru|Poland,team_1_win,True
+1982,1982-06-22,Soviet Union,Scotland,Soviet Union,Scotland,2.0,2.0,Matchday 3,Group 6,True,flat_score,False,False,False,1982/worldcup.json,34,1982|1982-06-22|Scotland|Soviet Union,draw,True
+1982,1982-06-23,Argentina,El Salvador,Argentina,El Salvador,2.0,0.0,Matchday 3,Group 3,True,flat_score,False,False,False,1982/worldcup.json,17,1982|1982-06-23|Argentina|El Salvador,team_1_win,True
+1982,1982-06-23,Brazil,New Zealand,Brazil,New Zealand,4.0,0.0,Matchday 3,Group 6,True,flat_score,False,False,False,1982/worldcup.json,35,1982|1982-06-23|Brazil|New Zealand,team_1_win,True
+1982,1982-06-23,Italy,Cameroon,Italy,Cameroon,1.0,1.0,Matchday 3,Group 1,True,flat_score,False,False,False,1982/worldcup.json,5,1982|1982-06-23|Cameroon|Italy,draw,True
+1982,1982-06-24,Algeria,Chile,Algeria,Chile,3.0,2.0,Matchday 3,Group 2,True,flat_score,False,False,False,1982/worldcup.json,10,1982|1982-06-24|Algeria|Chile,team_1_win,True
+1982,1982-06-24,France,Czechoslovakia,France,Czechoslovakia,1.0,1.0,Matchday 3,Group 4,True,flat_score,False,False,False,1982/worldcup.json,22,1982|1982-06-24|Czechoslovakia|France,draw,True
+1982,1982-06-24,Honduras,Yugoslavia,Honduras,Yugoslavia,0.0,1.0,Matchday 3,Group 5,True,flat_score,False,False,False,1982/worldcup.json,28,1982|1982-06-24|Honduras|Yugoslavia,team_2_win,True
+1982,1982-06-25,West Germany,Austria,West Germany,Austria,1.0,0.0,Matchday 3,Group 2,True,flat_score,False,False,False,1982/worldcup.json,11,1982|1982-06-25|Austria|West Germany,team_1_win,True
+1982,1982-06-25,England,Kuwait,England,Kuwait,1.0,0.0,Matchday 3,Group 4,True,flat_score,False,False,False,1982/worldcup.json,23,1982|1982-06-25|England|Kuwait,team_1_win,True
+1982,1982-06-25,Spain,Northern Ireland,Spain,Northern Ireland,0.0,1.0,Matchday 3,Group 5,True,flat_score,False,False,False,1982/worldcup.json,29,1982|1982-06-25|Northern Ireland|Spain,team_2_win,True
+1982,1982-06-28,Austria,France,Austria,France,0.0,1.0,Matchday 4,Group D,True,flat_score,False,False,False,1982/worldcup.json,45,1982|1982-06-28|Austria|France,team_2_win,True
+1982,1982-06-28,Poland,Belgium,Poland,Belgium,3.0,0.0,Matchday 4,Group A,True,flat_score,False,False,False,1982/worldcup.json,36,1982|1982-06-28|Belgium|Poland,team_1_win,True
+1982,1982-06-29,Italy,Argentina,Italy,Argentina,2.0,1.0,Matchday 4,Group C,True,flat_score,False,False,False,1982/worldcup.json,42,1982|1982-06-29|Argentina|Italy,team_1_win,True
+1982,1982-06-29,West Germany,England,West Germany,England,0.0,0.0,Matchday 4,Group B,True,flat_score,False,False,False,1982/worldcup.json,39,1982|1982-06-29|England|West Germany,draw,True
+1982,1982-07-01,Austria,Northern Ireland,Austria,Northern Ireland,2.0,2.0,Matchday 5,Group D,True,flat_score,False,False,False,1982/worldcup.json,46,1982|1982-07-01|Austria|Northern Ireland,draw,True
+1982,1982-07-01,Belgium,Soviet Union,Belgium,Soviet Union,0.0,1.0,Matchday 5,Group A,True,flat_score,False,False,False,1982/worldcup.json,37,1982|1982-07-01|Belgium|Soviet Union,team_2_win,True
+1982,1982-07-02,Argentina,Brazil,Argentina,Brazil,1.0,3.0,Matchday 5,Group C,True,flat_score,False,False,False,1982/worldcup.json,43,1982|1982-07-02|Argentina|Brazil,team_2_win,True
+1982,1982-07-02,West Germany,Spain,West Germany,Spain,2.0,1.0,Matchday 5,Group B,True,flat_score,False,False,False,1982/worldcup.json,40,1982|1982-07-02|Spain|West Germany,team_1_win,True
+1982,1982-07-04,Northern Ireland,France,Northern Ireland,France,1.0,4.0,Matchday 6,Group D,True,flat_score,False,False,False,1982/worldcup.json,47,1982|1982-07-04|France|Northern Ireland,team_2_win,True
+1982,1982-07-04,Soviet Union,Poland,Soviet Union,Poland,0.0,0.0,Matchday 6,Group A,True,flat_score,False,False,False,1982/worldcup.json,38,1982|1982-07-04|Poland|Soviet Union,draw,True
+1982,1982-07-05,Italy,Brazil,Italy,Brazil,3.0,2.0,Matchday 6,Group C,True,flat_score,False,False,False,1982/worldcup.json,44,1982|1982-07-05|Brazil|Italy,team_1_win,True
+1982,1982-07-05,Spain,England,Spain,England,0.0,0.0,Matchday 6,Group B,True,flat_score,False,False,False,1982/worldcup.json,41,1982|1982-07-05|England|Spain,draw,True
+1982,1982-07-08,West Germany,France,West Germany,France,1.0,1.0,Semi-finals,,False,ft_object,False,True,True,1982/worldcup.json,49,1982|1982-07-08|France|West Germany,draw,True
+1982,1982-07-08,Poland,Italy,Poland,Italy,0.0,2.0,Semi-finals,,False,flat_score,True,False,False,1982/worldcup.json,48,1982|1982-07-08|Italy|Poland,team_2_win,False
+1982,1982-07-10,Poland,France,Poland,France,3.0,2.0,Third place match,,False,flat_score,True,False,False,1982/worldcup.json,50,1982|1982-07-10|France|Poland,team_1_win,False
+1982,1982-07-11,Italy,West Germany,Italy,West Germany,3.0,1.0,Final,,False,flat_score,True,False,False,1982/worldcup.json,51,1982|1982-07-11|Italy|West Germany,team_1_win,False
+1986,1986-05-31,Bulgaria,Italy,Bulgaria,Italy,1.0,1.0,Matchday 1,Group A,True,flat_score,False,False,False,1986/worldcup.json,0,1986|1986-05-31|Bulgaria|Italy,draw,True
+1986,1986-06-01,Spain,Brazil,Spain,Brazil,0.0,1.0,Matchday 1,Group D,True,flat_score,False,False,False,1986/worldcup.json,18,1986|1986-06-01|Brazil|Spain,team_2_win,True
+1986,1986-06-01,Canada,France,Canada,France,0.0,1.0,Matchday 1,Group C,True,flat_score,False,False,False,1986/worldcup.json,12,1986|1986-06-01|Canada|France,team_2_win,True
+1986,1986-06-02,Argentina,South Korea,Argentina,South Korea,3.0,1.0,Matchday 1,Group A,True,flat_score,False,False,False,1986/worldcup.json,1,1986|1986-06-02|Argentina|South Korea,team_1_win,True
+1986,1986-06-02,Soviet Union,Hungary,Soviet Union,Hungary,6.0,0.0,Matchday 1,Group C,True,flat_score,False,False,False,1986/worldcup.json,13,1986|1986-06-02|Hungary|Soviet Union,team_1_win,True
+1986,1986-06-02,Morocco,Poland,Morocco,Poland,0.0,0.0,Matchday 1,Group F,True,flat_score,False,False,False,1986/worldcup.json,30,1986|1986-06-02|Morocco|Poland,draw,True
+1986,1986-06-03,Algeria,Northern Ireland,Algeria,Northern Ireland,1.0,1.0,Matchday 1,Group D,True,flat_score,False,False,False,1986/worldcup.json,19,1986|1986-06-03|Algeria|Northern Ireland,draw,True
+1986,1986-06-03,Belgium,Mexico,Belgium,Mexico,1.0,2.0,Matchday 1,Group B,True,flat_score,False,False,False,1986/worldcup.json,6,1986|1986-06-03|Belgium|Mexico,team_2_win,True
+1986,1986-06-03,Portugal,England,Portugal,England,1.0,0.0,Matchday 1,Group F,True,flat_score,False,False,False,1986/worldcup.json,31,1986|1986-06-03|England|Portugal,team_1_win,True
+1986,1986-06-04,Scotland,Denmark,Scotland,Denmark,0.0,1.0,Matchday 1,Group E,True,flat_score,False,False,False,1986/worldcup.json,25,1986|1986-06-04|Denmark|Scotland,team_2_win,True
+1986,1986-06-04,Paraguay,Iraq,Paraguay,Iraq,1.0,0.0,Matchday 1,Group B,True,flat_score,False,False,False,1986/worldcup.json,7,1986|1986-06-04|Iraq|Paraguay,team_1_win,True
+1986,1986-06-04,Uruguay,West Germany,Uruguay,West Germany,1.0,1.0,Matchday 1,Group E,True,flat_score,False,False,False,1986/worldcup.json,24,1986|1986-06-04|Uruguay|West Germany,draw,True
+1986,1986-06-05,Italy,Argentina,Italy,Argentina,1.0,1.0,Matchday 2,Group A,True,flat_score,False,False,False,1986/worldcup.json,2,1986|1986-06-05|Argentina|Italy,draw,True
+1986,1986-06-05,South Korea,Bulgaria,South Korea,Bulgaria,1.0,1.0,Matchday 2,Group A,True,flat_score,False,False,False,1986/worldcup.json,3,1986|1986-06-05|Bulgaria|South Korea,draw,True
+1986,1986-06-05,France,Soviet Union,France,Soviet Union,1.0,1.0,Matchday 2,Group C,True,flat_score,False,False,False,1986/worldcup.json,14,1986|1986-06-05|France|Soviet Union,draw,True
+1986,1986-06-06,Brazil,Algeria,Brazil,Algeria,1.0,0.0,Matchday 2,Group D,True,flat_score,False,False,False,1986/worldcup.json,20,1986|1986-06-06|Algeria|Brazil,team_1_win,True
+1986,1986-06-06,Hungary,Canada,Hungary,Canada,2.0,0.0,Matchday 2,Group C,True,flat_score,False,False,False,1986/worldcup.json,15,1986|1986-06-06|Canada|Hungary,team_1_win,True
+1986,1986-06-06,England,Morocco,England,Morocco,0.0,0.0,Matchday 2,Group F,True,flat_score,False,False,False,1986/worldcup.json,32,1986|1986-06-06|England|Morocco,draw,True
+1986,1986-06-07,Mexico,Paraguay,Mexico,Paraguay,1.0,1.0,Matchday 2,Group B,True,flat_score,False,False,False,1986/worldcup.json,8,1986|1986-06-07|Mexico|Paraguay,draw,True
+1986,1986-06-07,Northern Ireland,Spain,Northern Ireland,Spain,1.0,2.0,Matchday 2,Group D,True,flat_score,False,False,False,1986/worldcup.json,21,1986|1986-06-07|Northern Ireland|Spain,team_2_win,True
+1986,1986-06-07,Poland,Portugal,Poland,Portugal,1.0,0.0,Matchday 2,Group F,True,flat_score,False,False,False,1986/worldcup.json,33,1986|1986-06-07|Poland|Portugal,team_1_win,True
+1986,1986-06-08,Iraq,Belgium,Iraq,Belgium,1.0,2.0,Matchday 2,Group B,True,flat_score,False,False,False,1986/worldcup.json,9,1986|1986-06-08|Belgium|Iraq,team_2_win,True
+1986,1986-06-08,Denmark,Uruguay,Denmark,Uruguay,6.0,1.0,Matchday 2,Group E,True,flat_score,False,False,False,1986/worldcup.json,27,1986|1986-06-08|Denmark|Uruguay,team_1_win,True
+1986,1986-06-08,West Germany,Scotland,West Germany,Scotland,2.0,1.0,Matchday 2,Group E,True,flat_score,False,False,False,1986/worldcup.json,26,1986|1986-06-08|Scotland|West Germany,team_1_win,True
+1986,1986-06-09,Soviet Union,Canada,Soviet Union,Canada,2.0,0.0,Matchday 3,Group C,True,flat_score,False,False,False,1986/worldcup.json,17,1986|1986-06-09|Canada|Soviet Union,team_1_win,True
+1986,1986-06-09,Hungary,France,Hungary,France,0.0,3.0,Matchday 3,Group C,True,flat_score,False,False,False,1986/worldcup.json,16,1986|1986-06-09|France|Hungary,team_2_win,True
+1986,1986-06-10,Argentina,Bulgaria,Argentina,Bulgaria,2.0,0.0,Matchday 3,Group A,True,flat_score,False,False,False,1986/worldcup.json,5,1986|1986-06-10|Argentina|Bulgaria,team_1_win,True
+1986,1986-06-10,South Korea,Italy,South Korea,Italy,2.0,3.0,Matchday 3,Group A,True,flat_score,False,False,False,1986/worldcup.json,4,1986|1986-06-10|Italy|South Korea,team_2_win,True
+1986,1986-06-11,Paraguay,Belgium,Paraguay,Belgium,2.0,2.0,Matchday 3,Group B,True,flat_score,False,False,False,1986/worldcup.json,11,1986|1986-06-11|Belgium|Paraguay,draw,True
+1986,1986-06-11,England,Poland,England,Poland,3.0,0.0,Matchday 3,Group F,True,flat_score,False,False,False,1986/worldcup.json,35,1986|1986-06-11|England|Poland,team_1_win,True
+1986,1986-06-11,Iraq,Mexico,Iraq,Mexico,0.0,1.0,Matchday 3,Group B,True,flat_score,False,False,False,1986/worldcup.json,10,1986|1986-06-11|Iraq|Mexico,team_2_win,True
+1986,1986-06-11,Portugal,Morocco,Portugal,Morocco,1.0,3.0,Matchday 3,Group F,True,flat_score,False,False,False,1986/worldcup.json,34,1986|1986-06-11|Morocco|Portugal,team_2_win,True
+1986,1986-06-12,Algeria,Spain,Algeria,Spain,0.0,3.0,Matchday 3,Group D,True,flat_score,False,False,False,1986/worldcup.json,23,1986|1986-06-12|Algeria|Spain,team_2_win,True
+1986,1986-06-12,Northern Ireland,Brazil,Northern Ireland,Brazil,0.0,3.0,Matchday 3,Group D,True,flat_score,False,False,False,1986/worldcup.json,22,1986|1986-06-12|Brazil|Northern Ireland,team_2_win,True
+1986,1986-06-13,Denmark,West Germany,Denmark,West Germany,2.0,0.0,Matchday 3,Group E,True,flat_score,False,False,False,1986/worldcup.json,28,1986|1986-06-13|Denmark|West Germany,team_1_win,True
+1986,1986-06-13,Scotland,Uruguay,Scotland,Uruguay,0.0,0.0,Matchday 3,Group E,True,flat_score,False,False,False,1986/worldcup.json,29,1986|1986-06-13|Scotland|Uruguay,draw,True
+1986,1986-06-15,Soviet Union,Belgium,Soviet Union,Belgium,2.0,2.0,Round of 16,,False,ft_object,False,True,False,1986/worldcup.json,37,1986|1986-06-15|Belgium|Soviet Union,draw,True
+1986,1986-06-15,Mexico,Bulgaria,Mexico,Bulgaria,2.0,0.0,Round of 16,,False,flat_score,True,False,False,1986/worldcup.json,36,1986|1986-06-15|Bulgaria|Mexico,team_1_win,False
+1986,1986-06-16,Argentina,Uruguay,Argentina,Uruguay,1.0,0.0,Round of 16,,False,flat_score,True,False,False,1986/worldcup.json,38,1986|1986-06-16|Argentina|Uruguay,team_1_win,False
+1986,1986-06-16,Brazil,Poland,Brazil,Poland,4.0,0.0,Round of 16,,False,flat_score,True,False,False,1986/worldcup.json,39,1986|1986-06-16|Brazil|Poland,team_1_win,False
+1986,1986-06-17,Italy,France,Italy,France,0.0,2.0,Round of 16,,False,flat_score,True,False,False,1986/worldcup.json,40,1986|1986-06-17|France|Italy,team_2_win,False
+1986,1986-06-17,Morocco,West Germany,Morocco,West Germany,0.0,1.0,Round of 16,,False,flat_score,True,False,False,1986/worldcup.json,41,1986|1986-06-17|Morocco|West Germany,team_2_win,False
+1986,1986-06-18,Denmark,Spain,Denmark,Spain,1.0,5.0,Round of 16,,False,flat_score,True,False,False,1986/worldcup.json,43,1986|1986-06-18|Denmark|Spain,team_2_win,False
+1986,1986-06-18,England,Paraguay,England,Paraguay,3.0,0.0,Round of 16,,False,flat_score,True,False,False,1986/worldcup.json,42,1986|1986-06-18|England|Paraguay,team_1_win,False
+1986,1986-06-21,Brazil,France,Brazil,France,1.0,1.0,Quarter-finals,,False,ft_object,False,True,True,1986/worldcup.json,44,1986|1986-06-21|Brazil|France,draw,True
+1986,1986-06-21,West Germany,Mexico,West Germany,Mexico,0.0,0.0,Quarter-finals,,False,ft_object,False,True,True,1986/worldcup.json,45,1986|1986-06-21|Mexico|West Germany,draw,True
+1986,1986-06-22,Argentina,England,Argentina,England,2.0,1.0,Quarter-finals,,False,flat_score,True,False,False,1986/worldcup.json,47,1986|1986-06-22|Argentina|England,team_1_win,False
+1986,1986-06-22,Spain,Belgium,Spain,Belgium,1.0,1.0,Quarter-finals,,False,ft_object,False,True,True,1986/worldcup.json,46,1986|1986-06-22|Belgium|Spain,draw,True
+1986,1986-06-25,Argentina,Belgium,Argentina,Belgium,2.0,0.0,Semi-finals,,False,flat_score,True,False,False,1986/worldcup.json,48,1986|1986-06-25|Argentina|Belgium,team_1_win,False
+1986,1986-06-25,France,West Germany,France,West Germany,0.0,2.0,Semi-finals,,False,flat_score,True,False,False,1986/worldcup.json,49,1986|1986-06-25|France|West Germany,team_2_win,False
+1986,1986-06-28,France,Belgium,France,Belgium,2.0,2.0,Third place match,,False,ft_object,False,True,False,1986/worldcup.json,50,1986|1986-06-28|Belgium|France,draw,True
+1986,1986-06-29,Argentina,West Germany,Argentina,West Germany,3.0,2.0,Final,,False,flat_score,True,False,False,1986/worldcup.json,51,1986|1986-06-29|Argentina|West Germany,team_1_win,False
+1990,1990-06-08,Argentina,Cameroon,Argentina,Cameroon,0.0,1.0,Matchday 1,Group B,True,flat_score,False,False,False,1990/worldcup.json,6,1990|1990-06-08|Argentina|Cameroon,team_2_win,True
+1990,1990-06-09,Italy,Austria,Italy,Austria,1.0,0.0,Matchday 1,Group A,True,flat_score,False,False,False,1990/worldcup.json,0,1990|1990-06-09|Austria|Italy,team_1_win,True
+1990,1990-06-09,United Arab Emirates,Colombia,United Arab Emirates,Colombia,0.0,2.0,Matchday 1,Group D,True,flat_score,False,False,False,1990/worldcup.json,18,1990|1990-06-09|Colombia|United Arab Emirates,team_2_win,True
+1990,1990-06-09,Soviet Union,Romania,Soviet Union,Romania,0.0,2.0,Matchday 1,Group B,True,flat_score,False,False,False,1990/worldcup.json,7,1990|1990-06-09|Romania|Soviet Union,team_2_win,True
+1990,1990-06-10,Brazil,Sweden,Brazil,Sweden,2.0,1.0,Matchday 1,Group C,True,flat_score,False,False,False,1990/worldcup.json,12,1990|1990-06-10|Brazil|Sweden,team_1_win,True
+1990,1990-06-10,United States,Czechoslovakia,United States,Czechoslovakia,1.0,5.0,Matchday 1,Group A,True,flat_score,False,False,False,1990/worldcup.json,1,1990|1990-06-10|Czechoslovakia|United States,team_2_win,True
+1990,1990-06-10,West Germany,Yugoslavia,West Germany,Yugoslavia,4.0,1.0,Matchday 1,Group D,True,flat_score,False,False,False,1990/worldcup.json,19,1990|1990-06-10|West Germany|Yugoslavia,team_1_win,True
+1990,1990-06-11,Costa Rica,Scotland,Costa Rica,Scotland,1.0,0.0,Matchday 1,Group C,True,flat_score,False,False,False,1990/worldcup.json,13,1990|1990-06-11|Costa Rica|Scotland,team_1_win,True
+1990,1990-06-11,England,Ireland,England,Ireland,1.0,1.0,Matchday 1,Group F,True,flat_score,False,False,False,1990/worldcup.json,30,1990|1990-06-11|England|Ireland,draw,True
+1990,1990-06-12,Belgium,South Korea,Belgium,South Korea,2.0,0.0,Matchday 1,Group E,True,flat_score,False,False,False,1990/worldcup.json,24,1990|1990-06-12|Belgium|South Korea,team_1_win,True
+1990,1990-06-12,Netherlands,Egypt,Netherlands,Egypt,1.0,1.0,Matchday 1,Group F,True,flat_score,False,False,False,1990/worldcup.json,31,1990|1990-06-12|Egypt|Netherlands,draw,True
+1990,1990-06-13,Argentina,Soviet Union,Argentina,Soviet Union,2.0,0.0,Matchday 1,Group B,True,flat_score,False,False,False,1990/worldcup.json,8,1990|1990-06-13|Argentina|Soviet Union,team_1_win,True
+1990,1990-06-13,Uruguay,Spain,Uruguay,Spain,0.0,0.0,Matchday 1,Group E,True,flat_score,False,False,False,1990/worldcup.json,25,1990|1990-06-13|Spain|Uruguay,draw,True
+1990,1990-06-14,Cameroon,Romania,Cameroon,Romania,2.0,1.0,Matchday 2,Group B,True,flat_score,False,False,False,1990/worldcup.json,9,1990|1990-06-14|Cameroon|Romania,team_1_win,True
+1990,1990-06-14,Yugoslavia,Colombia,Yugoslavia,Colombia,1.0,0.0,Matchday 2,Group D,True,flat_score,False,False,False,1990/worldcup.json,20,1990|1990-06-14|Colombia|Yugoslavia,team_1_win,True
+1990,1990-06-14,Italy,United States,Italy,United States,1.0,0.0,Matchday 2,Group A,True,flat_score,False,False,False,1990/worldcup.json,2,1990|1990-06-14|Italy|United States,team_1_win,True
+1990,1990-06-15,Austria,Czechoslovakia,Austria,Czechoslovakia,0.0,1.0,Matchday 2,Group A,True,flat_score,False,False,False,1990/worldcup.json,3,1990|1990-06-15|Austria|Czechoslovakia,team_2_win,True
+1990,1990-06-15,West Germany,United Arab Emirates,West Germany,United Arab Emirates,5.0,1.0,Matchday 2,Group D,True,flat_score,False,False,False,1990/worldcup.json,21,1990|1990-06-15|United Arab Emirates|West Germany,team_1_win,True
+1990,1990-06-16,Brazil,Costa Rica,Brazil,Costa Rica,1.0,0.0,Matchday 2,Group C,True,flat_score,False,False,False,1990/worldcup.json,14,1990|1990-06-16|Brazil|Costa Rica,team_1_win,True
+1990,1990-06-16,England,Netherlands,England,Netherlands,0.0,0.0,Matchday 2,Group F,True,flat_score,False,False,False,1990/worldcup.json,32,1990|1990-06-16|England|Netherlands,draw,True
+1990,1990-06-16,Sweden,Scotland,Sweden,Scotland,1.0,2.0,Matchday 2,Group C,True,flat_score,False,False,False,1990/worldcup.json,15,1990|1990-06-16|Scotland|Sweden,team_2_win,True
+1990,1990-06-17,Belgium,Uruguay,Belgium,Uruguay,3.0,1.0,Matchday 2,Group E,True,flat_score,False,False,False,1990/worldcup.json,26,1990|1990-06-17|Belgium|Uruguay,team_1_win,True
+1990,1990-06-17,Ireland,Egypt,Ireland,Egypt,0.0,0.0,Matchday 2,Group F,True,flat_score,False,False,False,1990/worldcup.json,33,1990|1990-06-17|Egypt|Ireland,draw,True
+1990,1990-06-17,South Korea,Spain,South Korea,Spain,1.0,3.0,Matchday 2,Group E,True,flat_score,False,False,False,1990/worldcup.json,27,1990|1990-06-17|South Korea|Spain,team_2_win,True
+1990,1990-06-18,Argentina,Romania,Argentina,Romania,1.0,1.0,Matchday 3,Group B,True,flat_score,False,False,False,1990/worldcup.json,10,1990|1990-06-18|Argentina|Romania,draw,True
+1990,1990-06-18,Cameroon,Soviet Union,Cameroon,Soviet Union,0.0,4.0,Matchday 3,Group B,True,flat_score,False,False,False,1990/worldcup.json,11,1990|1990-06-18|Cameroon|Soviet Union,team_2_win,True
+1990,1990-06-19,Austria,United States,Austria,United States,2.0,1.0,Matchday 3,Group A,True,flat_score,False,False,False,1990/worldcup.json,5,1990|1990-06-19|Austria|United States,team_1_win,True
+1990,1990-06-19,West Germany,Colombia,West Germany,Colombia,1.0,1.0,Matchday 3,Group D,True,flat_score,False,False,False,1990/worldcup.json,22,1990|1990-06-19|Colombia|West Germany,draw,True
+1990,1990-06-19,Italy,Czechoslovakia,Italy,Czechoslovakia,2.0,0.0,Matchday 3,Group A,True,flat_score,False,False,False,1990/worldcup.json,4,1990|1990-06-19|Czechoslovakia|Italy,team_1_win,True
+1990,1990-06-19,Yugoslavia,United Arab Emirates,Yugoslavia,United Arab Emirates,4.0,1.0,Matchday 3,Group D,True,flat_score,False,False,False,1990/worldcup.json,23,1990|1990-06-19|United Arab Emirates|Yugoslavia,team_1_win,True
+1990,1990-06-20,Brazil,Scotland,Brazil,Scotland,1.0,0.0,Matchday 3,Group C,True,flat_score,False,False,False,1990/worldcup.json,16,1990|1990-06-20|Brazil|Scotland,team_1_win,True
+1990,1990-06-20,Sweden,Costa Rica,Sweden,Costa Rica,1.0,2.0,Matchday 3,Group C,True,flat_score,False,False,False,1990/worldcup.json,17,1990|1990-06-20|Costa Rica|Sweden,team_2_win,True
+1990,1990-06-21,Belgium,Spain,Belgium,Spain,1.0,2.0,Matchday 3,Group E,True,flat_score,False,False,False,1990/worldcup.json,28,1990|1990-06-21|Belgium|Spain,team_2_win,True
+1990,1990-06-21,England,Egypt,England,Egypt,1.0,0.0,Matchday 3,Group F,True,flat_score,False,False,False,1990/worldcup.json,34,1990|1990-06-21|Egypt|England,team_1_win,True
+1990,1990-06-21,Ireland,Netherlands,Ireland,Netherlands,1.0,1.0,Matchday 3,Group F,True,flat_score,False,False,False,1990/worldcup.json,35,1990|1990-06-21|Ireland|Netherlands,draw,True
+1990,1990-06-21,South Korea,Uruguay,South Korea,Uruguay,0.0,1.0,Matchday 3,Group E,True,flat_score,False,False,False,1990/worldcup.json,29,1990|1990-06-21|South Korea|Uruguay,team_2_win,True
+1990,1990-06-23,Cameroon,Colombia,Cameroon,Colombia,0.0,0.0,Round of 16,,False,ft_object,False,True,False,1990/worldcup.json,36,1990|1990-06-23|Cameroon|Colombia,draw,True
+1990,1990-06-23,Czechoslovakia,Costa Rica,Czechoslovakia,Costa Rica,4.0,1.0,Round of 16,,False,flat_score,True,False,False,1990/worldcup.json,37,1990|1990-06-23|Costa Rica|Czechoslovakia,team_1_win,False
+1990,1990-06-24,Brazil,Argentina,Brazil,Argentina,0.0,1.0,Round of 16,,False,flat_score,True,False,False,1990/worldcup.json,38,1990|1990-06-24|Argentina|Brazil,team_2_win,False
+1990,1990-06-24,West Germany,Netherlands,West Germany,Netherlands,2.0,1.0,Round of 16,,False,flat_score,True,False,False,1990/worldcup.json,39,1990|1990-06-24|Netherlands|West Germany,team_1_win,False
+1990,1990-06-25,Ireland,Romania,Ireland,Romania,0.0,0.0,Round of 16,,False,ft_object,False,True,True,1990/worldcup.json,40,1990|1990-06-25|Ireland|Romania,draw,True
+1990,1990-06-25,Italy,Uruguay,Italy,Uruguay,2.0,0.0,Round of 16,,False,flat_score,True,False,False,1990/worldcup.json,41,1990|1990-06-25|Italy|Uruguay,team_1_win,False
+1990,1990-06-26,England,Belgium,England,Belgium,0.0,0.0,Round of 16,,False,ft_object,False,True,False,1990/worldcup.json,43,1990|1990-06-26|Belgium|England,draw,True
+1990,1990-06-26,Spain,Yugoslavia,Spain,Yugoslavia,1.0,1.0,Round of 16,,False,ft_object,False,True,False,1990/worldcup.json,42,1990|1990-06-26|Spain|Yugoslavia,draw,True
+1990,1990-06-30,Yugoslavia,Argentina,Yugoslavia,Argentina,0.0,0.0,Quarter-finals,,False,ft_object,False,True,True,1990/worldcup.json,44,1990|1990-06-30|Argentina|Yugoslavia,draw,True
+1990,1990-06-30,Italy,Ireland,Italy,Ireland,1.0,0.0,Quarter-finals,,False,flat_score,True,False,False,1990/worldcup.json,45,1990|1990-06-30|Ireland|Italy,team_1_win,False
+1990,1990-07-01,England,Cameroon,England,Cameroon,2.0,2.0,Quarter-finals,,False,ft_object,False,True,False,1990/worldcup.json,47,1990|1990-07-01|Cameroon|England,draw,True
+1990,1990-07-01,West Germany,Czechoslovakia,West Germany,Czechoslovakia,1.0,0.0,Quarter-finals,,False,flat_score,True,False,False,1990/worldcup.json,46,1990|1990-07-01|Czechoslovakia|West Germany,team_1_win,False
+1990,1990-07-03,Italy,Argentina,Italy,Argentina,1.0,1.0,Semi-finals,,False,ft_object,False,True,True,1990/worldcup.json,48,1990|1990-07-03|Argentina|Italy,draw,True
+1990,1990-07-04,West Germany,England,West Germany,England,1.0,1.0,Semi-finals,,False,ft_object,False,True,True,1990/worldcup.json,49,1990|1990-07-04|England|West Germany,draw,True
+1990,1990-07-07,Italy,England,Italy,England,2.0,1.0,Third place match,,False,flat_score,True,False,False,1990/worldcup.json,50,1990|1990-07-07|England|Italy,team_1_win,False
+1990,1990-07-08,West Germany,Argentina,West Germany,Argentina,1.0,0.0,Final,,False,flat_score,True,False,False,1990/worldcup.json,51,1990|1990-07-08|Argentina|West Germany,team_1_win,False
+1994,1994-06-17,Germany,Bolivia,Germany,Bolivia,1.0,0.0,Matchday 1,Group C,True,flat_score,False,False,False,1994/worldcup.json,12,1994|1994-06-17|Bolivia|Germany,team_1_win,True
+1994,1994-06-17,Spain,South Korea,Spain,South Korea,2.0,2.0,Matchday 1,Group C,True,flat_score,False,False,False,1994/worldcup.json,13,1994|1994-06-17|South Korea|Spain,draw,True
+1994,1994-06-18,Colombia,Romania,Colombia,Romania,1.0,3.0,Matchday 1,Group A,True,flat_score,False,False,False,1994/worldcup.json,1,1994|1994-06-18|Colombia|Romania,team_2_win,True
+1994,1994-06-18,Italy,Ireland,Italy,Ireland,0.0,1.0,Matchday 1,Group E,True,flat_score,False,False,False,1994/worldcup.json,24,1994|1994-06-18|Ireland|Italy,team_2_win,True
+1994,1994-06-18,USA,Switzerland,United States,Switzerland,1.0,1.0,Matchday 1,Group A,True,flat_score,False,False,False,1994/worldcup.json,0,1994|1994-06-18|Switzerland|United States,draw,True
+1994,1994-06-19,Belgium,Morocco,Belgium,Morocco,1.0,0.0,Matchday 1,Group F,True,flat_score,False,False,False,1994/worldcup.json,30,1994|1994-06-19|Belgium|Morocco,team_1_win,True
+1994,1994-06-19,Cameroon,Sweden,Cameroon,Sweden,2.0,2.0,Matchday 1,Group B,True,flat_score,False,False,False,1994/worldcup.json,6,1994|1994-06-19|Cameroon|Sweden,draw,True
+1994,1994-06-19,Norway,Mexico,Norway,Mexico,1.0,0.0,Matchday 1,Group E,True,flat_score,False,False,False,1994/worldcup.json,25,1994|1994-06-19|Mexico|Norway,team_1_win,True
+1994,1994-06-20,Brazil,Russia,Brazil,Russia,2.0,0.0,Matchday 1,Group B,True,flat_score,False,False,False,1994/worldcup.json,7,1994|1994-06-20|Brazil|Russia,team_1_win,True
+1994,1994-06-20,Netherlands,Saudi Arabia,Netherlands,Saudi Arabia,2.0,1.0,Matchday 1,Group F,True,flat_score,False,False,False,1994/worldcup.json,31,1994|1994-06-20|Netherlands|Saudi Arabia,team_1_win,True
+1994,1994-06-21,Argentina,Greece,Argentina,Greece,4.0,0.0,Matchday 1,Group D,True,flat_score,False,False,False,1994/worldcup.json,18,1994|1994-06-21|Argentina|Greece,team_1_win,True
+1994,1994-06-21,Nigeria,Bulgaria,Nigeria,Bulgaria,3.0,0.0,Matchday 1,Group D,True,flat_score,False,False,False,1994/worldcup.json,19,1994|1994-06-21|Bulgaria|Nigeria,team_1_win,True
+1994,1994-06-21,Germany,Spain,Germany,Spain,1.0,1.0,Matchday 1,Group C,True,flat_score,False,False,False,1994/worldcup.json,14,1994|1994-06-21|Germany|Spain,draw,True
+1994,1994-06-22,USA,Colombia,United States,Colombia,2.0,1.0,Matchday 2,Group A,True,flat_score,False,False,False,1994/worldcup.json,3,1994|1994-06-22|Colombia|United States,team_1_win,True
+1994,1994-06-22,Romania,Switzerland,Romania,Switzerland,1.0,4.0,Matchday 2,Group A,True,flat_score,False,False,False,1994/worldcup.json,2,1994|1994-06-22|Romania|Switzerland,team_2_win,True
+1994,1994-06-23,South Korea,Bolivia,South Korea,Bolivia,0.0,0.0,Matchday 2,Group C,True,flat_score,False,False,False,1994/worldcup.json,15,1994|1994-06-23|Bolivia|South Korea,draw,True
+1994,1994-06-23,Italy,Norway,Italy,Norway,1.0,0.0,Matchday 2,Group E,True,flat_score,False,False,False,1994/worldcup.json,26,1994|1994-06-23|Italy|Norway,team_1_win,True
+1994,1994-06-24,Brazil,Cameroon,Brazil,Cameroon,3.0,0.0,Matchday 2,Group B,True,flat_score,False,False,False,1994/worldcup.json,8,1994|1994-06-24|Brazil|Cameroon,team_1_win,True
+1994,1994-06-24,Mexico,Ireland,Mexico,Ireland,2.0,1.0,Matchday 2,Group E,True,flat_score,False,False,False,1994/worldcup.json,27,1994|1994-06-24|Ireland|Mexico,team_1_win,True
+1994,1994-06-24,Sweden,Russia,Sweden,Russia,3.0,1.0,Matchday 2,Group B,True,flat_score,False,False,False,1994/worldcup.json,9,1994|1994-06-24|Russia|Sweden,team_1_win,True
+1994,1994-06-25,Argentina,Nigeria,Argentina,Nigeria,2.0,1.0,Matchday 2,Group D,True,flat_score,False,False,False,1994/worldcup.json,20,1994|1994-06-25|Argentina|Nigeria,team_1_win,True
+1994,1994-06-25,Belgium,Netherlands,Belgium,Netherlands,1.0,0.0,Matchday 2,Group F,True,flat_score,False,False,False,1994/worldcup.json,32,1994|1994-06-25|Belgium|Netherlands,team_1_win,True
+1994,1994-06-25,Saudi Arabia,Morocco,Saudi Arabia,Morocco,2.0,1.0,Matchday 2,Group F,True,flat_score,False,False,False,1994/worldcup.json,33,1994|1994-06-25|Morocco|Saudi Arabia,team_1_win,True
+1994,1994-06-26,Greece,Bulgaria,Greece,Bulgaria,0.0,4.0,Matchday 2,Group D,True,flat_score,False,False,False,1994/worldcup.json,21,1994|1994-06-26|Bulgaria|Greece,team_2_win,True
+1994,1994-06-26,Switzerland,Colombia,Switzerland,Colombia,0.0,2.0,Matchday 2,Group A,True,flat_score,False,False,False,1994/worldcup.json,5,1994|1994-06-26|Colombia|Switzerland,team_2_win,True
+1994,1994-06-26,USA,Romania,United States,Romania,0.0,1.0,Matchday 2,Group A,True,flat_score,False,False,False,1994/worldcup.json,4,1994|1994-06-26|Romania|United States,team_2_win,True
+1994,1994-06-27,Bolivia,Spain,Bolivia,Spain,1.0,3.0,Matchday 3,Group C,True,flat_score,False,False,False,1994/worldcup.json,16,1994|1994-06-27|Bolivia|Spain,team_2_win,True
+1994,1994-06-27,Germany,South Korea,Germany,South Korea,3.0,2.0,Matchday 3,Group C,True,flat_score,False,False,False,1994/worldcup.json,17,1994|1994-06-27|Germany|South Korea,team_1_win,True
+1994,1994-06-28,Brazil,Sweden,Brazil,Sweden,1.0,1.0,Matchday 3,Group B,True,flat_score,False,False,False,1994/worldcup.json,11,1994|1994-06-28|Brazil|Sweden,draw,True
+1994,1994-06-28,Russia,Cameroon,Russia,Cameroon,6.0,1.0,Matchday 3,Group B,True,flat_score,False,False,False,1994/worldcup.json,10,1994|1994-06-28|Cameroon|Russia,team_1_win,True
+1994,1994-06-28,Ireland,Norway,Ireland,Norway,0.0,0.0,Matchday 3,Group E,True,flat_score,False,False,False,1994/worldcup.json,28,1994|1994-06-28|Ireland|Norway,draw,True
+1994,1994-06-28,Italy,Mexico,Italy,Mexico,1.0,1.0,Matchday 3,Group E,True,flat_score,False,False,False,1994/worldcup.json,29,1994|1994-06-28|Italy|Mexico,draw,True
+1994,1994-06-29,Belgium,Saudi Arabia,Belgium,Saudi Arabia,0.0,1.0,Matchday 3,Group F,True,flat_score,False,False,False,1994/worldcup.json,35,1994|1994-06-29|Belgium|Saudi Arabia,team_2_win,True
+1994,1994-06-29,Morocco,Netherlands,Morocco,Netherlands,1.0,2.0,Matchday 3,Group F,True,flat_score,False,False,False,1994/worldcup.json,34,1994|1994-06-29|Morocco|Netherlands,team_2_win,True
+1994,1994-06-30,Argentina,Bulgaria,Argentina,Bulgaria,0.0,2.0,Matchday 3,Group D,True,flat_score,False,False,False,1994/worldcup.json,23,1994|1994-06-30|Argentina|Bulgaria,team_2_win,True
+1994,1994-06-30,Greece,Nigeria,Greece,Nigeria,0.0,2.0,Matchday 3,Group D,True,flat_score,False,False,False,1994/worldcup.json,22,1994|1994-06-30|Greece|Nigeria,team_2_win,True
+1994,1994-07-02,Germany,Belgium,Germany,Belgium,3.0,2.0,Round of 16,,False,flat_score,True,False,False,1994/worldcup.json,36,1994|1994-07-02|Belgium|Germany,team_1_win,False
+1994,1994-07-02,Spain,Switzerland,Spain,Switzerland,3.0,0.0,Round of 16,,False,flat_score,True,False,False,1994/worldcup.json,37,1994|1994-07-02|Spain|Switzerland,team_1_win,False
+1994,1994-07-03,Romania,Argentina,Romania,Argentina,3.0,2.0,Round of 16,,False,flat_score,True,False,False,1994/worldcup.json,39,1994|1994-07-03|Argentina|Romania,team_1_win,False
+1994,1994-07-03,Saudi Arabia,Sweden,Saudi Arabia,Sweden,1.0,3.0,Round of 16,,False,flat_score,True,False,False,1994/worldcup.json,38,1994|1994-07-03|Saudi Arabia|Sweden,team_2_win,False
+1994,1994-07-04,Brazil,USA,Brazil,United States,1.0,0.0,Round of 16,,False,flat_score,True,False,False,1994/worldcup.json,41,1994|1994-07-04|Brazil|United States,team_1_win,False
+1994,1994-07-04,Netherlands,Ireland,Netherlands,Ireland,2.0,0.0,Round of 16,,False,flat_score,True,False,False,1994/worldcup.json,40,1994|1994-07-04|Ireland|Netherlands,team_1_win,False
+1994,1994-07-05,Mexico,Bulgaria,Mexico,Bulgaria,1.0,1.0,Round of 16,,False,ft_object,False,True,True,1994/worldcup.json,43,1994|1994-07-05|Bulgaria|Mexico,draw,True
+1994,1994-07-05,Nigeria,Italy,Nigeria,Italy,1.0,1.0,Round of 16,,False,ft_object,False,True,False,1994/worldcup.json,42,1994|1994-07-05|Italy|Nigeria,draw,True
+1994,1994-07-09,Netherlands,Brazil,Netherlands,Brazil,2.0,3.0,Quarter-finals,,False,flat_score,True,False,False,1994/worldcup.json,45,1994|1994-07-09|Brazil|Netherlands,team_2_win,False
+1994,1994-07-09,Italy,Spain,Italy,Spain,2.0,1.0,Quarter-finals,,False,flat_score,True,False,False,1994/worldcup.json,44,1994|1994-07-09|Italy|Spain,team_1_win,False
+1994,1994-07-10,Bulgaria,Germany,Bulgaria,Germany,2.0,1.0,Quarter-finals,,False,flat_score,True,False,False,1994/worldcup.json,46,1994|1994-07-10|Bulgaria|Germany,team_1_win,False
+1994,1994-07-10,Romania,Sweden,Romania,Sweden,1.0,1.0,Quarter-finals,,False,ft_object,False,True,True,1994/worldcup.json,47,1994|1994-07-10|Romania|Sweden,draw,True
+1994,1994-07-13,Sweden,Brazil,Sweden,Brazil,0.0,1.0,Semi-finals,,False,flat_score,True,False,False,1994/worldcup.json,49,1994|1994-07-13|Brazil|Sweden,team_2_win,False
+1994,1994-07-13,Bulgaria,Italy,Bulgaria,Italy,1.0,2.0,Semi-finals,,False,flat_score,True,False,False,1994/worldcup.json,48,1994|1994-07-13|Bulgaria|Italy,team_2_win,False
+1994,1994-07-16,Sweden,Bulgaria,Sweden,Bulgaria,4.0,0.0,Third-place match,,False,flat_score,True,False,False,1994/worldcup.json,50,1994|1994-07-16|Bulgaria|Sweden,team_1_win,False
+1994,1994-07-17,Brazil,Italy,Brazil,Italy,0.0,0.0,Final,,False,ft_object,False,True,True,1994/worldcup.json,51,1994|1994-07-17|Brazil|Italy,draw,True
+1998,1998-06-10,Brazil,Scotland,Brazil,Scotland,2.0,1.0,Matchday 1,Group A,True,flat_score,False,False,False,1998/worldcup.json,0,1998|1998-06-10|Brazil|Scotland,team_1_win,True
+1998,1998-06-10,Morocco,Norway,Morocco,Norway,2.0,2.0,Matchday 1,Group A,True,flat_score,False,False,False,1998/worldcup.json,1,1998|1998-06-10|Morocco|Norway,draw,True
+1998,1998-06-11,Cameroon,Austria,Cameroon,Austria,1.0,1.0,Matchday 1,Group B,True,flat_score,False,False,False,1998/worldcup.json,6,1998|1998-06-11|Austria|Cameroon,draw,True
+1998,1998-06-11,Italy,Chile,Italy,Chile,2.0,2.0,Matchday 1,Group B,True,flat_score,False,False,False,1998/worldcup.json,7,1998|1998-06-11|Chile|Italy,draw,True
+1998,1998-06-12,Paraguay,Bulgaria,Paraguay,Bulgaria,0.0,0.0,Matchday 1,Group D,True,flat_score,False,False,False,1998/worldcup.json,18,1998|1998-06-12|Bulgaria|Paraguay,draw,True
+1998,1998-06-12,Saudi Arabia,Denmark,Saudi Arabia,Denmark,0.0,1.0,Matchday 1,Group C,True,flat_score,False,False,False,1998/worldcup.json,12,1998|1998-06-12|Denmark|Saudi Arabia,team_2_win,True
+1998,1998-06-12,France,South Africa,France,South Africa,3.0,0.0,Matchday 1,Group C,True,flat_score,False,False,False,1998/worldcup.json,13,1998|1998-06-12|France|South Africa,team_1_win,True
+1998,1998-06-13,Netherlands,Belgium,Netherlands,Belgium,0.0,0.0,Matchday 1,Group E,True,flat_score,False,False,False,1998/worldcup.json,24,1998|1998-06-13|Belgium|Netherlands,draw,True
+1998,1998-06-13,South Korea,Mexico,South Korea,Mexico,1.0,3.0,Matchday 1,Group E,True,flat_score,False,False,False,1998/worldcup.json,25,1998|1998-06-13|Mexico|South Korea,team_2_win,True
+1998,1998-06-13,Spain,Nigeria,Spain,Nigeria,2.0,3.0,Matchday 1,Group D,True,flat_score,False,False,False,1998/worldcup.json,19,1998|1998-06-13|Nigeria|Spain,team_2_win,True
+1998,1998-06-14,Argentina,Japan,Argentina,Japan,1.0,0.0,Matchday 1,Group H,True,flat_score,False,False,False,1998/worldcup.json,43,1998|1998-06-14|Argentina|Japan,team_1_win,True
+1998,1998-06-14,Jamaica,Croatia,Jamaica,Croatia,1.0,3.0,Matchday 1,Group H,True,flat_score,False,False,False,1998/worldcup.json,42,1998|1998-06-14|Croatia|Jamaica,team_2_win,True
+1998,1998-06-14,Yugoslavia,Iran,Yugoslavia,Iran,1.0,0.0,Matchday 1,Group F,True,flat_score,False,False,False,1998/worldcup.json,30,1998|1998-06-14|Iran|Yugoslavia,team_1_win,True
+1998,1998-06-15,Romania,Colombia,Romania,Colombia,1.0,0.0,Matchday 1,Group G,True,flat_score,False,False,False,1998/worldcup.json,36,1998|1998-06-15|Colombia|Romania,team_1_win,True
+1998,1998-06-15,England,Tunisia,England,Tunisia,2.0,0.0,Matchday 1,Group G,True,flat_score,False,False,False,1998/worldcup.json,37,1998|1998-06-15|England|Tunisia,team_1_win,True
+1998,1998-06-15,Germany,USA,Germany,United States,2.0,0.0,Matchday 1,Group F,True,flat_score,False,False,False,1998/worldcup.json,31,1998|1998-06-15|Germany|United States,team_1_win,True
+1998,1998-06-16,Brazil,Morocco,Brazil,Morocco,3.0,0.0,Matchday 2,Group A,True,flat_score,False,False,False,1998/worldcup.json,3,1998|1998-06-16|Brazil|Morocco,team_1_win,True
+1998,1998-06-16,Scotland,Norway,Scotland,Norway,1.0,1.0,Matchday 2,Group A,True,flat_score,False,False,False,1998/worldcup.json,2,1998|1998-06-16|Norway|Scotland,draw,True
+1998,1998-06-17,Chile,Austria,Chile,Austria,1.0,1.0,Matchday 2,Group B,True,flat_score,False,False,False,1998/worldcup.json,8,1998|1998-06-17|Austria|Chile,draw,True
+1998,1998-06-17,Italy,Cameroon,Italy,Cameroon,3.0,0.0,Matchday 2,Group B,True,flat_score,False,False,False,1998/worldcup.json,9,1998|1998-06-17|Cameroon|Italy,team_1_win,True
+1998,1998-06-18,South Africa,Denmark,South Africa,Denmark,1.0,1.0,Matchday 2,Group C,True,flat_score,False,False,False,1998/worldcup.json,15,1998|1998-06-18|Denmark|South Africa,draw,True
+1998,1998-06-18,France,Saudi Arabia,France,Saudi Arabia,4.0,0.0,Matchday 2,Group C,True,flat_score,False,False,False,1998/worldcup.json,14,1998|1998-06-18|France|Saudi Arabia,team_1_win,True
+1998,1998-06-19,Nigeria,Bulgaria,Nigeria,Bulgaria,1.0,0.0,Matchday 2,Group D,True,flat_score,False,False,False,1998/worldcup.json,20,1998|1998-06-19|Bulgaria|Nigeria,team_1_win,True
+1998,1998-06-19,Spain,Paraguay,Spain,Paraguay,0.0,0.0,Matchday 2,Group D,True,flat_score,False,False,False,1998/worldcup.json,21,1998|1998-06-19|Paraguay|Spain,draw,True
+1998,1998-06-20,Belgium,Mexico,Belgium,Mexico,2.0,2.0,Matchday 2,Group E,True,flat_score,False,False,False,1998/worldcup.json,27,1998|1998-06-20|Belgium|Mexico,draw,True
+1998,1998-06-20,Japan,Croatia,Japan,Croatia,0.0,1.0,Matchday 2,Group H,True,flat_score,False,False,False,1998/worldcup.json,44,1998|1998-06-20|Croatia|Japan,team_2_win,True
+1998,1998-06-20,Netherlands,South Korea,Netherlands,South Korea,5.0,0.0,Matchday 2,Group E,True,flat_score,False,False,False,1998/worldcup.json,26,1998|1998-06-20|Netherlands|South Korea,team_1_win,True
+1998,1998-06-21,Argentina,Jamaica,Argentina,Jamaica,5.0,0.0,Matchday 2,Group H,True,flat_score,False,False,False,1998/worldcup.json,45,1998|1998-06-21|Argentina|Jamaica,team_1_win,True
+1998,1998-06-21,Germany,Yugoslavia,Germany,Yugoslavia,2.0,2.0,Matchday 2,Group F,True,flat_score,False,False,False,1998/worldcup.json,32,1998|1998-06-21|Germany|Yugoslavia,draw,True
+1998,1998-06-21,USA,Iran,United States,Iran,1.0,2.0,Matchday 2,Group F,True,flat_score,False,False,False,1998/worldcup.json,33,1998|1998-06-21|Iran|United States,team_2_win,True
+1998,1998-06-22,Colombia,Tunisia,Colombia,Tunisia,1.0,0.0,Matchday 2,Group G,True,flat_score,False,False,False,1998/worldcup.json,38,1998|1998-06-22|Colombia|Tunisia,team_1_win,True
+1998,1998-06-22,Romania,England,Romania,England,2.0,1.0,Matchday 2,Group G,True,flat_score,False,False,False,1998/worldcup.json,39,1998|1998-06-22|England|Romania,team_1_win,True
+1998,1998-06-23,Italy,Austria,Italy,Austria,2.0,1.0,Matchday 3,Group B,True,flat_score,False,False,False,1998/worldcup.json,10,1998|1998-06-23|Austria|Italy,team_1_win,True
+1998,1998-06-23,Brazil,Norway,Brazil,Norway,1.0,2.0,Matchday 3,Group A,True,flat_score,False,False,False,1998/worldcup.json,5,1998|1998-06-23|Brazil|Norway,team_2_win,True
+1998,1998-06-23,Chile,Cameroon,Chile,Cameroon,1.0,1.0,Matchday 3,Group B,True,flat_score,False,False,False,1998/worldcup.json,11,1998|1998-06-23|Cameroon|Chile,draw,True
+1998,1998-06-23,Scotland,Morocco,Scotland,Morocco,0.0,3.0,Matchday 3,Group A,True,flat_score,False,False,False,1998/worldcup.json,4,1998|1998-06-23|Morocco|Scotland,team_2_win,True
+1998,1998-06-24,Spain,Bulgaria,Spain,Bulgaria,6.0,1.0,Matchday 3,Group D,True,flat_score,False,False,False,1998/worldcup.json,22,1998|1998-06-24|Bulgaria|Spain,team_1_win,True
+1998,1998-06-24,France,Denmark,France,Denmark,2.0,1.0,Matchday 3,Group C,True,flat_score,False,False,False,1998/worldcup.json,16,1998|1998-06-24|Denmark|France,team_1_win,True
+1998,1998-06-24,Nigeria,Paraguay,Nigeria,Paraguay,1.0,3.0,Matchday 3,Group D,True,flat_score,False,False,False,1998/worldcup.json,23,1998|1998-06-24|Nigeria|Paraguay,team_2_win,True
+1998,1998-06-24,South Africa,Saudi Arabia,South Africa,Saudi Arabia,2.0,2.0,Matchday 3,Group C,True,flat_score,False,False,False,1998/worldcup.json,17,1998|1998-06-24|Saudi Arabia|South Africa,draw,True
+1998,1998-06-25,Belgium,South Korea,Belgium,South Korea,1.0,1.0,Matchday 3,Group E,True,flat_score,False,False,False,1998/worldcup.json,28,1998|1998-06-25|Belgium|South Korea,draw,True
+1998,1998-06-25,Germany,Iran,Germany,Iran,2.0,0.0,Matchday 3,Group F,True,flat_score,False,False,False,1998/worldcup.json,34,1998|1998-06-25|Germany|Iran,team_1_win,True
+1998,1998-06-25,Netherlands,Mexico,Netherlands,Mexico,2.0,2.0,Matchday 3,Group E,True,flat_score,False,False,False,1998/worldcup.json,29,1998|1998-06-25|Mexico|Netherlands,draw,True
+1998,1998-06-25,USA,Yugoslavia,United States,Yugoslavia,0.0,1.0,Matchday 3,Group F,True,flat_score,False,False,False,1998/worldcup.json,35,1998|1998-06-25|United States|Yugoslavia,team_2_win,True
+1998,1998-06-26,Argentina,Croatia,Argentina,Croatia,1.0,0.0,Matchday 3,Group H,True,flat_score,False,False,False,1998/worldcup.json,47,1998|1998-06-26|Argentina|Croatia,team_1_win,True
+1998,1998-06-26,Colombia,England,Colombia,England,0.0,2.0,Matchday 3,Group G,True,flat_score,False,False,False,1998/worldcup.json,41,1998|1998-06-26|Colombia|England,team_2_win,True
+1998,1998-06-26,Japan,Jamaica,Japan,Jamaica,1.0,2.0,Matchday 3,Group H,True,flat_score,False,False,False,1998/worldcup.json,46,1998|1998-06-26|Jamaica|Japan,team_2_win,True
+1998,1998-06-26,Romania,Tunisia,Romania,Tunisia,1.0,1.0,Matchday 3,Group G,True,flat_score,False,False,False,1998/worldcup.json,40,1998|1998-06-26|Romania|Tunisia,draw,True
+1998,1998-06-27,Brazil,Chile,Brazil,Chile,4.0,1.0,Round of 16,,False,flat_score,True,False,False,1998/worldcup.json,48,1998|1998-06-27|Brazil|Chile,team_1_win,False
+1998,1998-06-27,Italy,Norway,Italy,Norway,1.0,0.0,Round of 16,,False,flat_score,True,False,False,1998/worldcup.json,49,1998|1998-06-27|Italy|Norway,team_1_win,False
+1998,1998-06-28,Nigeria,Denmark,Nigeria,Denmark,1.0,4.0,Round of 16,,False,flat_score,True,False,False,1998/worldcup.json,50,1998|1998-06-28|Denmark|Nigeria,team_2_win,False
+1998,1998-06-28,France,Paraguay,France,Paraguay,0.0,0.0,Round of 16,,False,ft_object,False,True,False,1998/worldcup.json,51,1998|1998-06-28|France|Paraguay,draw,True
+1998,1998-06-29,Germany,Mexico,Germany,Mexico,2.0,1.0,Round of 16,,False,flat_score,True,False,False,1998/worldcup.json,52,1998|1998-06-29|Germany|Mexico,team_1_win,False
+1998,1998-06-29,Netherlands,Yugoslavia,Netherlands,Yugoslavia,2.0,1.0,Round of 16,,False,flat_score,True,False,False,1998/worldcup.json,53,1998|1998-06-29|Netherlands|Yugoslavia,team_1_win,False
+1998,1998-06-30,Argentina,England,Argentina,England,2.0,2.0,Round of 16,,False,ft_object,False,True,True,1998/worldcup.json,54,1998|1998-06-30|Argentina|England,draw,True
+1998,1998-06-30,Romania,Croatia,Romania,Croatia,0.0,1.0,Round of 16,,False,flat_score,True,False,False,1998/worldcup.json,55,1998|1998-06-30|Croatia|Romania,team_2_win,False
+1998,1998-07-03,Brazil,Denmark,Brazil,Denmark,3.0,2.0,Quarter-finals,,False,flat_score,True,False,False,1998/worldcup.json,57,1998|1998-07-03|Brazil|Denmark,team_1_win,False
+1998,1998-07-03,Italy,France,Italy,France,0.0,0.0,Quarter-finals,,False,ft_object,False,True,True,1998/worldcup.json,56,1998|1998-07-03|France|Italy,draw,True
+1998,1998-07-04,Netherlands,Argentina,Netherlands,Argentina,2.0,1.0,Quarter-finals,,False,flat_score,True,False,False,1998/worldcup.json,59,1998|1998-07-04|Argentina|Netherlands,team_1_win,False
+1998,1998-07-04,Germany,Croatia,Germany,Croatia,0.0,3.0,Quarter-finals,,False,flat_score,True,False,False,1998/worldcup.json,58,1998|1998-07-04|Croatia|Germany,team_2_win,False
+1998,1998-07-07,Brazil,Netherlands,Brazil,Netherlands,1.0,1.0,Semi-finals,,False,ft_object,False,True,True,1998/worldcup.json,60,1998|1998-07-07|Brazil|Netherlands,draw,True
+1998,1998-07-08,France,Croatia,France,Croatia,2.0,1.0,Semi-finals,,False,flat_score,True,False,False,1998/worldcup.json,61,1998|1998-07-08|Croatia|France,team_1_win,False
+1998,1998-07-11,Netherlands,Croatia,Netherlands,Croatia,1.0,2.0,Third place match,,False,flat_score,True,False,False,1998/worldcup.json,62,1998|1998-07-11|Croatia|Netherlands,team_2_win,False
+1998,1998-07-12,Brazil,France,Brazil,France,0.0,3.0,Final,,False,flat_score,True,False,False,1998/worldcup.json,63,1998|1998-07-12|Brazil|France,team_2_win,False
+2002,2002-05-31,France,Senegal,France,Senegal,0.0,1.0,Matchday 1,Group A,True,flat_score,False,False,False,2002/worldcup.json,0,2002|2002-05-31|France|Senegal,team_2_win,True
+2002,2002-06-01,Ireland,Cameroon,Ireland,Cameroon,1.0,1.0,Matchday 1,Group E,True,flat_score,False,False,False,2002/worldcup.json,24,2002|2002-06-01|Cameroon|Ireland,draw,True
+2002,2002-06-01,Uruguay,Denmark,Uruguay,Denmark,1.0,2.0,Matchday 1,Group A,True,flat_score,False,False,False,2002/worldcup.json,1,2002|2002-06-01|Denmark|Uruguay,team_2_win,True
+2002,2002-06-01,Germany,Saudi Arabia,Germany,Saudi Arabia,8.0,0.0,Matchday 1,Group E,True,flat_score,False,False,False,2002/worldcup.json,25,2002|2002-06-01|Germany|Saudi Arabia,team_1_win,True
+2002,2002-06-02,Argentina,Nigeria,Argentina,Nigeria,1.0,0.0,Matchday 1,Group F,True,flat_score,False,False,False,2002/worldcup.json,31,2002|2002-06-02|Argentina|Nigeria,team_1_win,True
+2002,2002-06-02,England,Sweden,England,Sweden,1.0,1.0,Matchday 1,Group F,True,flat_score,False,False,False,2002/worldcup.json,30,2002|2002-06-02|England|Sweden,draw,True
+2002,2002-06-02,Paraguay,South Africa,Paraguay,South Africa,2.0,2.0,Matchday 1,Group B,True,flat_score,False,False,False,2002/worldcup.json,6,2002|2002-06-02|Paraguay|South Africa,draw,True
+2002,2002-06-02,Spain,Slovenia,Spain,Slovenia,3.0,1.0,Matchday 1,Group B,True,flat_score,False,False,False,2002/worldcup.json,7,2002|2002-06-02|Slovenia|Spain,team_1_win,True
+2002,2002-06-03,Brazil,Turkey,Brazil,Turkey,2.0,1.0,Matchday 1,Group C,True,flat_score,False,False,False,2002/worldcup.json,12,2002|2002-06-03|Brazil|Turkey,team_1_win,True
+2002,2002-06-03,Croatia,Mexico,Croatia,Mexico,0.0,1.0,Matchday 1,Group G,True,flat_score,False,False,False,2002/worldcup.json,36,2002|2002-06-03|Croatia|Mexico,team_2_win,True
+2002,2002-06-03,Italy,Ecuador,Italy,Ecuador,2.0,0.0,Matchday 1,Group G,True,flat_score,False,False,False,2002/worldcup.json,37,2002|2002-06-03|Ecuador|Italy,team_1_win,True
+2002,2002-06-04,Japan,Belgium,Japan,Belgium,2.0,2.0,Matchday 1,Group H,True,flat_score,False,False,False,2002/worldcup.json,42,2002|2002-06-04|Belgium|Japan,draw,True
+2002,2002-06-04,China,Costa Rica,China,Costa Rica,0.0,2.0,Matchday 1,Group C,True,flat_score,False,False,False,2002/worldcup.json,13,2002|2002-06-04|China|Costa Rica,team_2_win,True
+2002,2002-06-04,South Korea,Poland,South Korea,Poland,2.0,0.0,Matchday 1,Group D,True,flat_score,False,False,False,2002/worldcup.json,18,2002|2002-06-04|Poland|South Korea,team_1_win,True
+2002,2002-06-05,Germany,Ireland,Germany,Ireland,1.0,1.0,Matchday 1,Group E,True,flat_score,False,False,False,2002/worldcup.json,26,2002|2002-06-05|Germany|Ireland,draw,True
+2002,2002-06-05,USA,Portugal,United States,Portugal,3.0,2.0,Matchday 1,Group D,True,flat_score,False,False,False,2002/worldcup.json,19,2002|2002-06-05|Portugal|United States,team_1_win,True
+2002,2002-06-05,Russia,Tunisia,Russia,Tunisia,2.0,0.0,Matchday 1,Group H,True,flat_score,False,False,False,2002/worldcup.json,43,2002|2002-06-05|Russia|Tunisia,team_1_win,True
+2002,2002-06-06,Cameroon,Saudi Arabia,Cameroon,Saudi Arabia,1.0,0.0,Matchday 2,Group E,True,flat_score,False,False,False,2002/worldcup.json,27,2002|2002-06-06|Cameroon|Saudi Arabia,team_1_win,True
+2002,2002-06-06,Denmark,Senegal,Denmark,Senegal,1.0,1.0,Matchday 2,Group A,True,flat_score,False,False,False,2002/worldcup.json,3,2002|2002-06-06|Denmark|Senegal,draw,True
+2002,2002-06-06,France,Uruguay,France,Uruguay,0.0,0.0,Matchday 2,Group A,True,flat_score,False,False,False,2002/worldcup.json,2,2002|2002-06-06|France|Uruguay,draw,True
+2002,2002-06-07,Argentina,England,Argentina,England,0.0,1.0,Matchday 2,Group F,True,flat_score,False,False,False,2002/worldcup.json,33,2002|2002-06-07|Argentina|England,team_2_win,True
+2002,2002-06-07,Sweden,Nigeria,Sweden,Nigeria,2.0,1.0,Matchday 2,Group F,True,flat_score,False,False,False,2002/worldcup.json,32,2002|2002-06-07|Nigeria|Sweden,team_1_win,True
+2002,2002-06-07,Spain,Paraguay,Spain,Paraguay,3.0,1.0,Matchday 2,Group B,True,flat_score,False,False,False,2002/worldcup.json,8,2002|2002-06-07|Paraguay|Spain,team_1_win,True
+2002,2002-06-08,Brazil,China,Brazil,China,4.0,0.0,Matchday 2,Group C,True,flat_score,False,False,False,2002/worldcup.json,14,2002|2002-06-08|Brazil|China,team_1_win,True
+2002,2002-06-08,Italy,Croatia,Italy,Croatia,1.0,2.0,Matchday 2,Group G,True,flat_score,False,False,False,2002/worldcup.json,38,2002|2002-06-08|Croatia|Italy,team_2_win,True
+2002,2002-06-08,South Africa,Slovenia,South Africa,Slovenia,1.0,0.0,Matchday 2,Group B,True,flat_score,False,False,False,2002/worldcup.json,9,2002|2002-06-08|Slovenia|South Africa,team_1_win,True
+2002,2002-06-09,Costa Rica,Turkey,Costa Rica,Turkey,1.0,1.0,Matchday 2,Group C,True,flat_score,False,False,False,2002/worldcup.json,15,2002|2002-06-09|Costa Rica|Turkey,draw,True
+2002,2002-06-09,Mexico,Ecuador,Mexico,Ecuador,2.0,1.0,Matchday 2,Group G,True,flat_score,False,False,False,2002/worldcup.json,39,2002|2002-06-09|Ecuador|Mexico,team_1_win,True
+2002,2002-06-09,Japan,Russia,Japan,Russia,1.0,0.0,Matchday 2,Group H,True,flat_score,False,False,False,2002/worldcup.json,44,2002|2002-06-09|Japan|Russia,team_1_win,True
+2002,2002-06-10,Tunisia,Belgium,Tunisia,Belgium,1.0,1.0,Matchday 2,Group H,True,flat_score,False,False,False,2002/worldcup.json,45,2002|2002-06-10|Belgium|Tunisia,draw,True
+2002,2002-06-10,Portugal,Poland,Portugal,Poland,4.0,0.0,Matchday 2,Group D,True,flat_score,False,False,False,2002/worldcup.json,21,2002|2002-06-10|Poland|Portugal,team_1_win,True
+2002,2002-06-10,South Korea,USA,South Korea,United States,1.0,1.0,Matchday 2,Group D,True,flat_score,False,False,False,2002/worldcup.json,20,2002|2002-06-10|South Korea|United States,draw,True
+2002,2002-06-11,Cameroon,Germany,Cameroon,Germany,0.0,2.0,Matchday 3,Group E,True,flat_score,False,False,False,2002/worldcup.json,28,2002|2002-06-11|Cameroon|Germany,team_2_win,True
+2002,2002-06-11,Denmark,France,Denmark,France,2.0,0.0,Matchday 3,Group A,True,flat_score,False,False,False,2002/worldcup.json,4,2002|2002-06-11|Denmark|France,team_1_win,True
+2002,2002-06-11,Saudi Arabia,Ireland,Saudi Arabia,Ireland,0.0,3.0,Matchday 3,Group E,True,flat_score,False,False,False,2002/worldcup.json,29,2002|2002-06-11|Ireland|Saudi Arabia,team_2_win,True
+2002,2002-06-11,Senegal,Uruguay,Senegal,Uruguay,3.0,3.0,Matchday 3,Group A,True,flat_score,False,False,False,2002/worldcup.json,5,2002|2002-06-11|Senegal|Uruguay,draw,True
+2002,2002-06-12,Sweden,Argentina,Sweden,Argentina,1.0,1.0,Matchday 3,Group F,True,flat_score,False,False,False,2002/worldcup.json,34,2002|2002-06-12|Argentina|Sweden,draw,True
+2002,2002-06-12,Nigeria,England,Nigeria,England,0.0,0.0,Matchday 3,Group F,True,flat_score,False,False,False,2002/worldcup.json,35,2002|2002-06-12|England|Nigeria,draw,True
+2002,2002-06-12,Slovenia,Paraguay,Slovenia,Paraguay,1.0,3.0,Matchday 3,Group B,True,flat_score,False,False,False,2002/worldcup.json,11,2002|2002-06-12|Paraguay|Slovenia,team_2_win,True
+2002,2002-06-12,South Africa,Spain,South Africa,Spain,2.0,3.0,Matchday 3,Group B,True,flat_score,False,False,False,2002/worldcup.json,10,2002|2002-06-12|South Africa|Spain,team_2_win,True
+2002,2002-06-13,Costa Rica,Brazil,Costa Rica,Brazil,2.0,5.0,Matchday 3,Group C,True,flat_score,False,False,False,2002/worldcup.json,16,2002|2002-06-13|Brazil|Costa Rica,team_2_win,True
+2002,2002-06-13,Turkey,China,Turkey,China,3.0,0.0,Matchday 3,Group C,True,flat_score,False,False,False,2002/worldcup.json,17,2002|2002-06-13|China|Turkey,team_1_win,True
+2002,2002-06-13,Ecuador,Croatia,Ecuador,Croatia,1.0,0.0,Matchday 3,Group G,True,flat_score,False,False,False,2002/worldcup.json,41,2002|2002-06-13|Croatia|Ecuador,team_1_win,True
+2002,2002-06-13,Mexico,Italy,Mexico,Italy,1.0,1.0,Matchday 3,Group G,True,flat_score,False,False,False,2002/worldcup.json,40,2002|2002-06-13|Italy|Mexico,draw,True
+2002,2002-06-14,Belgium,Russia,Belgium,Russia,3.0,2.0,Matchday 3,Group H,True,flat_score,False,False,False,2002/worldcup.json,47,2002|2002-06-14|Belgium|Russia,team_1_win,True
+2002,2002-06-14,Tunisia,Japan,Tunisia,Japan,0.0,2.0,Matchday 3,Group H,True,flat_score,False,False,False,2002/worldcup.json,46,2002|2002-06-14|Japan|Tunisia,team_2_win,True
+2002,2002-06-14,Poland,USA,Poland,United States,3.0,1.0,Matchday 3,Group D,True,flat_score,False,False,False,2002/worldcup.json,23,2002|2002-06-14|Poland|United States,team_1_win,True
+2002,2002-06-14,Portugal,South Korea,Portugal,South Korea,0.0,1.0,Matchday 3,Group D,True,flat_score,False,False,False,2002/worldcup.json,22,2002|2002-06-14|Portugal|South Korea,team_2_win,True
+2002,2002-06-15,Denmark,England,Denmark,England,0.0,3.0,Round of 16,,False,flat_score,True,False,False,2002/worldcup.json,49,2002|2002-06-15|Denmark|England,team_2_win,False
+2002,2002-06-15,Germany,Paraguay,Germany,Paraguay,1.0,0.0,Round of 16,,False,flat_score,True,False,False,2002/worldcup.json,48,2002|2002-06-15|Germany|Paraguay,team_1_win,False
+2002,2002-06-16,Spain,Ireland,Spain,Ireland,1.0,1.0,Round of 16,,False,ft_object,False,True,True,2002/worldcup.json,51,2002|2002-06-16|Ireland|Spain,draw,True
+2002,2002-06-16,Sweden,Senegal,Sweden,Senegal,1.0,1.0,Round of 16,,False,ft_object,False,True,False,2002/worldcup.json,50,2002|2002-06-16|Senegal|Sweden,draw,True
+2002,2002-06-17,Brazil,Belgium,Brazil,Belgium,2.0,0.0,Round of 16,,False,flat_score,True,False,False,2002/worldcup.json,53,2002|2002-06-17|Belgium|Brazil,team_1_win,False
+2002,2002-06-17,Mexico,USA,Mexico,United States,0.0,2.0,Round of 16,,False,flat_score,True,False,False,2002/worldcup.json,52,2002|2002-06-17|Mexico|United States,team_2_win,False
+2002,2002-06-18,South Korea,Italy,South Korea,Italy,1.0,1.0,Round of 16,,False,ft_object,False,True,False,2002/worldcup.json,55,2002|2002-06-18|Italy|South Korea,draw,True
+2002,2002-06-18,Japan,Turkey,Japan,Turkey,0.0,1.0,Round of 16,,False,flat_score,True,False,False,2002/worldcup.json,54,2002|2002-06-18|Japan|Turkey,team_2_win,False
+2002,2002-06-21,England,Brazil,England,Brazil,1.0,2.0,Quarter-finals,,False,flat_score,True,False,False,2002/worldcup.json,56,2002|2002-06-21|Brazil|England,team_2_win,False
+2002,2002-06-21,Germany,USA,Germany,United States,1.0,0.0,Quarter-finals,,False,flat_score,True,False,False,2002/worldcup.json,57,2002|2002-06-21|Germany|United States,team_1_win,False
+2002,2002-06-22,Senegal,Turkey,Senegal,Turkey,0.0,0.0,Quarter-finals,,False,ft_object,False,True,False,2002/worldcup.json,59,2002|2002-06-22|Senegal|Turkey,draw,True
+2002,2002-06-22,Spain,South Korea,Spain,South Korea,0.0,0.0,Quarter-finals,,False,ft_object,False,True,True,2002/worldcup.json,58,2002|2002-06-22|South Korea|Spain,draw,True
+2002,2002-06-25,Germany,South Korea,Germany,South Korea,1.0,0.0,Semi-finals,,False,flat_score,True,False,False,2002/worldcup.json,60,2002|2002-06-25|Germany|South Korea,team_1_win,False
+2002,2002-06-26,Brazil,Turkey,Brazil,Turkey,1.0,0.0,Semi-finals,,False,flat_score,True,False,False,2002/worldcup.json,61,2002|2002-06-26|Brazil|Turkey,team_1_win,False
+2002,2002-06-29,South Korea,Turkey,South Korea,Turkey,2.0,3.0,Third place play-off,,False,flat_score,True,False,False,2002/worldcup.json,62,2002|2002-06-29|South Korea|Turkey,team_2_win,False
+2002,2002-06-30,Germany,Brazil,Germany,Brazil,0.0,2.0,Final,,False,flat_score,True,False,False,2002/worldcup.json,63,2002|2002-06-30|Brazil|Germany,team_2_win,False
+2006,2006-06-09,Germany,Costa Rica,Germany,Costa Rica,4.0,2.0,Matchday 1,Group A,True,ft_object,False,False,False,2006/worldcup.json,0,2006|2006-06-09|Costa Rica|Germany,team_1_win,True
+2006,2006-06-09,Poland,Ecuador,Poland,Ecuador,0.0,2.0,Matchday 1,Group A,True,ft_object,False,False,False,2006/worldcup.json,1,2006|2006-06-09|Ecuador|Poland,team_2_win,True
+2006,2006-06-10,Argentina,Côte d'Ivoire,Argentina,Côte d'Ivoire,2.0,1.0,Matchday 2,Group C,True,ft_object,False,False,False,2006/worldcup.json,12,2006|2006-06-10|Argentina|Côte d'Ivoire,team_1_win,True
+2006,2006-06-10,England,Paraguay,England,Paraguay,1.0,0.0,Matchday 2,Group B,True,ft_object,False,False,False,2006/worldcup.json,6,2006|2006-06-10|England|Paraguay,team_1_win,True
+2006,2006-06-10,Trinidad and Tobago,Sweden,Trinidad and Tobago,Sweden,0.0,0.0,Matchday 2,Group B,True,flat_score,False,False,False,2006/worldcup.json,7,2006|2006-06-10|Sweden|Trinidad and Tobago,draw,True
+2006,2006-06-11,Angola,Portugal,Angola,Portugal,0.0,1.0,Matchday 3,Group D,True,ft_object,False,False,False,2006/worldcup.json,19,2006|2006-06-11|Angola|Portugal,team_2_win,True
+2006,2006-06-11,Mexico,Iran,Mexico,Iran,3.0,1.0,Matchday 3,Group D,True,ft_object,False,False,False,2006/worldcup.json,18,2006|2006-06-11|Iran|Mexico,team_1_win,True
+2006,2006-06-11,Serbia and Montenegro,Netherlands,Serbia and Montenegro,Netherlands,0.0,1.0,Matchday 3,Group C,True,ft_object,False,False,False,2006/worldcup.json,13,2006|2006-06-11|Netherlands|Serbia and Montenegro,team_2_win,True
+2006,2006-06-12,Australia,Japan,Australia,Japan,3.0,1.0,Matchday 4,Group F,True,ft_object,False,False,False,2006/worldcup.json,31,2006|2006-06-12|Australia|Japan,team_1_win,True
+2006,2006-06-12,USA,Czech Republic,United States,Czech Republic,0.0,3.0,Matchday 4,Group E,True,ft_object,False,False,False,2006/worldcup.json,25,2006|2006-06-12|Czech Republic|United States,team_2_win,True
+2006,2006-06-12,Italy,Ghana,Italy,Ghana,2.0,0.0,Matchday 4,Group E,True,ft_object,False,False,False,2006/worldcup.json,24,2006|2006-06-12|Ghana|Italy,team_1_win,True
+2006,2006-06-13,Brazil,Croatia,Brazil,Croatia,1.0,0.0,Matchday 5,Group F,True,ft_object,False,False,False,2006/worldcup.json,30,2006|2006-06-13|Brazil|Croatia,team_1_win,True
+2006,2006-06-13,France,Switzerland,France,Switzerland,0.0,0.0,Matchday 5,Group G,True,flat_score,False,False,False,2006/worldcup.json,36,2006|2006-06-13|France|Switzerland,draw,True
+2006,2006-06-13,South Korea,Togo,South Korea,Togo,2.0,1.0,Matchday 5,Group G,True,ft_object,False,False,False,2006/worldcup.json,37,2006|2006-06-13|South Korea|Togo,team_1_win,True
+2006,2006-06-14,Germany,Poland,Germany,Poland,1.0,0.0,Matchday 6,Group A,True,ft_object,False,False,False,2006/worldcup.json,2,2006|2006-06-14|Germany|Poland,team_1_win,True
+2006,2006-06-14,Tunisia,Saudi Arabia,Tunisia,Saudi Arabia,2.0,2.0,Matchday 6,Group H,True,ft_object,False,False,False,2006/worldcup.json,43,2006|2006-06-14|Saudi Arabia|Tunisia,draw,True
+2006,2006-06-14,Spain,Ukraine,Spain,Ukraine,4.0,0.0,Matchday 6,Group H,True,ft_object,False,False,False,2006/worldcup.json,42,2006|2006-06-14|Spain|Ukraine,team_1_win,True
+2006,2006-06-15,Ecuador,Costa Rica,Ecuador,Costa Rica,3.0,0.0,Matchday 7,Group A,True,ft_object,False,False,False,2006/worldcup.json,3,2006|2006-06-15|Costa Rica|Ecuador,team_1_win,True
+2006,2006-06-15,England,Trinidad and Tobago,England,Trinidad and Tobago,2.0,0.0,Matchday 7,Group B,True,ft_object,False,False,False,2006/worldcup.json,8,2006|2006-06-15|England|Trinidad and Tobago,team_1_win,True
+2006,2006-06-15,Sweden,Paraguay,Sweden,Paraguay,1.0,0.0,Matchday 7,Group B,True,ft_object,False,False,False,2006/worldcup.json,9,2006|2006-06-15|Paraguay|Sweden,team_1_win,True
+2006,2006-06-16,Mexico,Angola,Mexico,Angola,0.0,0.0,Matchday 8,Group D,True,flat_score,False,False,False,2006/worldcup.json,20,2006|2006-06-16|Angola|Mexico,draw,True
+2006,2006-06-16,Argentina,Serbia and Montenegro,Argentina,Serbia and Montenegro,6.0,0.0,Matchday 8,Group C,True,ft_object,False,False,False,2006/worldcup.json,14,2006|2006-06-16|Argentina|Serbia and Montenegro,team_1_win,True
+2006,2006-06-16,Netherlands,Côte d'Ivoire,Netherlands,Côte d'Ivoire,2.0,1.0,Matchday 8,Group C,True,ft_object,False,False,False,2006/worldcup.json,15,2006|2006-06-16|Côte d'Ivoire|Netherlands,team_1_win,True
+2006,2006-06-17,Czech Republic,Ghana,Czech Republic,Ghana,0.0,2.0,Matchday 9,Group E,True,ft_object,False,False,False,2006/worldcup.json,27,2006|2006-06-17|Czech Republic|Ghana,team_2_win,True
+2006,2006-06-17,Portugal,Iran,Portugal,Iran,2.0,0.0,Matchday 9,Group D,True,ft_object,False,False,False,2006/worldcup.json,21,2006|2006-06-17|Iran|Portugal,team_1_win,True
+2006,2006-06-17,Italy,USA,Italy,United States,1.0,1.0,Matchday 9,Group E,True,ft_object,False,False,False,2006/worldcup.json,26,2006|2006-06-17|Italy|United States,draw,True
+2006,2006-06-18,Brazil,Australia,Brazil,Australia,2.0,0.0,Matchday 10,Group F,True,ft_object,False,False,False,2006/worldcup.json,32,2006|2006-06-18|Australia|Brazil,team_1_win,True
+2006,2006-06-18,Japan,Croatia,Japan,Croatia,0.0,0.0,Matchday 10,Group F,True,flat_score,False,False,False,2006/worldcup.json,33,2006|2006-06-18|Croatia|Japan,draw,True
+2006,2006-06-18,France,South Korea,France,South Korea,1.0,1.0,Matchday 10,Group G,True,ft_object,False,False,False,2006/worldcup.json,38,2006|2006-06-18|France|South Korea,draw,True
+2006,2006-06-19,Saudi Arabia,Ukraine,Saudi Arabia,Ukraine,0.0,4.0,Matchday 11,Group H,True,ft_object,False,False,False,2006/worldcup.json,45,2006|2006-06-19|Saudi Arabia|Ukraine,team_2_win,True
+2006,2006-06-19,Spain,Tunisia,Spain,Tunisia,3.0,1.0,Matchday 11,Group H,True,ft_object,False,False,False,2006/worldcup.json,44,2006|2006-06-19|Spain|Tunisia,team_1_win,True
+2006,2006-06-19,Togo,Switzerland,Togo,Switzerland,0.0,2.0,Matchday 11,Group G,True,ft_object,False,False,False,2006/worldcup.json,39,2006|2006-06-19|Switzerland|Togo,team_2_win,True
+2006,2006-06-20,Costa Rica,Poland,Costa Rica,Poland,1.0,2.0,Matchday 12,Group A,True,ft_object,False,False,False,2006/worldcup.json,5,2006|2006-06-20|Costa Rica|Poland,team_2_win,True
+2006,2006-06-20,Ecuador,Germany,Ecuador,Germany,0.0,3.0,Matchday 12,Group A,True,ft_object,False,False,False,2006/worldcup.json,4,2006|2006-06-20|Ecuador|Germany,team_2_win,True
+2006,2006-06-20,Sweden,England,Sweden,England,2.0,2.0,Matchday 12,Group B,True,ft_object,False,False,False,2006/worldcup.json,10,2006|2006-06-20|England|Sweden,draw,True
+2006,2006-06-20,Paraguay,Trinidad and Tobago,Paraguay,Trinidad and Tobago,2.0,0.0,Matchday 12,Group B,True,ft_object,False,False,False,2006/worldcup.json,11,2006|2006-06-20|Paraguay|Trinidad and Tobago,team_1_win,True
+2006,2006-06-21,Iran,Angola,Iran,Angola,1.0,1.0,Matchday 13,Group D,True,ft_object,False,False,False,2006/worldcup.json,23,2006|2006-06-21|Angola|Iran,draw,True
+2006,2006-06-21,Netherlands,Argentina,Netherlands,Argentina,0.0,0.0,Matchday 13,Group C,True,flat_score,False,False,False,2006/worldcup.json,16,2006|2006-06-21|Argentina|Netherlands,draw,True
+2006,2006-06-21,Côte d'Ivoire,Serbia and Montenegro,Côte d'Ivoire,Serbia and Montenegro,3.0,2.0,Matchday 13,Group C,True,ft_object,False,False,False,2006/worldcup.json,17,2006|2006-06-21|Côte d'Ivoire|Serbia and Montenegro,team_1_win,True
+2006,2006-06-21,Portugal,Mexico,Portugal,Mexico,2.0,1.0,Matchday 13,Group D,True,ft_object,False,False,False,2006/worldcup.json,22,2006|2006-06-21|Mexico|Portugal,team_1_win,True
+2006,2006-06-22,Croatia,Australia,Croatia,Australia,2.0,2.0,Matchday 14,Group F,True,ft_object,False,False,False,2006/worldcup.json,35,2006|2006-06-22|Australia|Croatia,draw,True
+2006,2006-06-22,Japan,Brazil,Japan,Brazil,1.0,4.0,Matchday 14,Group F,True,ft_object,False,False,False,2006/worldcup.json,34,2006|2006-06-22|Brazil|Japan,team_2_win,True
+2006,2006-06-22,Czech Republic,Italy,Czech Republic,Italy,0.0,2.0,Matchday 14,Group E,True,ft_object,False,False,False,2006/worldcup.json,28,2006|2006-06-22|Czech Republic|Italy,team_2_win,True
+2006,2006-06-22,Ghana,USA,Ghana,United States,2.0,1.0,Matchday 14,Group E,True,ft_object,False,False,False,2006/worldcup.json,29,2006|2006-06-22|Ghana|United States,team_1_win,True
+2006,2006-06-23,Togo,France,Togo,France,0.0,2.0,Matchday 15,Group G,True,ft_object,False,False,False,2006/worldcup.json,40,2006|2006-06-23|France|Togo,team_2_win,True
+2006,2006-06-23,Saudi Arabia,Spain,Saudi Arabia,Spain,0.0,1.0,Matchday 15,Group H,True,ft_object,False,False,False,2006/worldcup.json,46,2006|2006-06-23|Saudi Arabia|Spain,team_2_win,True
+2006,2006-06-23,Switzerland,South Korea,Switzerland,South Korea,2.0,0.0,Matchday 15,Group G,True,ft_object,False,False,False,2006/worldcup.json,41,2006|2006-06-23|South Korea|Switzerland,team_1_win,True
+2006,2006-06-23,Ukraine,Tunisia,Ukraine,Tunisia,1.0,0.0,Matchday 15,Group H,True,ft_object,False,False,False,2006/worldcup.json,47,2006|2006-06-23|Tunisia|Ukraine,team_1_win,True
+2006,2006-06-24,Argentina,Mexico,Argentina,Mexico,1.0,1.0,Round of 16,,False,ft_object,False,True,False,2006/worldcup.json,49,2006|2006-06-24|Argentina|Mexico,draw,True
+2006,2006-06-24,Germany,Sweden,Germany,Sweden,2.0,0.0,Round of 16,,False,ft_object,False,False,False,2006/worldcup.json,48,2006|2006-06-24|Germany|Sweden,team_1_win,True
+2006,2006-06-25,England,Ecuador,England,Ecuador,1.0,0.0,Round of 16,,False,ft_object,False,False,False,2006/worldcup.json,50,2006|2006-06-25|Ecuador|England,team_1_win,True
+2006,2006-06-25,Portugal,Netherlands,Portugal,Netherlands,1.0,0.0,Round of 16,,False,ft_object,False,False,False,2006/worldcup.json,51,2006|2006-06-25|Netherlands|Portugal,team_1_win,True
+2006,2006-06-26,Italy,Australia,Italy,Australia,1.0,0.0,Round of 16,,False,ft_object,False,False,False,2006/worldcup.json,52,2006|2006-06-26|Australia|Italy,team_1_win,True
+2006,2006-06-26,Switzerland,Ukraine,Switzerland,Ukraine,0.0,0.0,Round of 16,,False,ft_object,False,True,True,2006/worldcup.json,53,2006|2006-06-26|Switzerland|Ukraine,draw,True
+2006,2006-06-27,Brazil,Ghana,Brazil,Ghana,3.0,0.0,Round of 16,,False,ft_object,False,False,False,2006/worldcup.json,54,2006|2006-06-27|Brazil|Ghana,team_1_win,True
+2006,2006-06-27,Spain,France,Spain,France,1.0,3.0,Round of 16,,False,ft_object,False,False,False,2006/worldcup.json,55,2006|2006-06-27|France|Spain,team_2_win,True
+2006,2006-06-30,Germany,Argentina,Germany,Argentina,1.0,1.0,Quarterfinals,,False,ft_object,False,True,True,2006/worldcup.json,56,2006|2006-06-30|Argentina|Germany,draw,True
+2006,2006-06-30,Italy,Ukraine,Italy,Ukraine,3.0,0.0,Quarterfinals,,False,ft_object,False,False,False,2006/worldcup.json,57,2006|2006-06-30|Italy|Ukraine,team_1_win,True
+2006,2006-07-01,Brazil,France,Brazil,France,0.0,1.0,Quarterfinals,,False,ft_object,False,False,False,2006/worldcup.json,59,2006|2006-07-01|Brazil|France,team_2_win,True
+2006,2006-07-01,England,Portugal,England,Portugal,0.0,0.0,Quarterfinals,,False,ft_object,False,True,True,2006/worldcup.json,58,2006|2006-07-01|England|Portugal,draw,True
+2006,2006-07-04,Germany,Italy,Germany,Italy,0.0,0.0,Semifinals,,False,ft_object,False,True,False,2006/worldcup.json,60,2006|2006-07-04|Germany|Italy,draw,True
+2006,2006-07-05,Portugal,France,Portugal,France,0.0,1.0,Semifinals,,False,ft_object,False,False,False,2006/worldcup.json,61,2006|2006-07-05|France|Portugal,team_2_win,True
+2006,2006-07-08,Germany,Portugal,Germany,Portugal,3.0,1.0,Third-place play-off,,False,ft_object,False,False,False,2006/worldcup.json,62,2006|2006-07-08|Germany|Portugal,team_1_win,True
+2006,2006-07-09,Italy,France,Italy,France,1.0,1.0,Final,,False,ft_object,False,True,True,2006/worldcup.json,63,2006|2006-07-09|France|Italy,draw,True
+2010,2010-06-11,Uruguay,France,Uruguay,France,0.0,0.0,Matchday 1,Group A,True,flat_score,False,False,False,2010/worldcup.json,1,2010|2010-06-11|France|Uruguay,draw,True
+2010,2010-06-11,South Africa,Mexico,South Africa,Mexico,1.0,1.0,Matchday 1,Group A,True,flat_score,False,False,False,2010/worldcup.json,0,2010|2010-06-11|Mexico|South Africa,draw,True
+2010,2010-06-12,Argentina,Nigeria,Argentina,Nigeria,1.0,0.0,Matchday 2,Group B,True,flat_score,False,False,False,2010/worldcup.json,7,2010|2010-06-12|Argentina|Nigeria,team_1_win,True
+2010,2010-06-12,England,USA,England,United States,1.0,1.0,Matchday 2,Group C,True,flat_score,False,False,False,2010/worldcup.json,12,2010|2010-06-12|England|United States,draw,True
+2010,2010-06-12,South Korea,Greece,South Korea,Greece,2.0,0.0,Matchday 2,Group B,True,flat_score,False,False,False,2010/worldcup.json,6,2010|2010-06-12|Greece|South Korea,team_1_win,True
+2010,2010-06-13,Algeria,Slovenia,Algeria,Slovenia,0.0,1.0,Matchday 3,Group C,True,flat_score,False,False,False,2010/worldcup.json,13,2010|2010-06-13|Algeria|Slovenia,team_2_win,True
+2010,2010-06-13,Germany,Australia,Germany,Australia,4.0,0.0,Matchday 3,Group D,True,flat_score,False,False,False,2010/worldcup.json,19,2010|2010-06-13|Australia|Germany,team_1_win,True
+2010,2010-06-13,Serbia,Ghana,Serbia,Ghana,0.0,1.0,Matchday 3,Group D,True,flat_score,False,False,False,2010/worldcup.json,18,2010|2010-06-13|Ghana|Serbia,team_2_win,True
+2010,2010-06-14,Japan,Cameroon,Japan,Cameroon,1.0,0.0,Matchday 4,Group E,True,flat_score,False,False,False,2010/worldcup.json,25,2010|2010-06-14|Cameroon|Japan,team_1_win,True
+2010,2010-06-14,Netherlands,Denmark,Netherlands,Denmark,2.0,0.0,Matchday 4,Group E,True,flat_score,False,False,False,2010/worldcup.json,24,2010|2010-06-14|Denmark|Netherlands,team_1_win,True
+2010,2010-06-14,Italy,Paraguay,Italy,Paraguay,1.0,1.0,Matchday 4,Group F,True,flat_score,False,False,False,2010/worldcup.json,30,2010|2010-06-14|Italy|Paraguay,draw,True
+2010,2010-06-15,Brazil,North Korea,Brazil,North Korea,2.0,1.0,Matchday 5,Group G,True,flat_score,False,False,False,2010/worldcup.json,37,2010|2010-06-15|Brazil|North Korea,team_1_win,True
+2010,2010-06-15,Côte d'Ivoire,Portugal,Côte d'Ivoire,Portugal,0.0,0.0,Matchday 5,Group G,True,flat_score,False,False,False,2010/worldcup.json,36,2010|2010-06-15|Côte d'Ivoire|Portugal,draw,True
+2010,2010-06-15,New Zealand,Slovakia,New Zealand,Slovakia,1.0,1.0,Matchday 5,Group F,True,flat_score,False,False,False,2010/worldcup.json,31,2010|2010-06-15|New Zealand|Slovakia,draw,True
+2010,2010-06-16,Honduras,Chile,Honduras,Chile,0.0,1.0,Matchday 6,Group H,True,flat_score,False,False,False,2010/worldcup.json,42,2010|2010-06-16|Chile|Honduras,team_2_win,True
+2010,2010-06-16,South Africa,Uruguay,South Africa,Uruguay,0.0,3.0,Matchday 6,Group A,True,flat_score,False,False,False,2010/worldcup.json,2,2010|2010-06-16|South Africa|Uruguay,team_2_win,True
+2010,2010-06-16,Spain,Switzerland,Spain,Switzerland,0.0,1.0,Matchday 6,Group H,True,flat_score,False,False,False,2010/worldcup.json,43,2010|2010-06-16|Spain|Switzerland,team_2_win,True
+2010,2010-06-17,Argentina,South Korea,Argentina,South Korea,4.0,1.0,Matchday 7,Group B,True,flat_score,False,False,False,2010/worldcup.json,8,2010|2010-06-17|Argentina|South Korea,team_1_win,True
+2010,2010-06-17,France,Mexico,France,Mexico,0.0,2.0,Matchday 7,Group A,True,flat_score,False,False,False,2010/worldcup.json,3,2010|2010-06-17|France|Mexico,team_2_win,True
+2010,2010-06-17,Greece,Nigeria,Greece,Nigeria,2.0,1.0,Matchday 7,Group B,True,flat_score,False,False,False,2010/worldcup.json,9,2010|2010-06-17|Greece|Nigeria,team_1_win,True
+2010,2010-06-18,England,Algeria,England,Algeria,0.0,0.0,Matchday 8,Group C,True,flat_score,False,False,False,2010/worldcup.json,15,2010|2010-06-18|Algeria|England,draw,True
+2010,2010-06-18,Germany,Serbia,Germany,Serbia,0.0,1.0,Matchday 8,Group D,True,flat_score,False,False,False,2010/worldcup.json,20,2010|2010-06-18|Germany|Serbia,team_2_win,True
+2010,2010-06-18,Slovenia,USA,Slovenia,United States,2.0,2.0,Matchday 8,Group C,True,flat_score,False,False,False,2010/worldcup.json,14,2010|2010-06-18|Slovenia|United States,draw,True
+2010,2010-06-19,Ghana,Australia,Ghana,Australia,1.0,1.0,Matchday 9,Group D,True,flat_score,False,False,False,2010/worldcup.json,21,2010|2010-06-19|Australia|Ghana,draw,True
+2010,2010-06-19,Cameroon,Denmark,Cameroon,Denmark,1.0,2.0,Matchday 9,Group E,True,flat_score,False,False,False,2010/worldcup.json,27,2010|2010-06-19|Cameroon|Denmark,team_2_win,True
+2010,2010-06-19,Netherlands,Japan,Netherlands,Japan,1.0,0.0,Matchday 9,Group E,True,flat_score,False,False,False,2010/worldcup.json,26,2010|2010-06-19|Japan|Netherlands,team_1_win,True
+2010,2010-06-20,Brazil,Côte d'Ivoire,Brazil,Côte d'Ivoire,3.0,1.0,Matchday 10,Group G,True,flat_score,False,False,False,2010/worldcup.json,38,2010|2010-06-20|Brazil|Côte d'Ivoire,team_1_win,True
+2010,2010-06-20,Italy,New Zealand,Italy,New Zealand,1.0,1.0,Matchday 10,Group F,True,flat_score,False,False,False,2010/worldcup.json,33,2010|2010-06-20|Italy|New Zealand,draw,True
+2010,2010-06-20,Slovakia,Paraguay,Slovakia,Paraguay,0.0,2.0,Matchday 10,Group F,True,flat_score,False,False,False,2010/worldcup.json,32,2010|2010-06-20|Paraguay|Slovakia,team_2_win,True
+2010,2010-06-21,Chile,Switzerland,Chile,Switzerland,1.0,0.0,Matchday 11,Group H,True,flat_score,False,False,False,2010/worldcup.json,44,2010|2010-06-21|Chile|Switzerland,team_1_win,True
+2010,2010-06-21,Spain,Honduras,Spain,Honduras,2.0,0.0,Matchday 11,Group H,True,flat_score,False,False,False,2010/worldcup.json,45,2010|2010-06-21|Honduras|Spain,team_1_win,True
+2010,2010-06-21,Portugal,North Korea,Portugal,North Korea,7.0,0.0,Matchday 11,Group G,True,flat_score,False,False,False,2010/worldcup.json,39,2010|2010-06-21|North Korea|Portugal,team_1_win,True
+2010,2010-06-22,Greece,Argentina,Greece,Argentina,0.0,2.0,Matchday 12,Group B,True,flat_score,False,False,False,2010/worldcup.json,11,2010|2010-06-22|Argentina|Greece,team_2_win,True
+2010,2010-06-22,France,South Africa,France,South Africa,1.0,2.0,Matchday 12,Group A,True,flat_score,False,False,False,2010/worldcup.json,5,2010|2010-06-22|France|South Africa,team_2_win,True
+2010,2010-06-22,Mexico,Uruguay,Mexico,Uruguay,0.0,1.0,Matchday 12,Group A,True,flat_score,False,False,False,2010/worldcup.json,4,2010|2010-06-22|Mexico|Uruguay,team_2_win,True
+2010,2010-06-22,Nigeria,South Korea,Nigeria,South Korea,2.0,2.0,Matchday 12,Group B,True,flat_score,False,False,False,2010/worldcup.json,10,2010|2010-06-22|Nigeria|South Korea,draw,True
+2010,2010-06-23,USA,Algeria,United States,Algeria,1.0,0.0,Matchday 13,Group C,True,flat_score,False,False,False,2010/worldcup.json,16,2010|2010-06-23|Algeria|United States,team_1_win,True
+2010,2010-06-23,Australia,Serbia,Australia,Serbia,2.0,1.0,Matchday 13,Group D,True,flat_score,False,False,False,2010/worldcup.json,22,2010|2010-06-23|Australia|Serbia,team_1_win,True
+2010,2010-06-23,Slovenia,England,Slovenia,England,0.0,1.0,Matchday 13,Group C,True,flat_score,False,False,False,2010/worldcup.json,17,2010|2010-06-23|England|Slovenia,team_2_win,True
+2010,2010-06-23,Ghana,Germany,Ghana,Germany,0.0,1.0,Matchday 13,Group D,True,flat_score,False,False,False,2010/worldcup.json,23,2010|2010-06-23|Germany|Ghana,team_2_win,True
+2010,2010-06-24,Cameroon,Netherlands,Cameroon,Netherlands,1.0,2.0,Matchday 14,Group E,True,flat_score,False,False,False,2010/worldcup.json,29,2010|2010-06-24|Cameroon|Netherlands,team_2_win,True
+2010,2010-06-24,Denmark,Japan,Denmark,Japan,1.0,3.0,Matchday 14,Group E,True,flat_score,False,False,False,2010/worldcup.json,28,2010|2010-06-24|Denmark|Japan,team_2_win,True
+2010,2010-06-24,Slovakia,Italy,Slovakia,Italy,3.0,2.0,Matchday 14,Group F,True,flat_score,False,False,False,2010/worldcup.json,34,2010|2010-06-24|Italy|Slovakia,team_1_win,True
+2010,2010-06-24,Paraguay,New Zealand,Paraguay,New Zealand,0.0,0.0,Matchday 14,Group F,True,flat_score,False,False,False,2010/worldcup.json,35,2010|2010-06-24|New Zealand|Paraguay,draw,True
+2010,2010-06-25,Portugal,Brazil,Portugal,Brazil,0.0,0.0,Matchday 15,Group G,True,flat_score,False,False,False,2010/worldcup.json,40,2010|2010-06-25|Brazil|Portugal,draw,True
+2010,2010-06-25,Chile,Spain,Chile,Spain,1.0,2.0,Matchday 15,Group H,True,flat_score,False,False,False,2010/worldcup.json,46,2010|2010-06-25|Chile|Spain,team_2_win,True
+2010,2010-06-25,North Korea,Côte d'Ivoire,North Korea,Côte d'Ivoire,0.0,3.0,Matchday 15,Group G,True,flat_score,False,False,False,2010/worldcup.json,41,2010|2010-06-25|Côte d'Ivoire|North Korea,team_2_win,True
+2010,2010-06-25,Switzerland,Honduras,Switzerland,Honduras,0.0,0.0,Matchday 15,Group H,True,flat_score,False,False,False,2010/worldcup.json,47,2010|2010-06-25|Honduras|Switzerland,draw,True
+2010,2010-06-26,USA,Ghana,United States,Ghana,1.0,1.0,Round of 16,,False,ft_object,False,True,False,2010/worldcup.json,49,2010|2010-06-26|Ghana|United States,draw,True
+2010,2010-06-26,Uruguay,South Korea,Uruguay,South Korea,2.0,1.0,Round of 16,,False,flat_score,True,False,False,2010/worldcup.json,48,2010|2010-06-26|South Korea|Uruguay,team_1_win,False
+2010,2010-06-27,Argentina,Mexico,Argentina,Mexico,3.0,1.0,Round of 16,,False,flat_score,True,False,False,2010/worldcup.json,51,2010|2010-06-27|Argentina|Mexico,team_1_win,False
+2010,2010-06-27,Germany,England,Germany,England,4.0,1.0,Round of 16,,False,flat_score,True,False,False,2010/worldcup.json,50,2010|2010-06-27|England|Germany,team_1_win,False
+2010,2010-06-28,Brazil,Chile,Brazil,Chile,3.0,0.0,Round of 16,,False,flat_score,True,False,False,2010/worldcup.json,53,2010|2010-06-28|Brazil|Chile,team_1_win,False
+2010,2010-06-28,Netherlands,Slovakia,Netherlands,Slovakia,2.0,1.0,Round of 16,,False,flat_score,True,False,False,2010/worldcup.json,52,2010|2010-06-28|Netherlands|Slovakia,team_1_win,False
+2010,2010-06-29,Paraguay,Japan,Paraguay,Japan,0.0,0.0,Round of 16,,False,ft_object,False,True,True,2010/worldcup.json,54,2010|2010-06-29|Japan|Paraguay,draw,True
+2010,2010-06-29,Spain,Portugal,Spain,Portugal,1.0,0.0,Round of 16,,False,flat_score,True,False,False,2010/worldcup.json,55,2010|2010-06-29|Portugal|Spain,team_1_win,False
+2010,2010-07-02,Netherlands,Brazil,Netherlands,Brazil,2.0,1.0,Quarterfinals,,False,flat_score,True,False,False,2010/worldcup.json,56,2010|2010-07-02|Brazil|Netherlands,team_1_win,False
+2010,2010-07-02,Uruguay,Ghana,Uruguay,Ghana,1.0,1.0,Quarterfinals,,False,ft_object,False,True,True,2010/worldcup.json,57,2010|2010-07-02|Ghana|Uruguay,draw,True
+2010,2010-07-03,Argentina,Germany,Argentina,Germany,0.0,4.0,Quarterfinals,,False,flat_score,True,False,False,2010/worldcup.json,58,2010|2010-07-03|Argentina|Germany,team_2_win,False
+2010,2010-07-03,Paraguay,Spain,Paraguay,Spain,0.0,1.0,Quarterfinals,,False,flat_score,True,False,False,2010/worldcup.json,59,2010|2010-07-03|Paraguay|Spain,team_2_win,False
+2010,2010-07-06,Uruguay,Netherlands,Uruguay,Netherlands,2.0,3.0,Semifinals,,False,flat_score,True,False,False,2010/worldcup.json,60,2010|2010-07-06|Netherlands|Uruguay,team_2_win,False
+2010,2010-07-07,Germany,Spain,Germany,Spain,0.0,1.0,Semifinals,,False,flat_score,True,False,False,2010/worldcup.json,61,2010|2010-07-07|Germany|Spain,team_2_win,False
+2010,2010-07-10,Uruguay,Germany,Uruguay,Germany,2.0,3.0,Third-place play-off,,False,flat_score,True,False,False,2010/worldcup.json,62,2010|2010-07-10|Germany|Uruguay,team_2_win,False
+2010,2010-07-11,Netherlands,Spain,Netherlands,Spain,0.0,0.0,Final,,False,ft_object,False,True,False,2010/worldcup.json,63,2010|2010-07-11|Netherlands|Spain,draw,True
+2014,2014-06-12,Brazil,Croatia,Brazil,Croatia,3.0,1.0,Matchday 1,Group A,True,ft_object,False,False,False,2014/worldcup.json,0,2014|2014-06-12|Brazil|Croatia,team_1_win,True
+2014,2014-06-13,Chile,Australia,Chile,Australia,3.0,1.0,Matchday 2,Group B,True,ft_object,False,False,False,2014/worldcup.json,7,2014|2014-06-13|Australia|Chile,team_1_win,True
+2014,2014-06-13,Mexico,Cameroon,Mexico,Cameroon,1.0,0.0,Matchday 2,Group A,True,ft_object,False,False,False,2014/worldcup.json,1,2014|2014-06-13|Cameroon|Mexico,team_1_win,True
+2014,2014-06-13,Spain,Netherlands,Spain,Netherlands,1.0,5.0,Matchday 2,Group B,True,ft_object,False,False,False,2014/worldcup.json,6,2014|2014-06-13|Netherlands|Spain,team_2_win,True
+2014,2014-06-14,Colombia,Greece,Colombia,Greece,3.0,0.0,Matchday 3,Group C,True,flat_score,False,False,False,2014/worldcup.json,12,2014|2014-06-14|Colombia|Greece,team_1_win,True
+2014,2014-06-14,Uruguay,Costa Rica,Uruguay,Costa Rica,1.0,3.0,Matchday 3,Group D,True,flat_score,False,False,False,2014/worldcup.json,18,2014|2014-06-14|Costa Rica|Uruguay,team_2_win,True
+2014,2014-06-14,Côte d'Ivoire,Japan,Côte d'Ivoire,Japan,2.0,1.0,Matchday 3,Group C,True,flat_score,False,False,False,2014/worldcup.json,13,2014|2014-06-14|Côte d'Ivoire|Japan,team_1_win,True
+2014,2014-06-14,England,Italy,England,Italy,1.0,2.0,Matchday 3,Group D,True,flat_score,False,False,False,2014/worldcup.json,19,2014|2014-06-14|England|Italy,team_2_win,True
+2014,2014-06-15,Argentina,Bosnia-Herzegovina,Argentina,Bosnia-Herzegovina,2.0,1.0,Matchday 4,Group F,True,flat_score,False,False,False,2014/worldcup.json,30,2014|2014-06-15|Argentina|Bosnia-Herzegovina,team_1_win,True
+2014,2014-06-15,Switzerland,Ecuador,Switzerland,Ecuador,2.0,1.0,Matchday 4,Group E,True,flat_score,False,False,False,2014/worldcup.json,24,2014|2014-06-15|Ecuador|Switzerland,team_1_win,True
+2014,2014-06-15,France,Honduras,France,Honduras,3.0,0.0,Matchday 4,Group E,True,flat_score,False,False,False,2014/worldcup.json,25,2014|2014-06-15|France|Honduras,team_1_win,True
+2014,2014-06-16,Germany,Portugal,Germany,Portugal,4.0,0.0,Matchday 5,Group G,True,flat_score,False,False,False,2014/worldcup.json,36,2014|2014-06-16|Germany|Portugal,team_1_win,True
+2014,2014-06-16,Ghana,USA,Ghana,United States,1.0,2.0,Matchday 5,Group G,True,flat_score,False,False,False,2014/worldcup.json,37,2014|2014-06-16|Ghana|United States,team_2_win,True
+2014,2014-06-16,Iran,Nigeria,Iran,Nigeria,0.0,0.0,Matchday 5,Group F,True,flat_score,False,False,False,2014/worldcup.json,31,2014|2014-06-16|Iran|Nigeria,draw,True
+2014,2014-06-17,Belgium,Algeria,Belgium,Algeria,2.0,1.0,Matchday 6,Group H,True,flat_score,False,False,False,2014/worldcup.json,42,2014|2014-06-17|Algeria|Belgium,team_1_win,True
+2014,2014-06-17,Brazil,Mexico,Brazil,Mexico,0.0,0.0,Matchday 6,Group A,True,flat_score,False,False,False,2014/worldcup.json,2,2014|2014-06-17|Brazil|Mexico,draw,True
+2014,2014-06-17,Russia,South Korea,Russia,South Korea,1.0,1.0,Matchday 6,Group H,True,flat_score,False,False,False,2014/worldcup.json,43,2014|2014-06-17|Russia|South Korea,draw,True
+2014,2014-06-18,Australia,Netherlands,Australia,Netherlands,2.0,3.0,Matchday 7,Group B,True,flat_score,False,False,False,2014/worldcup.json,8,2014|2014-06-18|Australia|Netherlands,team_2_win,True
+2014,2014-06-18,Cameroon,Croatia,Cameroon,Croatia,0.0,4.0,Matchday 7,Group A,True,flat_score,False,False,False,2014/worldcup.json,3,2014|2014-06-18|Cameroon|Croatia,team_2_win,True
+2014,2014-06-18,Spain,Chile,Spain,Chile,0.0,2.0,Matchday 7,Group B,True,flat_score,False,False,False,2014/worldcup.json,9,2014|2014-06-18|Chile|Spain,team_2_win,True
+2014,2014-06-19,Colombia,Côte d'Ivoire,Colombia,Côte d'Ivoire,2.0,1.0,Matchday 8,Group C,True,flat_score,False,False,False,2014/worldcup.json,14,2014|2014-06-19|Colombia|Côte d'Ivoire,team_1_win,True
+2014,2014-06-19,Uruguay,England,Uruguay,England,2.0,1.0,Matchday 8,Group D,True,flat_score,False,False,False,2014/worldcup.json,20,2014|2014-06-19|England|Uruguay,team_1_win,True
+2014,2014-06-19,Japan,Greece,Japan,Greece,0.0,0.0,Matchday 8,Group C,True,flat_score,False,False,False,2014/worldcup.json,15,2014|2014-06-19|Greece|Japan,draw,True
+2014,2014-06-20,Italy,Costa Rica,Italy,Costa Rica,0.0,1.0,Matchday 9,Group D,True,flat_score,False,False,False,2014/worldcup.json,21,2014|2014-06-20|Costa Rica|Italy,team_2_win,True
+2014,2014-06-20,Honduras,Ecuador,Honduras,Ecuador,1.0,2.0,Matchday 9,Group E,True,flat_score,False,False,False,2014/worldcup.json,27,2014|2014-06-20|Ecuador|Honduras,team_2_win,True
+2014,2014-06-20,Switzerland,France,Switzerland,France,2.0,5.0,Matchday 9,Group E,True,flat_score,False,False,False,2014/worldcup.json,26,2014|2014-06-20|France|Switzerland,team_2_win,True
+2014,2014-06-21,Argentina,Iran,Argentina,Iran,1.0,0.0,Matchday 10,Group F,True,flat_score,False,False,False,2014/worldcup.json,32,2014|2014-06-21|Argentina|Iran,team_1_win,True
+2014,2014-06-21,Nigeria,Bosnia-Herzegovina,Nigeria,Bosnia-Herzegovina,1.0,0.0,Matchday 10,Group F,True,flat_score,False,False,False,2014/worldcup.json,33,2014|2014-06-21|Bosnia-Herzegovina|Nigeria,team_1_win,True
+2014,2014-06-21,Germany,Ghana,Germany,Ghana,2.0,2.0,Matchday 10,Group G,True,flat_score,False,False,False,2014/worldcup.json,38,2014|2014-06-21|Germany|Ghana,draw,True
+2014,2014-06-22,South Korea,Algeria,South Korea,Algeria,2.0,4.0,Matchday 11,Group H,True,flat_score,False,False,False,2014/worldcup.json,45,2014|2014-06-22|Algeria|South Korea,team_2_win,True
+2014,2014-06-22,Belgium,Russia,Belgium,Russia,1.0,0.0,Matchday 11,Group H,True,flat_score,False,False,False,2014/worldcup.json,44,2014|2014-06-22|Belgium|Russia,team_1_win,True
+2014,2014-06-22,USA,Portugal,United States,Portugal,2.0,2.0,Matchday 11,Group G,True,flat_score,False,False,False,2014/worldcup.json,39,2014|2014-06-22|Portugal|United States,draw,True
+2014,2014-06-23,Australia,Spain,Australia,Spain,0.0,3.0,Matchday 12,Group B,True,flat_score,False,False,False,2014/worldcup.json,10,2014|2014-06-23|Australia|Spain,team_2_win,True
+2014,2014-06-23,Cameroon,Brazil,Cameroon,Brazil,1.0,4.0,Matchday 12,Group A,True,flat_score,False,False,False,2014/worldcup.json,4,2014|2014-06-23|Brazil|Cameroon,team_2_win,True
+2014,2014-06-23,Netherlands,Chile,Netherlands,Chile,2.0,0.0,Matchday 12,Group B,True,flat_score,False,False,False,2014/worldcup.json,11,2014|2014-06-23|Chile|Netherlands,team_1_win,True
+2014,2014-06-23,Croatia,Mexico,Croatia,Mexico,1.0,3.0,Matchday 12,Group A,True,flat_score,False,False,False,2014/worldcup.json,5,2014|2014-06-23|Croatia|Mexico,team_2_win,True
+2014,2014-06-24,Japan,Colombia,Japan,Colombia,1.0,4.0,Matchday 13,Group C,True,flat_score,False,False,False,2014/worldcup.json,16,2014|2014-06-24|Colombia|Japan,team_2_win,True
+2014,2014-06-24,Costa Rica,England,Costa Rica,England,0.0,0.0,Matchday 13,Group D,True,flat_score,False,False,False,2014/worldcup.json,23,2014|2014-06-24|Costa Rica|England,draw,True
+2014,2014-06-24,Greece,Côte d'Ivoire,Greece,Côte d'Ivoire,2.0,1.0,Matchday 13,Group C,True,flat_score,False,False,False,2014/worldcup.json,17,2014|2014-06-24|Côte d'Ivoire|Greece,team_1_win,True
+2014,2014-06-24,Italy,Uruguay,Italy,Uruguay,0.0,1.0,Matchday 13,Group D,True,flat_score,False,False,False,2014/worldcup.json,22,2014|2014-06-24|Italy|Uruguay,team_2_win,True
+2014,2014-06-25,Nigeria,Argentina,Nigeria,Argentina,2.0,3.0,Matchday 14,Group F,True,flat_score,False,False,False,2014/worldcup.json,34,2014|2014-06-25|Argentina|Nigeria,team_2_win,True
+2014,2014-06-25,Bosnia-Herzegovina,Iran,Bosnia-Herzegovina,Iran,3.0,1.0,Matchday 14,Group F,True,flat_score,False,False,False,2014/worldcup.json,35,2014|2014-06-25|Bosnia-Herzegovina|Iran,team_1_win,True
+2014,2014-06-25,Ecuador,France,Ecuador,France,0.0,0.0,Matchday 14,Group E,True,flat_score,False,False,False,2014/worldcup.json,29,2014|2014-06-25|Ecuador|France,draw,True
+2014,2014-06-25,Honduras,Switzerland,Honduras,Switzerland,0.0,3.0,Matchday 14,Group E,True,flat_score,False,False,False,2014/worldcup.json,28,2014|2014-06-25|Honduras|Switzerland,team_2_win,True
+2014,2014-06-26,Algeria,Russia,Algeria,Russia,1.0,1.0,Matchday 15,Group H,True,flat_score,False,False,False,2014/worldcup.json,47,2014|2014-06-26|Algeria|Russia,draw,True
+2014,2014-06-26,South Korea,Belgium,South Korea,Belgium,0.0,1.0,Matchday 15,Group H,True,flat_score,False,False,False,2014/worldcup.json,46,2014|2014-06-26|Belgium|South Korea,team_2_win,True
+2014,2014-06-26,USA,Germany,United States,Germany,0.0,1.0,Matchday 15,Group G,True,flat_score,False,False,False,2014/worldcup.json,40,2014|2014-06-26|Germany|United States,team_2_win,True
+2014,2014-06-26,Portugal,Ghana,Portugal,Ghana,2.0,1.0,Matchday 15,Group G,True,flat_score,False,False,False,2014/worldcup.json,41,2014|2014-06-26|Ghana|Portugal,team_1_win,True
+2014,2014-06-28,Brazil,Chile,Brazil,Chile,1.0,1.0,Round of 16,,False,ft_object,False,True,True,2014/worldcup.json,48,2014|2014-06-28|Brazil|Chile,draw,True
+2014,2014-06-28,Colombia,Uruguay,Colombia,Uruguay,2.0,0.0,Round of 16,,False,ft_object,False,False,False,2014/worldcup.json,49,2014|2014-06-28|Colombia|Uruguay,team_1_win,True
+2014,2014-06-29,Costa Rica,Greece,Costa Rica,Greece,1.0,1.0,Round of 16,,False,ft_object,False,True,True,2014/worldcup.json,51,2014|2014-06-29|Costa Rica|Greece,draw,True
+2014,2014-06-29,Netherlands,Mexico,Netherlands,Mexico,2.0,1.0,Round of 16,,False,ft_object,False,False,False,2014/worldcup.json,50,2014|2014-06-29|Mexico|Netherlands,team_1_win,True
+2014,2014-06-30,Germany,Algeria,Germany,Algeria,0.0,0.0,Round of 16,,False,ft_object,False,True,False,2014/worldcup.json,53,2014|2014-06-30|Algeria|Germany,draw,True
+2014,2014-06-30,France,Nigeria,France,Nigeria,2.0,0.0,Round of 16,,False,ft_object,False,False,False,2014/worldcup.json,52,2014|2014-06-30|France|Nigeria,team_1_win,True
+2014,2014-07-01,Argentina,Switzerland,Argentina,Switzerland,0.0,0.0,Round of 16,,False,ft_object,False,True,False,2014/worldcup.json,54,2014|2014-07-01|Argentina|Switzerland,draw,True
+2014,2014-07-01,Belgium,USA,Belgium,United States,0.0,0.0,Round of 16,,False,ft_object,False,True,False,2014/worldcup.json,55,2014|2014-07-01|Belgium|United States,draw,True
+2014,2014-07-04,Brazil,Colombia,Brazil,Colombia,2.0,1.0,Quarter-finals,,False,ft_object,False,False,False,2014/worldcup.json,57,2014|2014-07-04|Brazil|Colombia,team_1_win,True
+2014,2014-07-04,France,Germany,France,Germany,0.0,1.0,Quarter-finals,,False,ft_object,False,False,False,2014/worldcup.json,56,2014|2014-07-04|France|Germany,team_2_win,True
+2014,2014-07-05,Argentina,Belgium,Argentina,Belgium,1.0,0.0,Quarter-finals,,False,ft_object,False,False,False,2014/worldcup.json,58,2014|2014-07-05|Argentina|Belgium,team_1_win,True
+2014,2014-07-05,Netherlands,Costa Rica,Netherlands,Costa Rica,0.0,0.0,Quarter-finals,,False,ft_object,False,True,True,2014/worldcup.json,59,2014|2014-07-05|Costa Rica|Netherlands,draw,True
+2014,2014-07-08,Brazil,Germany,Brazil,Germany,1.0,7.0,Semi-finals,,False,ft_object,False,False,False,2014/worldcup.json,60,2014|2014-07-08|Brazil|Germany,team_2_win,True
+2014,2014-07-09,Netherlands,Argentina,Netherlands,Argentina,0.0,0.0,Semi-finals,,False,ft_object,False,True,True,2014/worldcup.json,61,2014|2014-07-09|Argentina|Netherlands,draw,True
+2014,2014-07-12,Brazil,Netherlands,Brazil,Netherlands,0.0,3.0,Match for third place,,False,ft_object,False,False,False,2014/worldcup.json,62,2014|2014-07-12|Brazil|Netherlands,team_2_win,True
+2014,2014-07-13,Germany,Argentina,Germany,Argentina,0.0,0.0,Final,,False,ft_object,False,True,False,2014/worldcup.json,63,2014|2014-07-13|Argentina|Germany,draw,True
+2018,2018-06-14,Russia,Saudi Arabia,Russia,Saudi Arabia,5.0,0.0,Matchday 1,Group A,True,ft_object,False,False,False,2018/worldcup.json,0,2018|2018-06-14|Russia|Saudi Arabia,team_1_win,True
+2018,2018-06-15,Egypt,Uruguay,Egypt,Uruguay,0.0,1.0,Matchday 2,Group A,True,ft_object,False,False,False,2018/worldcup.json,1,2018|2018-06-15|Egypt|Uruguay,team_2_win,True
+2018,2018-06-15,Morocco,Iran,Morocco,Iran,0.0,1.0,Matchday 2,Group B,True,ft_object,False,False,False,2018/worldcup.json,6,2018|2018-06-15|Iran|Morocco,team_2_win,True
+2018,2018-06-15,Portugal,Spain,Portugal,Spain,3.0,3.0,Matchday 2,Group B,True,ft_object,False,False,False,2018/worldcup.json,7,2018|2018-06-15|Portugal|Spain,draw,True
+2018,2018-06-16,Argentina,Iceland,Argentina,Iceland,1.0,1.0,Matchday 3,Group D,True,ft_object,False,False,False,2018/worldcup.json,18,2018|2018-06-16|Argentina|Iceland,draw,True
+2018,2018-06-16,France,Australia,France,Australia,2.0,1.0,Matchday 3,Group C,True,ft_object,False,False,False,2018/worldcup.json,12,2018|2018-06-16|Australia|France,team_1_win,True
+2018,2018-06-16,Croatia,Nigeria,Croatia,Nigeria,2.0,0.0,Matchday 3,Group D,True,ft_object,False,False,False,2018/worldcup.json,19,2018|2018-06-16|Croatia|Nigeria,team_1_win,True
+2018,2018-06-16,Peru,Denmark,Peru,Denmark,0.0,1.0,Matchday 3,Group C,True,ft_object,False,False,False,2018/worldcup.json,13,2018|2018-06-16|Denmark|Peru,team_2_win,True
+2018,2018-06-17,Brazil,Switzerland,Brazil,Switzerland,1.0,1.0,Matchday 4,Group E,True,ft_object,False,False,False,2018/worldcup.json,25,2018|2018-06-17|Brazil|Switzerland,draw,True
+2018,2018-06-17,Costa Rica,Serbia,Costa Rica,Serbia,0.0,1.0,Matchday 4,Group E,True,ft_object,False,False,False,2018/worldcup.json,24,2018|2018-06-17|Costa Rica|Serbia,team_2_win,True
+2018,2018-06-17,Germany,Mexico,Germany,Mexico,0.0,1.0,Matchday 4,Group F,True,ft_object,False,False,False,2018/worldcup.json,30,2018|2018-06-17|Germany|Mexico,team_2_win,True
+2018,2018-06-18,Belgium,Panama,Belgium,Panama,3.0,0.0,Matchday 5,Group G,True,ft_object,False,False,False,2018/worldcup.json,36,2018|2018-06-18|Belgium|Panama,team_1_win,True
+2018,2018-06-18,Tunisia,England,Tunisia,England,1.0,2.0,Matchday 5,Group G,True,ft_object,False,False,False,2018/worldcup.json,37,2018|2018-06-18|England|Tunisia,team_2_win,True
+2018,2018-06-18,Sweden,South Korea,Sweden,South Korea,1.0,0.0,Matchday 5,Group F,True,ft_object,False,False,False,2018/worldcup.json,31,2018|2018-06-18|South Korea|Sweden,team_1_win,True
+2018,2018-06-19,Colombia,Japan,Colombia,Japan,1.0,2.0,Matchday 6,Group H,True,ft_object,False,False,False,2018/worldcup.json,42,2018|2018-06-19|Colombia|Japan,team_2_win,True
+2018,2018-06-19,Russia,Egypt,Russia,Egypt,3.0,1.0,Matchday 6,Group A,True,ft_object,False,False,False,2018/worldcup.json,2,2018|2018-06-19|Egypt|Russia,team_1_win,True
+2018,2018-06-19,Poland,Senegal,Poland,Senegal,1.0,2.0,Matchday 6,Group H,True,ft_object,False,False,False,2018/worldcup.json,43,2018|2018-06-19|Poland|Senegal,team_2_win,True
+2018,2018-06-20,Iran,Spain,Iran,Spain,0.0,1.0,Matchday 7,Group B,True,ft_object,False,False,False,2018/worldcup.json,9,2018|2018-06-20|Iran|Spain,team_2_win,True
+2018,2018-06-20,Portugal,Morocco,Portugal,Morocco,1.0,0.0,Matchday 7,Group B,True,ft_object,False,False,False,2018/worldcup.json,8,2018|2018-06-20|Morocco|Portugal,team_1_win,True
+2018,2018-06-20,Uruguay,Saudi Arabia,Uruguay,Saudi Arabia,1.0,0.0,Matchday 7,Group A,True,ft_object,False,False,False,2018/worldcup.json,3,2018|2018-06-20|Saudi Arabia|Uruguay,team_1_win,True
+2018,2018-06-21,Argentina,Croatia,Argentina,Croatia,0.0,3.0,Matchday 8,Group D,True,ft_object,False,False,False,2018/worldcup.json,20,2018|2018-06-21|Argentina|Croatia,team_2_win,True
+2018,2018-06-21,Denmark,Australia,Denmark,Australia,1.0,1.0,Matchday 8,Group C,True,ft_object,False,False,False,2018/worldcup.json,14,2018|2018-06-21|Australia|Denmark,draw,True
+2018,2018-06-21,France,Peru,France,Peru,1.0,0.0,Matchday 8,Group C,True,ft_object,False,False,False,2018/worldcup.json,15,2018|2018-06-21|France|Peru,team_1_win,True
+2018,2018-06-22,Brazil,Costa Rica,Brazil,Costa Rica,2.0,0.0,Matchday 9,Group E,True,ft_object,False,False,False,2018/worldcup.json,26,2018|2018-06-22|Brazil|Costa Rica,team_1_win,True
+2018,2018-06-22,Nigeria,Iceland,Nigeria,Iceland,2.0,0.0,Matchday 9,Group D,True,ft_object,False,False,False,2018/worldcup.json,21,2018|2018-06-22|Iceland|Nigeria,team_1_win,True
+2018,2018-06-22,Serbia,Switzerland,Serbia,Switzerland,1.0,2.0,Matchday 9,Group E,True,ft_object,False,False,False,2018/worldcup.json,27,2018|2018-06-22|Serbia|Switzerland,team_2_win,True
+2018,2018-06-23,Belgium,Tunisia,Belgium,Tunisia,5.0,2.0,Matchday 10,Group G,True,ft_object,False,False,False,2018/worldcup.json,38,2018|2018-06-23|Belgium|Tunisia,team_1_win,True
+2018,2018-06-23,Germany,Sweden,Germany,Sweden,2.0,1.0,Matchday 10,Group F,True,ft_object,False,False,False,2018/worldcup.json,33,2018|2018-06-23|Germany|Sweden,team_1_win,True
+2018,2018-06-23,South Korea,Mexico,South Korea,Mexico,1.0,2.0,Matchday 10,Group F,True,ft_object,False,False,False,2018/worldcup.json,32,2018|2018-06-23|Mexico|South Korea,team_2_win,True
+2018,2018-06-24,Poland,Colombia,Poland,Colombia,0.0,3.0,Matchday 11,Group H,True,ft_object,False,False,False,2018/worldcup.json,45,2018|2018-06-24|Colombia|Poland,team_2_win,True
+2018,2018-06-24,England,Panama,England,Panama,6.0,1.0,Matchday 11,Group G,True,ft_object,False,False,False,2018/worldcup.json,39,2018|2018-06-24|England|Panama,team_1_win,True
+2018,2018-06-24,Japan,Senegal,Japan,Senegal,2.0,2.0,Matchday 11,Group H,True,ft_object,False,False,False,2018/worldcup.json,44,2018|2018-06-24|Japan|Senegal,draw,True
+2018,2018-06-25,Saudi Arabia,Egypt,Saudi Arabia,Egypt,2.0,1.0,Matchday 12,Group A,True,ft_object,False,False,False,2018/worldcup.json,5,2018|2018-06-25|Egypt|Saudi Arabia,team_1_win,True
+2018,2018-06-25,Iran,Portugal,Iran,Portugal,1.0,1.0,Matchday 12,Group B,True,ft_object,False,False,False,2018/worldcup.json,10,2018|2018-06-25|Iran|Portugal,draw,True
+2018,2018-06-25,Spain,Morocco,Spain,Morocco,2.0,2.0,Matchday 12,Group B,True,ft_object,False,False,False,2018/worldcup.json,11,2018|2018-06-25|Morocco|Spain,draw,True
+2018,2018-06-25,Uruguay,Russia,Uruguay,Russia,3.0,0.0,Matchday 12,Group A,True,ft_object,False,False,False,2018/worldcup.json,4,2018|2018-06-25|Russia|Uruguay,team_1_win,True
+2018,2018-06-26,Nigeria,Argentina,Nigeria,Argentina,1.0,2.0,Matchday 13,Group D,True,ft_object,False,False,False,2018/worldcup.json,22,2018|2018-06-26|Argentina|Nigeria,team_2_win,True
+2018,2018-06-26,Australia,Peru,Australia,Peru,0.0,2.0,Matchday 13,Group C,True,ft_object,False,False,False,2018/worldcup.json,17,2018|2018-06-26|Australia|Peru,team_2_win,True
+2018,2018-06-26,Iceland,Croatia,Iceland,Croatia,1.0,2.0,Matchday 13,Group D,True,ft_object,False,False,False,2018/worldcup.json,23,2018|2018-06-26|Croatia|Iceland,team_2_win,True
+2018,2018-06-26,Denmark,France,Denmark,France,0.0,0.0,Matchday 13,Group C,True,ft_object,False,False,False,2018/worldcup.json,16,2018|2018-06-26|Denmark|France,draw,True
+2018,2018-06-27,Serbia,Brazil,Serbia,Brazil,0.0,2.0,Matchday 14,Group E,True,ft_object,False,False,False,2018/worldcup.json,28,2018|2018-06-27|Brazil|Serbia,team_2_win,True
+2018,2018-06-27,Switzerland,Costa Rica,Switzerland,Costa Rica,2.0,2.0,Matchday 14,Group E,True,ft_object,False,False,False,2018/worldcup.json,29,2018|2018-06-27|Costa Rica|Switzerland,draw,True
+2018,2018-06-27,South Korea,Germany,South Korea,Germany,2.0,0.0,Matchday 14,Group F,True,ft_object,False,False,False,2018/worldcup.json,34,2018|2018-06-27|Germany|South Korea,team_1_win,True
+2018,2018-06-27,Mexico,Sweden,Mexico,Sweden,0.0,3.0,Matchday 14,Group F,True,ft_object,False,False,False,2018/worldcup.json,35,2018|2018-06-27|Mexico|Sweden,team_2_win,True
+2018,2018-06-28,England,Belgium,England,Belgium,0.0,1.0,Matchday 15,Group G,True,ft_object,False,False,False,2018/worldcup.json,40,2018|2018-06-28|Belgium|England,team_2_win,True
+2018,2018-06-28,Senegal,Colombia,Senegal,Colombia,0.0,1.0,Matchday 15,Group H,True,ft_object,False,False,False,2018/worldcup.json,47,2018|2018-06-28|Colombia|Senegal,team_2_win,True
+2018,2018-06-28,Japan,Poland,Japan,Poland,0.0,1.0,Matchday 15,Group H,True,ft_object,False,False,False,2018/worldcup.json,46,2018|2018-06-28|Japan|Poland,team_2_win,True
+2018,2018-06-28,Panama,Tunisia,Panama,Tunisia,1.0,2.0,Matchday 15,Group G,True,ft_object,False,False,False,2018/worldcup.json,41,2018|2018-06-28|Panama|Tunisia,team_2_win,True
+2018,2018-06-30,France,Argentina,France,Argentina,4.0,3.0,Round of 16,,False,ft_object,False,False,False,2018/worldcup.json,48,2018|2018-06-30|Argentina|France,team_1_win,True
+2018,2018-06-30,Uruguay,Portugal,Uruguay,Portugal,2.0,1.0,Round of 16,,False,ft_object,False,False,False,2018/worldcup.json,49,2018|2018-06-30|Portugal|Uruguay,team_1_win,True
+2018,2018-07-01,Croatia,Denmark,Croatia,Denmark,1.0,1.0,Round of 16,,False,ft_object,False,True,True,2018/worldcup.json,51,2018|2018-07-01|Croatia|Denmark,draw,True
+2018,2018-07-01,Spain,Russia,Spain,Russia,1.0,1.0,Round of 16,,False,ft_object,False,True,True,2018/worldcup.json,50,2018|2018-07-01|Russia|Spain,draw,True
+2018,2018-07-02,Belgium,Japan,Belgium,Japan,3.0,2.0,Round of 16,,False,ft_object,False,False,False,2018/worldcup.json,53,2018|2018-07-02|Belgium|Japan,team_1_win,True
+2018,2018-07-02,Brazil,Mexico,Brazil,Mexico,2.0,0.0,Round of 16,,False,ft_object,False,False,False,2018/worldcup.json,52,2018|2018-07-02|Brazil|Mexico,team_1_win,True
+2018,2018-07-03,Colombia,England,Colombia,England,1.0,1.0,Round of 16,,False,ft_object,False,True,True,2018/worldcup.json,55,2018|2018-07-03|Colombia|England,draw,True
+2018,2018-07-03,Sweden,Switzerland,Sweden,Switzerland,1.0,0.0,Round of 16,,False,ft_object,False,False,False,2018/worldcup.json,54,2018|2018-07-03|Sweden|Switzerland,team_1_win,True
+2018,2018-07-06,Brazil,Belgium,Brazil,Belgium,1.0,2.0,Quarter-finals,,False,ft_object,False,False,False,2018/worldcup.json,57,2018|2018-07-06|Belgium|Brazil,team_2_win,True
+2018,2018-07-06,Uruguay,France,Uruguay,France,0.0,2.0,Quarter-finals,,False,ft_object,False,False,False,2018/worldcup.json,56,2018|2018-07-06|France|Uruguay,team_2_win,True
+2018,2018-07-07,Russia,Croatia,Russia,Croatia,1.0,1.0,Quarter-finals,,False,ft_object,False,True,True,2018/worldcup.json,59,2018|2018-07-07|Croatia|Russia,draw,True
+2018,2018-07-07,Sweden,England,Sweden,England,0.0,2.0,Quarter-finals,,False,ft_object,False,False,False,2018/worldcup.json,58,2018|2018-07-07|England|Sweden,team_2_win,True
+2018,2018-07-10,France,Belgium,France,Belgium,1.0,0.0,Semi-finals,,False,ft_object,False,False,False,2018/worldcup.json,60,2018|2018-07-10|Belgium|France,team_1_win,True
+2018,2018-07-11,Croatia,England,Croatia,England,1.0,1.0,Semi-finals,,False,ft_object,False,True,False,2018/worldcup.json,61,2018|2018-07-11|Croatia|England,draw,True
+2018,2018-07-14,Belgium,England,Belgium,England,2.0,0.0,Match for third place,,False,ft_object,False,False,False,2018/worldcup.json,62,2018|2018-07-14|Belgium|England,team_1_win,True
+2018,2018-07-15,France,Croatia,France,Croatia,4.0,2.0,Final,,False,ft_object,False,False,False,2018/worldcup.json,63,2018|2018-07-15|Croatia|France,team_1_win,True
+2022,2022-11-20,Qatar,Ecuador,Qatar,Ecuador,0.0,2.0,Matchday 1,Group A,True,ft_object,False,False,False,2022/worldcup.json,0,2022|2022-11-20|Ecuador|Qatar,team_2_win,True
+2022,2022-11-21,England,Iran,England,Iran,6.0,2.0,Matchday 2,Group B,True,ft_object,False,False,False,2022/worldcup.json,6,2022|2022-11-21|England|Iran,team_1_win,True
+2022,2022-11-21,Senegal,Netherlands,Senegal,Netherlands,0.0,2.0,Matchday 2,Group A,True,ft_object,False,False,False,2022/worldcup.json,1,2022|2022-11-21|Netherlands|Senegal,team_2_win,True
+2022,2022-11-21,USA,Wales,United States,Wales,1.0,1.0,Matchday 2,Group B,True,ft_object,False,False,False,2022/worldcup.json,7,2022|2022-11-21|United States|Wales,draw,True
+2022,2022-11-22,Argentina,Saudi Arabia,Argentina,Saudi Arabia,1.0,2.0,Matchday 3,Group C,True,ft_object,False,False,False,2022/worldcup.json,12,2022|2022-11-22|Argentina|Saudi Arabia,team_2_win,True
+2022,2022-11-22,France,Australia,France,Australia,4.0,1.0,Matchday 3,Group D,True,ft_object,False,False,False,2022/worldcup.json,19,2022|2022-11-22|Australia|France,team_1_win,True
+2022,2022-11-22,Denmark,Tunisia,Denmark,Tunisia,0.0,0.0,Matchday 3,Group D,True,flat_score,False,False,False,2022/worldcup.json,18,2022|2022-11-22|Denmark|Tunisia,draw,True
+2022,2022-11-22,Mexico,Poland,Mexico,Poland,0.0,0.0,Matchday 3,Group C,True,flat_score,False,False,False,2022/worldcup.json,13,2022|2022-11-22|Mexico|Poland,draw,True
+2022,2022-11-23,Belgium,Canada,Belgium,Canada,1.0,0.0,Matchday 4,Group F,True,ft_object,False,False,False,2022/worldcup.json,31,2022|2022-11-23|Belgium|Canada,team_1_win,True
+2022,2022-11-23,Spain,Costa Rica,Spain,Costa Rica,7.0,0.0,Matchday 4,Group E,True,ft_object,False,False,False,2022/worldcup.json,25,2022|2022-11-23|Costa Rica|Spain,team_1_win,True
+2022,2022-11-23,Morocco,Croatia,Morocco,Croatia,0.0,0.0,Matchday 4,Group F,True,flat_score,False,False,False,2022/worldcup.json,30,2022|2022-11-23|Croatia|Morocco,draw,True
+2022,2022-11-23,Germany,Japan,Germany,Japan,1.0,2.0,Matchday 4,Group E,True,ft_object,False,False,False,2022/worldcup.json,24,2022|2022-11-23|Germany|Japan,team_2_win,True
+2022,2022-11-24,Brazil,Serbia,Brazil,Serbia,2.0,0.0,Matchday 5,Group G,True,ft_object,False,False,False,2022/worldcup.json,37,2022|2022-11-24|Brazil|Serbia,team_1_win,True
+2022,2022-11-24,Switzerland,Cameroon,Switzerland,Cameroon,1.0,0.0,Matchday 5,Group G,True,ft_object,False,False,False,2022/worldcup.json,36,2022|2022-11-24|Cameroon|Switzerland,team_1_win,True
+2022,2022-11-24,Portugal,Ghana,Portugal,Ghana,3.0,2.0,Matchday 5,Group H,True,ft_object,False,False,False,2022/worldcup.json,43,2022|2022-11-24|Ghana|Portugal,team_1_win,True
+2022,2022-11-24,Uruguay,South Korea,Uruguay,South Korea,0.0,0.0,Matchday 5,Group H,True,flat_score,False,False,False,2022/worldcup.json,42,2022|2022-11-24|South Korea|Uruguay,draw,True
+2022,2022-11-25,Netherlands,Ecuador,Netherlands,Ecuador,1.0,1.0,Matchday 6,Group A,True,ft_object,False,False,False,2022/worldcup.json,3,2022|2022-11-25|Ecuador|Netherlands,draw,True
+2022,2022-11-25,England,USA,England,United States,0.0,0.0,Matchday 6,Group B,True,flat_score,False,False,False,2022/worldcup.json,9,2022|2022-11-25|England|United States,draw,True
+2022,2022-11-25,Wales,Iran,Wales,Iran,0.0,2.0,Matchday 6,Group B,True,ft_object,False,False,False,2022/worldcup.json,8,2022|2022-11-25|Iran|Wales,team_2_win,True
+2022,2022-11-25,Qatar,Senegal,Qatar,Senegal,1.0,3.0,Matchday 6,Group A,True,ft_object,False,False,False,2022/worldcup.json,2,2022|2022-11-25|Qatar|Senegal,team_2_win,True
+2022,2022-11-26,Argentina,Mexico,Argentina,Mexico,2.0,0.0,Matchday 7,Group C,True,ft_object,False,False,False,2022/worldcup.json,15,2022|2022-11-26|Argentina|Mexico,team_1_win,True
+2022,2022-11-26,Tunisia,Australia,Tunisia,Australia,0.0,1.0,Matchday 7,Group D,True,ft_object,False,False,False,2022/worldcup.json,20,2022|2022-11-26|Australia|Tunisia,team_2_win,True
+2022,2022-11-26,France,Denmark,France,Denmark,2.0,1.0,Matchday 7,Group D,True,ft_object,False,False,False,2022/worldcup.json,21,2022|2022-11-26|Denmark|France,team_1_win,True
+2022,2022-11-26,Poland,Saudi Arabia,Poland,Saudi Arabia,2.0,0.0,Matchday 7,Group C,True,ft_object,False,False,False,2022/worldcup.json,14,2022|2022-11-26|Poland|Saudi Arabia,team_1_win,True
+2022,2022-11-27,Belgium,Morocco,Belgium,Morocco,0.0,2.0,Matchday 8,Group F,True,ft_object,False,False,False,2022/worldcup.json,32,2022|2022-11-27|Belgium|Morocco,team_2_win,True
+2022,2022-11-27,Croatia,Canada,Croatia,Canada,4.0,1.0,Matchday 8,Group F,True,ft_object,False,False,False,2022/worldcup.json,33,2022|2022-11-27|Canada|Croatia,team_1_win,True
+2022,2022-11-27,Japan,Costa Rica,Japan,Costa Rica,0.0,1.0,Matchday 8,Group E,True,ft_object,False,False,False,2022/worldcup.json,26,2022|2022-11-27|Costa Rica|Japan,team_2_win,True
+2022,2022-11-27,Spain,Germany,Spain,Germany,1.0,1.0,Matchday 8,Group E,True,ft_object,False,False,False,2022/worldcup.json,27,2022|2022-11-27|Germany|Spain,draw,True
+2022,2022-11-28,Brazil,Switzerland,Brazil,Switzerland,1.0,0.0,Matchday 9,Group G,True,ft_object,False,False,False,2022/worldcup.json,39,2022|2022-11-28|Brazil|Switzerland,team_1_win,True
+2022,2022-11-28,Cameroon,Serbia,Cameroon,Serbia,3.0,3.0,Matchday 9,Group G,True,ft_object,False,False,False,2022/worldcup.json,38,2022|2022-11-28|Cameroon|Serbia,draw,True
+2022,2022-11-28,South Korea,Ghana,South Korea,Ghana,2.0,3.0,Matchday 9,Group H,True,ft_object,False,False,False,2022/worldcup.json,44,2022|2022-11-28|Ghana|South Korea,team_2_win,True
+2022,2022-11-28,Portugal,Uruguay,Portugal,Uruguay,2.0,0.0,Matchday 9,Group H,True,ft_object,False,False,False,2022/worldcup.json,45,2022|2022-11-28|Portugal|Uruguay,team_1_win,True
+2022,2022-11-29,Ecuador,Senegal,Ecuador,Senegal,1.0,2.0,Matchday 10,Group A,True,ft_object,False,False,False,2022/worldcup.json,4,2022|2022-11-29|Ecuador|Senegal,team_2_win,True
+2022,2022-11-29,Wales,England,Wales,England,0.0,3.0,Matchday 10,Group B,True,ft_object,False,False,False,2022/worldcup.json,10,2022|2022-11-29|England|Wales,team_2_win,True
+2022,2022-11-29,Iran,USA,Iran,United States,0.0,1.0,Matchday 10,Group B,True,ft_object,False,False,False,2022/worldcup.json,11,2022|2022-11-29|Iran|United States,team_2_win,True
+2022,2022-11-29,Netherlands,Qatar,Netherlands,Qatar,2.0,0.0,Matchday 10,Group A,True,ft_object,False,False,False,2022/worldcup.json,5,2022|2022-11-29|Netherlands|Qatar,team_1_win,True
+2022,2022-11-30,Poland,Argentina,Poland,Argentina,0.0,2.0,Matchday 11,Group C,True,ft_object,False,False,False,2022/worldcup.json,16,2022|2022-11-30|Argentina|Poland,team_2_win,True
+2022,2022-11-30,Australia,Denmark,Australia,Denmark,1.0,0.0,Matchday 11,Group D,True,ft_object,False,False,False,2022/worldcup.json,22,2022|2022-11-30|Australia|Denmark,team_1_win,True
+2022,2022-11-30,Tunisia,France,Tunisia,France,1.0,0.0,Matchday 11,Group D,True,ft_object,False,False,False,2022/worldcup.json,23,2022|2022-11-30|France|Tunisia,team_1_win,True
+2022,2022-11-30,Saudi Arabia,Mexico,Saudi Arabia,Mexico,1.0,2.0,Matchday 11,Group C,True,ft_object,False,False,False,2022/worldcup.json,17,2022|2022-11-30|Mexico|Saudi Arabia,team_2_win,True
+2022,2022-12-01,Croatia,Belgium,Croatia,Belgium,0.0,0.0,Matchday 12,Group F,True,flat_score,False,False,False,2022/worldcup.json,34,2022|2022-12-01|Belgium|Croatia,draw,True
+2022,2022-12-01,Canada,Morocco,Canada,Morocco,1.0,2.0,Matchday 12,Group F,True,ft_object,False,False,False,2022/worldcup.json,35,2022|2022-12-01|Canada|Morocco,team_2_win,True
+2022,2022-12-01,Costa Rica,Germany,Costa Rica,Germany,2.0,4.0,Matchday 12,Group E,True,ft_object,False,False,False,2022/worldcup.json,29,2022|2022-12-01|Costa Rica|Germany,team_2_win,True
+2022,2022-12-01,Japan,Spain,Japan,Spain,2.0,1.0,Matchday 12,Group E,True,ft_object,False,False,False,2022/worldcup.json,28,2022|2022-12-01|Japan|Spain,team_1_win,True
+2022,2022-12-02,Cameroon,Brazil,Cameroon,Brazil,1.0,0.0,Matchday 13,Group G,True,ft_object,False,False,False,2022/worldcup.json,41,2022|2022-12-02|Brazil|Cameroon,team_1_win,True
+2022,2022-12-02,Ghana,Uruguay,Ghana,Uruguay,0.0,2.0,Matchday 13,Group H,True,flat_score,False,False,False,2022/worldcup.json,46,2022|2022-12-02|Ghana|Uruguay,team_2_win,True
+2022,2022-12-02,South Korea,Portugal,South Korea,Portugal,2.0,1.0,Matchday 13,Group H,True,ft_object,False,False,False,2022/worldcup.json,47,2022|2022-12-02|Portugal|South Korea,team_1_win,True
+2022,2022-12-02,Serbia,Switzerland,Serbia,Switzerland,2.0,3.0,Matchday 13,Group G,True,ft_object,False,False,False,2022/worldcup.json,40,2022|2022-12-02|Serbia|Switzerland,team_2_win,True
+2022,2022-12-03,Argentina,Australia,Argentina,Australia,2.0,1.0,Round of 16,,False,ft_object,False,False,False,2022/worldcup.json,49,2022|2022-12-03|Argentina|Australia,team_1_win,True
+2022,2022-12-03,Netherlands,USA,Netherlands,United States,3.0,1.0,Round of 16,,False,ft_object,False,False,False,2022/worldcup.json,48,2022|2022-12-03|Netherlands|United States,team_1_win,True
+2022,2022-12-04,England,Senegal,England,Senegal,3.0,0.0,Round of 16,,False,ft_object,False,False,False,2022/worldcup.json,51,2022|2022-12-04|England|Senegal,team_1_win,True
+2022,2022-12-04,France,Poland,France,Poland,3.0,1.0,Round of 16,,False,ft_object,False,False,False,2022/worldcup.json,50,2022|2022-12-04|France|Poland,team_1_win,True
+2022,2022-12-05,Brazil,South Korea,Brazil,South Korea,4.0,1.0,Round of 16,,False,ft_object,False,False,False,2022/worldcup.json,53,2022|2022-12-05|Brazil|South Korea,team_1_win,True
+2022,2022-12-05,Japan,Croatia,Japan,Croatia,1.0,1.0,Round of 16,,False,ft_object,False,True,True,2022/worldcup.json,52,2022|2022-12-05|Croatia|Japan,draw,True
+2022,2022-12-06,Morocco,Spain,Morocco,Spain,0.0,0.0,Round of 16,,False,ft_object,False,True,True,2022/worldcup.json,54,2022|2022-12-06|Morocco|Spain,draw,True
+2022,2022-12-06,Portugal,Switzerland,Portugal,Switzerland,6.0,1.0,Round of 16,,False,ft_object,False,False,False,2022/worldcup.json,55,2022|2022-12-06|Portugal|Switzerland,team_1_win,True
+2022,2022-12-09,Netherlands,Argentina,Netherlands,Argentina,2.0,2.0,Quarter-finals,,False,ft_object,False,True,True,2022/worldcup.json,57,2022|2022-12-09|Argentina|Netherlands,draw,True
+2022,2022-12-09,Croatia,Brazil,Croatia,Brazil,0.0,0.0,Quarter-finals,,False,ft_object,False,True,True,2022/worldcup.json,56,2022|2022-12-09|Brazil|Croatia,draw,True
+2022,2022-12-10,England,France,England,France,1.0,2.0,Quarter-finals,,False,ft_object,False,False,False,2022/worldcup.json,59,2022|2022-12-10|England|France,team_2_win,True
+2022,2022-12-10,Morocco,Portugal,Morocco,Portugal,1.0,0.0,Quarter-finals,,False,ft_object,False,False,False,2022/worldcup.json,58,2022|2022-12-10|Morocco|Portugal,team_1_win,True
+2022,2022-12-13,Argentina,Croatia,Argentina,Croatia,3.0,0.0,Semi-finals,,False,ft_object,False,False,False,2022/worldcup.json,60,2022|2022-12-13|Argentina|Croatia,team_1_win,True
+2022,2022-12-14,France,Morocco,France,Morocco,2.0,0.0,Semi-finals,,False,ft_object,False,False,False,2022/worldcup.json,61,2022|2022-12-14|France|Morocco,team_1_win,True
+2022,2022-12-17,Croatia,Morocco,Croatia,Morocco,2.0,1.0,Match for third place,,False,ft_object,False,False,False,2022/worldcup.json,62,2022|2022-12-17|Croatia|Morocco,team_1_win,True
+2022,2022-12-18,Argentina,France,Argentina,France,2.0,2.0,Final,,False,ft_object,False,True,True,2022/worldcup.json,63,2022|2022-12-18|Argentina|France,draw,True
+2026,2026-06-11,South Korea,Czech Republic,South Korea,Czech Republic,2.0,1.0,Matchday 1,Group A,True,ft_object,False,False,False,2026/worldcup.json,1,2026|2026-06-11|Czech Republic|South Korea,team_1_win,True
+2026,2026-06-11,Mexico,South Africa,Mexico,South Africa,2.0,0.0,Matchday 1,Group A,True,ft_object,False,False,False,2026/worldcup.json,0,2026|2026-06-11|Mexico|South Africa,team_1_win,True
+2026,2026-06-12,Canada,Bosnia & Herzegovina,Canada,Bosnia & Herzegovina,1.0,1.0,Matchday 2,Group B,True,ft_object,False,False,False,2026/worldcup.json,6,2026|2026-06-12|Bosnia & Herzegovina|Canada,draw,True
+2026,2026-06-12,USA,Paraguay,United States,Paraguay,4.0,1.0,Matchday 2,Group D,True,ft_object,False,False,False,2026/worldcup.json,18,2026|2026-06-12|Paraguay|United States,team_1_win,True
+2026,2026-06-13,Australia,Turkey,Australia,Turkey,2.0,0.0,Matchday 3,Group D,True,ft_object,False,False,False,2026/worldcup.json,19,2026|2026-06-13|Australia|Turkey,team_1_win,True
+2026,2026-06-13,Brazil,Morocco,Brazil,Morocco,1.0,1.0,Matchday 3,Group C,True,ft_object,False,False,False,2026/worldcup.json,12,2026|2026-06-13|Brazil|Morocco,draw,True
+2026,2026-06-13,Haiti,Scotland,Haiti,Scotland,0.0,1.0,Matchday 3,Group C,True,ft_object,False,False,False,2026/worldcup.json,13,2026|2026-06-13|Haiti|Scotland,team_2_win,True
+2026,2026-06-13,Qatar,Switzerland,Qatar,Switzerland,1.0,1.0,Matchday 3,Group B,True,ft_object,False,False,False,2026/worldcup.json,7,2026|2026-06-13|Qatar|Switzerland,draw,True
+2026,2026-06-14,Germany,Curaçao,Germany,Curaçao,7.0,1.0,Matchday 4,Group E,True,ft_object,False,False,False,2026/worldcup.json,24,2026|2026-06-14|Curaçao|Germany,team_1_win,True
+2026,2026-06-14,Ivory Coast,Ecuador,Ivory Coast,Ecuador,1.0,0.0,Matchday 4,Group E,True,ft_object,False,False,False,2026/worldcup.json,25,2026|2026-06-14|Ecuador|Ivory Coast,team_1_win,True
+2026,2026-06-14,Netherlands,Japan,Netherlands,Japan,2.0,2.0,Matchday 4,Group F,True,ft_object,False,False,False,2026/worldcup.json,30,2026|2026-06-14|Japan|Netherlands,draw,True
+2026,2026-06-14,Sweden,Tunisia,Sweden,Tunisia,5.0,1.0,Matchday 4,Group F,True,ft_object,False,False,False,2026/worldcup.json,31,2026|2026-06-14|Sweden|Tunisia,team_1_win,True
+2026,2026-06-15,Belgium,Egypt,Belgium,Egypt,1.0,1.0,Matchday 5,Group G,True,ft_object,False,False,False,2026/worldcup.json,36,2026|2026-06-15|Belgium|Egypt,draw,True
+2026,2026-06-15,Spain,Cape Verde,Spain,Cape Verde,0.0,0.0,Matchday 5,Group H,True,ft_object,False,False,False,2026/worldcup.json,42,2026|2026-06-15|Cape Verde|Spain,draw,True
+2026,2026-06-15,Iran,New Zealand,Iran,New Zealand,2.0,2.0,Matchday 5,Group G,True,ft_object,False,False,False,2026/worldcup.json,37,2026|2026-06-15|Iran|New Zealand,draw,True
+2026,2026-06-15,Saudi Arabia,Uruguay,Saudi Arabia,Uruguay,1.0,1.0,Matchday 5,Group H,True,ft_object,False,False,False,2026/worldcup.json,43,2026|2026-06-15|Saudi Arabia|Uruguay,draw,True
+2026,2026-06-16,Argentina,Algeria,Argentina,Algeria,3.0,0.0,Matchday 6,Group J,True,ft_object,False,False,False,2026/worldcup.json,54,2026|2026-06-16|Algeria|Argentina,team_1_win,True
+2026,2026-06-16,Austria,Jordan,Austria,Jordan,3.0,1.0,Matchday 6,Group J,True,ft_object,False,False,False,2026/worldcup.json,55,2026|2026-06-16|Austria|Jordan,team_1_win,True
+2026,2026-06-16,France,Senegal,France,Senegal,3.0,1.0,Matchday 6,Group I,True,ft_object,False,False,False,2026/worldcup.json,48,2026|2026-06-16|France|Senegal,team_1_win,True
+2026,2026-06-16,Iraq,Norway,Iraq,Norway,1.0,4.0,Matchday 6,Group I,True,ft_object,False,False,False,2026/worldcup.json,49,2026|2026-06-16|Iraq|Norway,team_2_win,True
+2026,2026-06-17,Uzbekistan,Colombia,Uzbekistan,Colombia,1.0,3.0,Matchday 7,Group K,True,ft_object,False,False,False,2026/worldcup.json,61,2026|2026-06-17|Colombia|Uzbekistan,team_2_win,True
+2026,2026-06-17,England,Croatia,England,Croatia,4.0,2.0,Matchday 7,Group L,True,ft_object,False,False,False,2026/worldcup.json,66,2026|2026-06-17|Croatia|England,team_1_win,True
+2026,2026-06-17,Portugal,DR Congo,Portugal,DR Congo,1.0,1.0,Matchday 7,Group K,True,ft_object,False,False,False,2026/worldcup.json,60,2026|2026-06-17|DR Congo|Portugal,draw,True
+2026,2026-06-17,Ghana,Panama,Ghana,Panama,1.0,0.0,Matchday 7,Group L,True,ft_object,False,False,False,2026/worldcup.json,67,2026|2026-06-17|Ghana|Panama,team_1_win,True
+2026,2026-06-18,Switzerland,Bosnia & Herzegovina,Switzerland,Bosnia & Herzegovina,4.0,1.0,Matchday 8,Group B,True,ft_object,False,False,False,2026/worldcup.json,8,2026|2026-06-18|Bosnia & Herzegovina|Switzerland,team_1_win,True
+2026,2026-06-18,Canada,Qatar,Canada,Qatar,6.0,0.0,Matchday 8,Group B,True,ft_object,False,False,False,2026/worldcup.json,9,2026|2026-06-18|Canada|Qatar,team_1_win,True
+2026,2026-06-18,Czech Republic,South Africa,Czech Republic,South Africa,1.0,1.0,Matchday 8,Group A,True,ft_object,False,False,False,2026/worldcup.json,2,2026|2026-06-18|Czech Republic|South Africa,draw,True
+2026,2026-06-18,Mexico,South Korea,Mexico,South Korea,1.0,0.0,Matchday 8,Group A,True,ft_object,False,False,False,2026/worldcup.json,3,2026|2026-06-18|Mexico|South Korea,team_1_win,True
+2026,2026-06-19,USA,Australia,United States,Australia,2.0,0.0,Matchday 9,Group D,True,ft_object,False,False,False,2026/worldcup.json,20,2026|2026-06-19|Australia|United States,team_1_win,True
+2026,2026-06-19,Brazil,Haiti,Brazil,Haiti,3.0,0.0,Matchday 9,Group C,True,ft_object,False,False,False,2026/worldcup.json,15,2026|2026-06-19|Brazil|Haiti,team_1_win,True
+2026,2026-06-19,Scotland,Morocco,Scotland,Morocco,0.0,1.0,Matchday 9,Group C,True,ft_object,False,False,False,2026/worldcup.json,14,2026|2026-06-19|Morocco|Scotland,team_2_win,True
+2026,2026-06-19,Turkey,Paraguay,Turkey,Paraguay,0.0,1.0,Matchday 9,Group D,True,ft_object,False,False,False,2026/worldcup.json,21,2026|2026-06-19|Paraguay|Turkey,team_2_win,True
+2026,2026-06-20,Ecuador,Curaçao,Ecuador,Curaçao,0.0,0.0,Matchday 10,Group E,True,ft_object,False,False,False,2026/worldcup.json,27,2026|2026-06-20|Curaçao|Ecuador,draw,True
+2026,2026-06-20,Germany,Ivory Coast,Germany,Ivory Coast,2.0,1.0,Matchday 10,Group E,True,ft_object,False,False,False,2026/worldcup.json,26,2026|2026-06-20|Germany|Ivory Coast,team_1_win,True
+2026,2026-06-20,Tunisia,Japan,Tunisia,Japan,0.0,4.0,Matchday 10,Group F,True,ft_object,False,False,False,2026/worldcup.json,33,2026|2026-06-20|Japan|Tunisia,team_2_win,True
+2026,2026-06-20,Netherlands,Sweden,Netherlands,Sweden,5.0,1.0,Matchday 10,Group F,True,ft_object,False,False,False,2026/worldcup.json,32,2026|2026-06-20|Netherlands|Sweden,team_1_win,True
+2026,2026-06-21,Belgium,Iran,Belgium,Iran,0.0,0.0,Matchday 11,Group G,True,ft_object,False,False,False,2026/worldcup.json,38,2026|2026-06-21|Belgium|Iran,draw,True
+2026,2026-06-21,Uruguay,Cape Verde,Uruguay,Cape Verde,2.0,2.0,Matchday 11,Group H,True,ft_object,False,False,False,2026/worldcup.json,45,2026|2026-06-21|Cape Verde|Uruguay,draw,True
+2026,2026-06-21,New Zealand,Egypt,New Zealand,Egypt,1.0,3.0,Matchday 11,Group G,True,ft_object,False,False,False,2026/worldcup.json,39,2026|2026-06-21|Egypt|New Zealand,team_2_win,True
+2026,2026-06-21,Spain,Saudi Arabia,Spain,Saudi Arabia,4.0,0.0,Matchday 11,Group H,True,ft_object,False,False,False,2026/worldcup.json,44,2026|2026-06-21|Saudi Arabia|Spain,team_1_win,True
+2026,2026-06-22,Jordan,Algeria,Jordan,Algeria,1.0,2.0,Matchday 12,Group J,True,ft_object,False,False,False,2026/worldcup.json,57,2026|2026-06-22|Algeria|Jordan,team_2_win,True
+2026,2026-06-22,Argentina,Austria,Argentina,Austria,2.0,0.0,Matchday 12,Group J,True,ft_object,False,False,False,2026/worldcup.json,56,2026|2026-06-22|Argentina|Austria,team_1_win,True
+2026,2026-06-22,France,Iraq,France,Iraq,3.0,0.0,Matchday 12,Group I,True,ft_object,False,False,False,2026/worldcup.json,50,2026|2026-06-22|France|Iraq,team_1_win,True
+2026,2026-06-22,Norway,Senegal,Norway,Senegal,3.0,2.0,Matchday 12,Group I,True,ft_object,False,False,False,2026/worldcup.json,51,2026|2026-06-22|Norway|Senegal,team_1_win,True
+2026,2026-06-23,Colombia,DR Congo,Colombia,DR Congo,1.0,0.0,Matchday 13,Group K,True,ft_object,False,False,False,2026/worldcup.json,63,2026|2026-06-23|Colombia|DR Congo,team_1_win,True
+2026,2026-06-23,Panama,Croatia,Panama,Croatia,0.0,1.0,Matchday 13,Group L,True,ft_object,False,False,False,2026/worldcup.json,69,2026|2026-06-23|Croatia|Panama,team_2_win,True
+2026,2026-06-23,England,Ghana,England,Ghana,0.0,0.0,Matchday 13,Group L,True,ft_object,False,False,False,2026/worldcup.json,68,2026|2026-06-23|England|Ghana,draw,True
+2026,2026-06-23,Portugal,Uzbekistan,Portugal,Uzbekistan,5.0,0.0,Matchday 13,Group K,True,ft_object,False,False,False,2026/worldcup.json,62,2026|2026-06-23|Portugal|Uzbekistan,team_1_win,True
+2026,2026-06-24,Bosnia & Herzegovina,Qatar,Bosnia & Herzegovina,Qatar,3.0,1.0,Matchday 14,Group B,True,ft_object,False,False,False,2026/worldcup.json,11,2026|2026-06-24|Bosnia & Herzegovina|Qatar,team_1_win,True
+2026,2026-06-24,Scotland,Brazil,Scotland,Brazil,0.0,3.0,Matchday 14,Group C,True,ft_object,False,False,False,2026/worldcup.json,16,2026|2026-06-24|Brazil|Scotland,team_2_win,True
+2026,2026-06-24,Switzerland,Canada,Switzerland,Canada,2.0,1.0,Matchday 14,Group B,True,ft_object,False,False,False,2026/worldcup.json,10,2026|2026-06-24|Canada|Switzerland,team_1_win,True
+2026,2026-06-24,Czech Republic,Mexico,Czech Republic,Mexico,0.0,3.0,Matchday 14,Group A,True,ft_object,False,False,False,2026/worldcup.json,4,2026|2026-06-24|Czech Republic|Mexico,team_2_win,True
+2026,2026-06-24,Morocco,Haiti,Morocco,Haiti,4.0,2.0,Matchday 14,Group C,True,ft_object,False,False,False,2026/worldcup.json,17,2026|2026-06-24|Haiti|Morocco,team_1_win,True
+2026,2026-06-24,South Africa,South Korea,South Africa,South Korea,1.0,0.0,Matchday 14,Group A,True,ft_object,False,False,False,2026/worldcup.json,5,2026|2026-06-24|South Africa|South Korea,team_1_win,True
+2026,2026-06-25,Paraguay,Australia,Paraguay,Australia,0.0,0.0,Matchday 15,Group D,True,ft_object,False,False,False,2026/worldcup.json,23,2026|2026-06-25|Australia|Paraguay,draw,True
+2026,2026-06-25,Curaçao,Ivory Coast,Curaçao,Ivory Coast,0.0,2.0,Matchday 15,Group E,True,ft_object,False,False,False,2026/worldcup.json,28,2026|2026-06-25|Curaçao|Ivory Coast,team_2_win,True
+2026,2026-06-25,Ecuador,Germany,Ecuador,Germany,2.0,1.0,Matchday 15,Group E,True,ft_object,False,False,False,2026/worldcup.json,29,2026|2026-06-25|Ecuador|Germany,team_1_win,True
+2026,2026-06-25,Japan,Sweden,Japan,Sweden,1.0,1.0,Matchday 15,Group F,True,ft_object,False,False,False,2026/worldcup.json,34,2026|2026-06-25|Japan|Sweden,draw,True
+2026,2026-06-25,Tunisia,Netherlands,Tunisia,Netherlands,1.0,3.0,Matchday 15,Group F,True,ft_object,False,False,False,2026/worldcup.json,35,2026|2026-06-25|Netherlands|Tunisia,team_2_win,True
+2026,2026-06-25,Turkey,USA,Turkey,United States,3.0,2.0,Matchday 15,Group D,True,ft_object,False,False,False,2026/worldcup.json,22,2026|2026-06-25|Turkey|United States,team_1_win,True
+2026,2026-06-26,New Zealand,Belgium,New Zealand,Belgium,1.0,5.0,Matchday 16,Group G,True,ft_object,False,False,False,2026/worldcup.json,41,2026|2026-06-26|Belgium|New Zealand,team_2_win,True
+2026,2026-06-26,Cape Verde,Saudi Arabia,Cape Verde,Saudi Arabia,0.0,0.0,Matchday 16,Group H,True,ft_object,False,False,False,2026/worldcup.json,46,2026|2026-06-26|Cape Verde|Saudi Arabia,draw,True
+2026,2026-06-26,Egypt,Iran,Egypt,Iran,1.0,1.0,Matchday 16,Group G,True,ft_object,False,False,False,2026/worldcup.json,40,2026|2026-06-26|Egypt|Iran,draw,True
+2026,2026-06-26,Norway,France,Norway,France,1.0,4.0,Matchday 16,Group I,True,ft_object,False,False,False,2026/worldcup.json,52,2026|2026-06-26|France|Norway,team_2_win,True
+2026,2026-06-26,Senegal,Iraq,Senegal,Iraq,5.0,0.0,Matchday 16,Group I,True,ft_object,False,False,False,2026/worldcup.json,53,2026|2026-06-26|Iraq|Senegal,team_1_win,True
+2026,2026-06-26,Uruguay,Spain,Uruguay,Spain,0.0,1.0,Matchday 16,Group H,True,ft_object,False,False,False,2026/worldcup.json,47,2026|2026-06-26|Spain|Uruguay,team_2_win,True
+2026,2026-06-27,Algeria,Austria,Algeria,Austria,3.0,3.0,Matchday 17,Group J,True,ft_object,False,False,False,2026/worldcup.json,58,2026|2026-06-27|Algeria|Austria,draw,True
+2026,2026-06-27,Jordan,Argentina,Jordan,Argentina,1.0,3.0,Matchday 17,Group J,True,ft_object,False,False,False,2026/worldcup.json,59,2026|2026-06-27|Argentina|Jordan,team_2_win,True
+2026,2026-06-27,Colombia,Portugal,Colombia,Portugal,0.0,0.0,Matchday 17,Group K,True,ft_object,False,False,False,2026/worldcup.json,64,2026|2026-06-27|Colombia|Portugal,draw,True
+2026,2026-06-27,Croatia,Ghana,Croatia,Ghana,2.0,1.0,Matchday 17,Group L,True,ft_object,False,False,False,2026/worldcup.json,71,2026|2026-06-27|Croatia|Ghana,team_1_win,True
+2026,2026-06-27,DR Congo,Uzbekistan,DR Congo,Uzbekistan,3.0,1.0,Matchday 17,Group K,True,ft_object,False,False,False,2026/worldcup.json,65,2026|2026-06-27|DR Congo|Uzbekistan,team_1_win,True
+2026,2026-06-27,Panama,England,Panama,England,0.0,2.0,Matchday 17,Group L,True,ft_object,False,False,False,2026/worldcup.json,70,2026|2026-06-27|England|Panama,team_2_win,True
+2026,2026-06-28,South Africa,Canada,South Africa,Canada,0.0,1.0,Round of 32,,False,ft_object,False,False,False,2026/worldcup.json,72,2026|2026-06-28|Canada|South Africa,team_2_win,True
+2026,2026-06-29,Brazil,Japan,Brazil,Japan,2.0,1.0,Round of 32,,False,ft_object,False,False,False,2026/worldcup.json,75,2026|2026-06-29|Brazil|Japan,team_1_win,True
+2026,2026-06-29,Germany,Paraguay,Germany,Paraguay,1.0,1.0,Round of 32,,False,ft_object,False,True,True,2026/worldcup.json,73,2026|2026-06-29|Germany|Paraguay,draw,True
+2026,2026-06-29,Netherlands,Morocco,Netherlands,Morocco,1.0,1.0,Round of 32,,False,ft_object,False,True,True,2026/worldcup.json,74,2026|2026-06-29|Morocco|Netherlands,draw,True
+2026,2026-06-30,Mexico,Ecuador,Mexico,Ecuador,2.0,0.0,Round of 32,,False,ft_object,False,False,False,2026/worldcup.json,78,2026|2026-06-30|Ecuador|Mexico,team_1_win,True
+2026,2026-06-30,France,Sweden,France,Sweden,3.0,0.0,Round of 32,,False,ft_object,False,False,False,2026/worldcup.json,76,2026|2026-06-30|France|Sweden,team_1_win,True
+2026,2026-06-30,Ivory Coast,Norway,Ivory Coast,Norway,1.0,2.0,Round of 32,,False,ft_object,False,False,False,2026/worldcup.json,77,2026|2026-06-30|Ivory Coast|Norway,team_2_win,True
+2026,2026-07-01,Belgium,Senegal,Belgium,Senegal,2.0,2.0,Round of 32,,False,ft_object,False,True,False,2026/worldcup.json,81,2026|2026-07-01|Belgium|Senegal,draw,True
+2026,2026-07-01,USA,Bosnia & Herzegovina,United States,Bosnia & Herzegovina,2.0,0.0,Round of 32,,False,ft_object,False,False,False,2026/worldcup.json,80,2026|2026-07-01|Bosnia & Herzegovina|United States,team_1_win,True
+2026,2026-07-01,England,DR Congo,England,DR Congo,2.0,1.0,Round of 32,,False,ft_object,False,False,False,2026/worldcup.json,79,2026|2026-07-01|DR Congo|England,team_1_win,True
+2026,2026-07-02,Switzerland,Algeria,Switzerland,Algeria,2.0,0.0,Round of 32,,False,ft_object,False,False,False,2026/worldcup.json,84,2026|2026-07-02|Algeria|Switzerland,team_1_win,True
+2026,2026-07-02,Spain,Austria,Spain,Austria,3.0,0.0,Round of 32,,False,ft_object,False,False,False,2026/worldcup.json,83,2026|2026-07-02|Austria|Spain,team_1_win,True
+2026,2026-07-02,Portugal,Croatia,Portugal,Croatia,2.0,1.0,Round of 32,,False,ft_object,False,False,False,2026/worldcup.json,82,2026|2026-07-02|Croatia|Portugal,team_1_win,True
+2026,2026-07-03,Argentina,Cape Verde,Argentina,Cape Verde,1.0,1.0,Round of 32,,False,ft_object,False,True,False,2026/worldcup.json,85,2026|2026-07-03|Argentina|Cape Verde,draw,True
+2026,2026-07-03,Australia,Egypt,Australia,Egypt,1.0,1.0,Round of 32,,False,ft_object,False,True,True,2026/worldcup.json,87,2026|2026-07-03|Australia|Egypt,draw,True
+2026,2026-07-03,Colombia,Ghana,Colombia,Ghana,1.0,0.0,Round of 32,,False,ft_object,False,False,False,2026/worldcup.json,86,2026|2026-07-03|Colombia|Ghana,team_1_win,True
+2026,2026-07-04,Canada,Morocco,Canada,Morocco,0.0,3.0,Round of 16,,False,ft_object,False,False,False,2026/worldcup.json,89,2026|2026-07-04|Canada|Morocco,team_2_win,True
+2026,2026-07-04,Paraguay,France,Paraguay,France,0.0,1.0,Round of 16,,False,ft_object,False,False,False,2026/worldcup.json,88,2026|2026-07-04|France|Paraguay,team_2_win,True
+2026,2026-07-05,Brazil,Norway,Brazil,Norway,1.0,2.0,Round of 16,,False,ft_object,False,False,False,2026/worldcup.json,90,2026|2026-07-05|Brazil|Norway,team_2_win,True
+2026,2026-07-05,Mexico,England,Mexico,England,2.0,3.0,Round of 16,,False,ft_object,False,False,False,2026/worldcup.json,91,2026|2026-07-05|England|Mexico,team_2_win,True
+2026,2026-07-06,USA,Belgium,United States,Belgium,1.0,4.0,Round of 16,,False,ft_object,False,False,False,2026/worldcup.json,93,2026|2026-07-06|Belgium|United States,team_2_win,True
+2026,2026-07-06,Portugal,Spain,Portugal,Spain,0.0,1.0,Round of 16,,False,ft_object,False,False,False,2026/worldcup.json,92,2026|2026-07-06|Portugal|Spain,team_2_win,True
+2026,2026-07-07,Argentina,Egypt,Argentina,Egypt,3.0,2.0,Round of 16,,False,ft_object,False,False,False,2026/worldcup.json,94,2026|2026-07-07|Argentina|Egypt,team_1_win,True
+2026,2026-07-07,Switzerland,Colombia,Switzerland,Colombia,0.0,0.0,Round of 16,,False,ft_object,False,True,True,2026/worldcup.json,95,2026|2026-07-07|Colombia|Switzerland,draw,True
+2026,2026-07-09,France,Morocco,France,Morocco,2.0,0.0,Quarter-final,,False,ft_object,False,False,False,2026/worldcup.json,96,2026|2026-07-09|France|Morocco,team_1_win,True
+2026,2026-07-10,Spain,Belgium,Spain,Belgium,2.0,1.0,Quarter-final,,False,ft_object,False,False,False,2026/worldcup.json,97,2026|2026-07-10|Belgium|Spain,team_1_win,True
+2026,2026-07-11,Argentina,Switzerland,Argentina,Switzerland,1.0,1.0,Quarter-final,,False,ft_object,False,True,False,2026/worldcup.json,99,2026|2026-07-11|Argentina|Switzerland,draw,True
+2026,2026-07-11,Norway,England,Norway,England,1.0,1.0,Quarter-final,,False,ft_object,False,True,False,2026/worldcup.json,98,2026|2026-07-11|England|Norway,draw,True
+2026,2026-07-14,France,Spain,France,Spain,0.0,2.0,Semi-final,,False,ft_object,False,False,False,2026/worldcup.json,100,2026|2026-07-14|France|Spain,team_2_win,True
+2026,2026-07-15,England,Argentina,England,Argentina,1.0,2.0,Semi-final,,False,ft_object,False,False,False,2026/worldcup.json,101,2026|2026-07-15|Argentina|England,team_2_win,True
+2026,2026-07-18,France,England,France,England,4.0,6.0,Match for third place,,False,ft_object,False,False,False,2026/worldcup.json,102,2026|2026-07-18|England|France,team_2_win,True
+2026,2026-07-19,Spain,Argentina,Spain,Argentina,0.0,0.0,Final,,False,ft_object,False,True,False,2026/worldcup.json,103,2026|2026-07-19|Argentina|Spain,draw,True

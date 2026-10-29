@@ -1,0 +1,51 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<style>
+*{box-sizing:border-box}body{margin:0;background:#07142c;color:#e8f4ff;font:13px Inter,system-ui,Arial,sans-serif;overflow:hidden}
+#shell{height:478px;position:relative;border-radius:15px;overflow:hidden;border:1px solid #176388;background:radial-gradient(circle at 50% 35%,#103c52,#06142b 78%)}
+#view{position:absolute;inset:0}canvas{display:block;cursor:grab}canvas:active{cursor:grabbing}
+#top{position:absolute;z-index:3;top:13px;left:15px;right:15px;pointer-events:none;display:flex;align-items:flex-start;justify-content:space-between;gap:10px}
+#team{font-size:15px;font-weight:800;color:#eafaff}#tag{color:#68e8ff;font-size:11px;letter-spacing:.1em;font-weight:bold;margin-top:3px}
+#detail{position:absolute;z-index:3;bottom:12px;left:14px;right:14px;border:1px solid rgba(38,214,255,.34);border-radius:12px;padding:10px 12px;background:rgba(5,18,42,.86);backdrop-filter:blur(7px);pointer-events:none;min-height:51px}
+#detail b{color:#ffd06b}#hint{font-size:11px;color:#9cc4df;margin-top:3px}
+#error{position:absolute;z-index:5;inset:33% 20px auto;color:#f9d996;text-align:center;display:none}
+</style></head><body><div id="shell"><div id="view"></div><div id="top"><div><div id="team"></div><div id="tag">3D STARTING XI • ILLUSTRATIVE LAYOUT</div></div><div id="tag">DRAG • ZOOM • SELECT</div></div><div id="detail"><span id="selected">Select a player to inspect their recorded name and captain status.</span><div id="hint">Numbers are source-list order, NOT shirt numbers or verified positions.</div></div><div id="error"></div></div>
+<script id="data" type="application/json">__VIEW_DATA__</script><script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/0.149.0/three.min.js"></script>
+<script>
+(()=>{
+const d=JSON.parse(document.getElementById('data').textContent),shell=document.getElementById('shell'),view=document.getElementById('view'),error=document.getElementById('error');
+document.getElementById('team').textContent=d.team;
+if(!window.THREE){error.style.display='block';error.textContent='Three.js is unavailable. Use the 2D Plotly pitch option.';return;}
+try{
+ const scene=new THREE.Scene(),group=new THREE.Group();scene.add(group);
+ const camera=new THREE.PerspectiveCamera(38,1,.1,100);camera.position.set(0,14.4,16.2);camera.lookAt(0,0,0);
+ const renderer=new THREE.WebGLRenderer({antialias:true,alpha:true});renderer.setPixelRatio(Math.min(devicePixelRatio||1,1.8));renderer.setClearColor(0,0);view.appendChild(renderer.domElement);
+ scene.add(new THREE.AmbientLight(0xffffff,.85));const lamp=new THREE.DirectionalLight(0xe5ffff,1.25);lamp.position.set(-4,12,5);scene.add(lamp);
+ const field=new THREE.Mesh(new THREE.BoxGeometry(9.7,.22,12.9),new THREE.MeshPhongMaterial({color:0x075448,shininess:20}));field.position.y=-.16;group.add(field);
+ for(let i=0;i<8;i++){const stripe=new THREE.Mesh(new THREE.PlaneGeometry(9.55,12.7/8),new THREE.MeshBasicMaterial({color:i%2?0x176859:0x0b594c,transparent:true,opacity:.18,side:THREE.DoubleSide}));stripe.rotation.x=-Math.PI/2;stripe.position.set(0,-.042,-5.56+(i+.5)*12.7/8);group.add(stripe);}
+ const lineMat=new THREE.LineBasicMaterial({color:0xc4fff2,transparent:true,opacity:.8});
+ function path(coords){const pts=coords.map(p=>new THREE.Vector3(p[0],.022,p[1]));const line=new THREE.Line(new THREE.BufferGeometry().setFromPoints(pts),lineMat);group.add(line)}
+ path([[-4.7,-6.25],[4.7,-6.25],[4.7,6.25],[-4.7,6.25],[-4.7,-6.25]]);path([[-4.7,0],[4.7,0]]);
+ path([[-2.6,-6.25],[-2.6,-4.3],[2.6,-4.3],[2.6,-6.25]]);path([[-2.6,6.25],[-2.6,4.3],[2.6,4.3],[2.6,6.25]]);
+ path([[-1.1,-6.25],[-1.1,-5.25],[1.1,-5.25],[1.1,-6.25]]);path([[-1.1,6.25],[-1.1,5.25],[1.1,5.25],[1.1,6.25]]);
+ const circle=[];for(let a=0;a<=72;a++){let th=a*Math.PI/36;circle.push([1.03*Math.cos(th),1.03*Math.sin(th)])}path(circle);
+ // Layout is deliberately based on list order only, never claimed as real positions.
+ const formation=d.formation==='4-4-2'?[1,4,4,2]:[1,4,3,3];const rows=[-4.8,-2.2,.65,3.65];let k=0;
+ const pickables=[], selected=document.getElementById('selected');
+ function badge(text){const c=document.createElement('canvas');c.width=128;c.height=128;const ctx=c.getContext('2d');ctx.clearRect(0,0,128,128);ctx.fillStyle='#06192d';ctx.beginPath();ctx.arc(64,64,50,0,Math.PI*2);ctx.fill();ctx.strokeStyle='#c7faff';ctx.lineWidth=7;ctx.stroke();ctx.font='bold 54px system-ui';ctx.textAlign='center';ctx.textBaseline='middle';ctx.fillStyle='#ffffff';ctx.fillText(text,64,68);const texture=new THREE.CanvasTexture(c);const sprite=new THREE.Sprite(new THREE.SpriteMaterial({map:texture,depthTest:false}));sprite.scale.set(.82,.82,1);return sprite;}
+ formation.forEach((size,r)=>{for(let j=0;j<size && k<d.players.length;j++,k++){
+  const player=d.players[k],x=size===1?0:-3.35+j*6.7/(size-1),z=rows[r];
+  const mat=new THREE.MeshPhongMaterial({color:d.colour||'#18e0ff',shininess:80,emissive:0x001b21});
+  const mesh=new THREE.Mesh(new THREE.CylinderGeometry(.41,.41,.17,28),mat);mesh.position.set(x,.15,z);mesh.userData.player=player;group.add(mesh);pickables.push(mesh);
+  const top=badge(String(player.order));top.position.set(x,.48,z);group.add(top);
+  if(player.captain){const rim=new THREE.Mesh(new THREE.TorusGeometry(.47,.04,8,34),new THREE.MeshBasicMaterial({color:0xffd266}));rim.rotation.x=Math.PI/2;rim.position.set(x,.30,z);group.add(rim);}
+ }});
+ let zoom=1,down=false,px=0,py=0,distance=0;const raycaster=new THREE.Raycaster(),pointer=new THREE.Vector2();
+ renderer.domElement.addEventListener('pointerdown',e=>{down=true;distance=0;px=e.clientX;py=e.clientY;renderer.domElement.setPointerCapture(e.pointerId)});
+ renderer.domElement.addEventListener('pointermove',e=>{if(!down)return;const dx=e.clientX-px,dy=e.clientY-py;distance+=Math.abs(dx)+Math.abs(dy);group.rotation.y+=dx*.007;group.rotation.x=Math.max(-.35,Math.min(.35,group.rotation.x+dy*.004));px=e.clientX;py=e.clientY});
+ renderer.domElement.addEventListener('pointerup',e=>{down=false;if(distance>7)return;const box=renderer.domElement.getBoundingClientRect();pointer.set((e.clientX-box.left)/box.width*2-1,-(e.clientY-box.top)/box.height*2+1);raycaster.setFromCamera(pointer,camera);const hit=raycaster.intersectObjects(pickables);if(hit.length){const p=hit[0].object.userData.player;selected.textContent='#'+p.order+' • '+p.name+(p.captain?' — CAPTAIN':' — starting XI');}});
+ renderer.domElement.addEventListener('wheel',e=>{e.preventDefault();zoom=Math.max(.72,Math.min(1.5,zoom+e.deltaY*.0007));camera.position.set(0,14.4*zoom,16.2*zoom);camera.lookAt(0,0,0)},{passive:false});
+ function resize(){const r=shell.getBoundingClientRect();camera.aspect=r.width/r.height;camera.updateProjectionMatrix();renderer.setSize(r.width,r.height,false)}resize();new ResizeObserver(resize).observe(shell);
+ function draw(){requestAnimationFrame(draw);renderer.render(scene,camera)}draw();
+}catch(err){error.style.display='block';error.textContent='3D view failed: '+err.message+'. Switch to the 2D pitch.';}
+})();
+</script></body></html>

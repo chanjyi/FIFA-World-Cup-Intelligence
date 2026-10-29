@@ -1,0 +1,8 @@
+# Dark native widget styling is the fallback for Streamlit DOM/CSS changes.
+[theme]
+base = "dark"
+primaryColor = "#18E0FF"
+backgroundColor = "#07132D"
+secondaryBackgroundColor = "#0E1D3D"
+textColor = "#E8F4FF"
+font = "sans serif"

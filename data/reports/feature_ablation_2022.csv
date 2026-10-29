@@ -1,0 +1,4 @@
+Features,Accuracy,Log loss,Validation matches,Training matches
+Form only,0.5,1.0263059280376625,64,297
+Elo only,0.46875,1.057467572361062,64,297
+Form + Elo,0.515625,1.0116185712171228,64,297

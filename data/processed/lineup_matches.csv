@@ -1,0 +1,1069 @@
+﻿lineup_key,year,date,team_1,team_2,round,source_file
+1930|000|1930-07-13|France|Mexico,1930,1930-07-13,France,Mexico,"Group Matches, Group 1",data/raw/openfootball/1930/worldcup-full.json
+1930|001|1930-07-15|Argentina|France,1930,1930-07-15,Argentina,France,"Group Matches, Group 1",data/raw/openfootball/1930/worldcup-full.json
+1930|002|1930-07-16|Chile|Mexico,1930,1930-07-16,Chile,Mexico,"Group Matches, Group 1",data/raw/openfootball/1930/worldcup-full.json
+1930|003|1930-07-19|Chile|France,1930,1930-07-19,Chile,France,"Group Matches, Group 1",data/raw/openfootball/1930/worldcup-full.json
+1930|004|1930-07-19|Argentina|Mexico,1930,1930-07-19,Argentina,Mexico,"Group Matches, Group 1",data/raw/openfootball/1930/worldcup-full.json
+1930|005|1930-07-22|Argentina|Chile,1930,1930-07-22,Argentina,Chile,"Group Matches, Group 1",data/raw/openfootball/1930/worldcup-full.json
+1930|006|1930-07-14|Yugoslavia|Brazil,1930,1930-07-14,Yugoslavia,Brazil,"Group Matches, Group 2",data/raw/openfootball/1930/worldcup-full.json
+1930|007|1930-07-17|Yugoslavia|Bolivia,1930,1930-07-17,Yugoslavia,Bolivia,"Group Matches, Group 2",data/raw/openfootball/1930/worldcup-full.json
+1930|008|1930-07-20|Brazil|Bolivia,1930,1930-07-20,Brazil,Bolivia,"Group Matches, Group 2",data/raw/openfootball/1930/worldcup-full.json
+1930|009|1930-07-14|Romania|Peru,1930,1930-07-14,Romania,Peru,"Group Matches, Group 3",data/raw/openfootball/1930/worldcup-full.json
+1930|010|1930-07-18|Uruguay|Peru,1930,1930-07-18,Uruguay,Peru,"Group Matches, Group 3",data/raw/openfootball/1930/worldcup-full.json
+1930|011|1930-07-21|Uruguay|Romania,1930,1930-07-21,Uruguay,Romania,"Group Matches, Group 3",data/raw/openfootball/1930/worldcup-full.json
+1930|012|1930-07-13|USA|Belgium,1930,1930-07-13,USA,Belgium,"Group Matches, Group 4",data/raw/openfootball/1930/worldcup-full.json
+1930|013|1930-07-17|USA|Paraguay,1930,1930-07-17,USA,Paraguay,"Group Matches, Group 4",data/raw/openfootball/1930/worldcup-full.json
+1930|014|1930-07-20|Paraguay|Belgium,1930,1930-07-20,Paraguay,Belgium,"Group Matches, Group 4",data/raw/openfootball/1930/worldcup-full.json
+1930|015|1930-07-26|Argentina|USA,1930,1930-07-26,Argentina,USA,Semi-final,data/raw/openfootball/1930/worldcup-full.json
+1930|016|1930-07-27|Uruguay|Yugoslavia,1930,1930-07-27,Uruguay,Yugoslavia,Semi-final,data/raw/openfootball/1930/worldcup-full.json
+1930|017|1930-07-30|Uruguay|Argentina,1930,1930-07-30,Uruguay,Argentina,Final,data/raw/openfootball/1930/worldcup-full.json
+1934|000|1934-05-27|Czechoslovakia|Romania,1934,1934-05-27,Czechoslovakia,Romania,Preliminary Round,data/raw/openfootball/1934/worldcup-full.json
+1934|001|1934-05-27|Germany|Belgium,1934,1934-05-27,Germany,Belgium,Preliminary Round,data/raw/openfootball/1934/worldcup-full.json
+1934|002|1934-05-27|Austria|France,1934,1934-05-27,Austria,France,Preliminary Round,data/raw/openfootball/1934/worldcup-full.json
+1934|003|1934-05-27|Switzerland|Netherlands,1934,1934-05-27,Switzerland,Netherlands,Preliminary Round,data/raw/openfootball/1934/worldcup-full.json
+1934|004|1934-05-27|Spain|Brazil,1934,1934-05-27,Spain,Brazil,Preliminary Round,data/raw/openfootball/1934/worldcup-full.json
+1934|005|1934-05-27|Sweden|Argentina,1934,1934-05-27,Sweden,Argentina,Preliminary Round,data/raw/openfootball/1934/worldcup-full.json
+1934|006|1934-05-27|Italy|USA,1934,1934-05-27,Italy,USA,Preliminary Round,data/raw/openfootball/1934/worldcup-full.json
+1934|007|1934-05-27|Hungary|Egypt,1934,1934-05-27,Hungary,Egypt,Preliminary Round,data/raw/openfootball/1934/worldcup-full.json
+1934|008|1934-05-31|Austria|Hungary,1934,1934-05-31,Austria,Hungary,Quarter-final,data/raw/openfootball/1934/worldcup-full.json
+1934|009|1934-05-31|Italy|Spain,1934,1934-05-31,Italy,Spain,Quarter-final,data/raw/openfootball/1934/worldcup-full.json
+1934|010|1934-05-31|Germany|Sweden,1934,1934-05-31,Germany,Sweden,Quarter-final,data/raw/openfootball/1934/worldcup-full.json
+1934|011|1934-05-31|Czechoslovakia|Switzerland,1934,1934-05-31,Czechoslovakia,Switzerland,Quarter-final,data/raw/openfootball/1934/worldcup-full.json
+1934|012|1934-06-01|Italy|Spain,1934,1934-06-01,Italy,Spain,Quarter-final,data/raw/openfootball/1934/worldcup-full.json
+1934|013|1934-06-03|Italy|Austria,1934,1934-06-03,Italy,Austria,Semi-final,data/raw/openfootball/1934/worldcup-full.json
+1934|014|1934-06-03|Czechoslovakia|Germany,1934,1934-06-03,Czechoslovakia,Germany,Semi-final,data/raw/openfootball/1934/worldcup-full.json
+1934|015|1934-06-07|Germany|Austria,1934,1934-06-07,Germany,Austria,Match for third place,data/raw/openfootball/1934/worldcup-full.json
+1934|016|1934-06-10|Italy|Czechoslovakia,1934,1934-06-10,Italy,Czechoslovakia,Final,data/raw/openfootball/1934/worldcup-full.json
+1938|000|1938-06-04|Switzerland|Germany,1938,1938-06-04,Switzerland,Germany,1st Round,data/raw/openfootball/1938/worldcup-full.json
+1938|001|1938-06-05|Hungary|Dutch East Indies,1938,1938-06-05,Hungary,Dutch East Indies,1st Round,data/raw/openfootball/1938/worldcup-full.json
+1938|002|1938-06-05|France|Belgium,1938,1938-06-05,France,Belgium,1st Round,data/raw/openfootball/1938/worldcup-full.json
+1938|003|1938-06-05|Italy|Norway,1938,1938-06-05,Italy,Norway,1st Round,data/raw/openfootball/1938/worldcup-full.json
+1938|004|1938-06-05|Cuba|Romania,1938,1938-06-05,Cuba,Romania,1st Round,data/raw/openfootball/1938/worldcup-full.json
+1938|005|1938-06-05|Brazil|Poland,1938,1938-06-05,Brazil,Poland,1st Round,data/raw/openfootball/1938/worldcup-full.json
+1938|006|1938-06-05|Czechoslovakia|Netherlands,1938,1938-06-05,Czechoslovakia,Netherlands,1st Round,data/raw/openfootball/1938/worldcup-full.json
+1938|007|1938-06-09|Cuba|Romania,1938,1938-06-09,Cuba,Romania,1st Round,data/raw/openfootball/1938/worldcup-full.json
+1938|008|1938-06-09|Switzerland|Germany,1938,1938-06-09,Switzerland,Germany,1st Round,data/raw/openfootball/1938/worldcup-full.json
+1938|009|1938-06-12|Hungary|Switzerland,1938,1938-06-12,Hungary,Switzerland,Quarter-final,data/raw/openfootball/1938/worldcup-full.json
+1938|010|1938-06-12|Italy|France,1938,1938-06-12,Italy,France,Quarter-final,data/raw/openfootball/1938/worldcup-full.json
+1938|011|1938-06-12|Brazil|Czechoslovakia,1938,1938-06-12,Brazil,Czechoslovakia,Quarter-final,data/raw/openfootball/1938/worldcup-full.json
+1938|012|1938-06-12|Sweden|Cuba,1938,1938-06-12,Sweden,Cuba,Quarter-final,data/raw/openfootball/1938/worldcup-full.json
+1938|013|1938-06-14|Brazil|Czechoslovakia,1938,1938-06-14,Brazil,Czechoslovakia,Quarter-final,data/raw/openfootball/1938/worldcup-full.json
+1938|014|1938-06-16|Italy|Brazil,1938,1938-06-16,Italy,Brazil,Semi-final,data/raw/openfootball/1938/worldcup-full.json
+1938|015|1938-06-16|Hungary|Sweden,1938,1938-06-16,Hungary,Sweden,Semi-final,data/raw/openfootball/1938/worldcup-full.json
+1938|016|1938-06-19|Brazil|Sweden,1938,1938-06-19,Brazil,Sweden,Match for third place,data/raw/openfootball/1938/worldcup-full.json
+1938|017|1938-06-19|Italy|Hungary,1938,1938-06-19,Italy,Hungary,Final,data/raw/openfootball/1938/worldcup-full.json
+1950|000|1950-06-24|Brazil|Mexico,1950,1950-06-24,Brazil,Mexico,"Group Matches, Group 1",data/raw/openfootball/1950/worldcup-full.json
+1950|001|1950-06-25|Yugoslavia|Switzerland,1950,1950-06-25,Yugoslavia,Switzerland,"Group Matches, Group 1",data/raw/openfootball/1950/worldcup-full.json
+1950|002|1950-06-28|Yugoslavia|Mexico,1950,1950-06-28,Yugoslavia,Mexico,"Group Matches, Group 1",data/raw/openfootball/1950/worldcup-full.json
+1950|003|1950-06-28|Brazil|Switzerland,1950,1950-06-28,Brazil,Switzerland,"Group Matches, Group 1",data/raw/openfootball/1950/worldcup-full.json
+1950|004|1950-07-01|Brazil|Yugoslavia,1950,1950-07-01,Brazil,Yugoslavia,"Group Matches, Group 1",data/raw/openfootball/1950/worldcup-full.json
+1950|005|1950-07-02|Switzerland|Mexico,1950,1950-07-02,Switzerland,Mexico,"Group Matches, Group 1",data/raw/openfootball/1950/worldcup-full.json
+1950|006|1950-06-25|England|Chile,1950,1950-06-25,England,Chile,"Group Matches, Group 2",data/raw/openfootball/1950/worldcup-full.json
+1950|007|1950-06-25|Spain|USA,1950,1950-06-25,Spain,USA,"Group Matches, Group 2",data/raw/openfootball/1950/worldcup-full.json
+1950|008|1950-06-29|USA|England,1950,1950-06-29,USA,England,"Group Matches, Group 2",data/raw/openfootball/1950/worldcup-full.json
+1950|009|1950-06-29|Spain|Chile,1950,1950-06-29,Spain,Chile,"Group Matches, Group 2",data/raw/openfootball/1950/worldcup-full.json
+1950|010|1950-07-02|Spain|England,1950,1950-07-02,Spain,England,"Group Matches, Group 2",data/raw/openfootball/1950/worldcup-full.json
+1950|011|1950-07-02|Chile|USA,1950,1950-07-02,Chile,USA,"Group Matches, Group 2",data/raw/openfootball/1950/worldcup-full.json
+1950|012|1950-06-25|Sweden|Italy,1950,1950-06-25,Sweden,Italy,"Group Matches, Group 3",data/raw/openfootball/1950/worldcup-full.json
+1950|013|1950-06-29|Sweden|Paraguay,1950,1950-06-29,Sweden,Paraguay,"Group Matches, Group 3",data/raw/openfootball/1950/worldcup-full.json
+1950|014|1950-07-02|Italy|Paraguay,1950,1950-07-02,Italy,Paraguay,"Group Matches, Group 3",data/raw/openfootball/1950/worldcup-full.json
+1950|015|1950-07-02|Uruguay|Bolivia,1950,1950-07-02,Uruguay,Bolivia,"Group Matches, Group 4",data/raw/openfootball/1950/worldcup-full.json
+1950|016|1950-07-09|Brazil|Sweden,1950,1950-07-09,Brazil,Sweden,Final Round,data/raw/openfootball/1950/worldcup-full.json
+1950|017|1950-07-09|Uruguay|Spain,1950,1950-07-09,Uruguay,Spain,Final Round,data/raw/openfootball/1950/worldcup-full.json
+1950|018|1950-07-13|Uruguay|Sweden,1950,1950-07-13,Uruguay,Sweden,Final Round,data/raw/openfootball/1950/worldcup-full.json
+1950|019|1950-07-13|Brazil|Spain,1950,1950-07-13,Brazil,Spain,Final Round,data/raw/openfootball/1950/worldcup-full.json
+1950|020|1950-07-16|Uruguay|Brazil,1950,1950-07-16,Uruguay,Brazil,Final Round,data/raw/openfootball/1950/worldcup-full.json
+1950|021|1950-07-16|Sweden|Spain,1950,1950-07-16,Sweden,Spain,Final Round,data/raw/openfootball/1950/worldcup-full.json
+1954|000|1954-06-16|Brazil|Mexico,1954,1954-06-16,Brazil,Mexico,"Group Matches, Group 1",data/raw/openfootball/1954/worldcup-full.json
+1954|001|1954-06-16|Yugoslavia|France,1954,1954-06-16,Yugoslavia,France,"Group Matches, Group 1",data/raw/openfootball/1954/worldcup-full.json
+1954|002|1954-06-19|Brazil|Yugoslavia,1954,1954-06-19,Brazil,Yugoslavia,"Group Matches, Group 1",data/raw/openfootball/1954/worldcup-full.json
+1954|003|1954-06-19|France|Mexico,1954,1954-06-19,France,Mexico,"Group Matches, Group 1",data/raw/openfootball/1954/worldcup-full.json
+1954|004|1954-06-17|Hungary|South Korea,1954,1954-06-17,Hungary,South Korea,"Group Matches, Group 2",data/raw/openfootball/1954/worldcup-full.json
+1954|005|1954-06-17|West Germany|Turkey,1954,1954-06-17,West Germany,Turkey,"Group Matches, Group 2",data/raw/openfootball/1954/worldcup-full.json
+1954|006|1954-06-20|Hungary|West Germany,1954,1954-06-20,Hungary,West Germany,"Group Matches, Group 2",data/raw/openfootball/1954/worldcup-full.json
+1954|007|1954-06-20|Turkey|South Korea,1954,1954-06-20,Turkey,South Korea,"Group Matches, Group 2",data/raw/openfootball/1954/worldcup-full.json
+1954|008|1954-06-23|West Germany|Turkey,1954,1954-06-23,West Germany,Turkey,"Group Matches, Group 2",data/raw/openfootball/1954/worldcup-full.json
+1954|009|1954-06-16|Austria|Scotland,1954,1954-06-16,Austria,Scotland,"Group Matches, Group 3",data/raw/openfootball/1954/worldcup-full.json
+1954|010|1954-06-16|Uruguay|Czechoslovakia,1954,1954-06-16,Uruguay,Czechoslovakia,"Group Matches, Group 3",data/raw/openfootball/1954/worldcup-full.json
+1954|011|1954-06-19|Uruguay|Scotland,1954,1954-06-19,Uruguay,Scotland,"Group Matches, Group 3",data/raw/openfootball/1954/worldcup-full.json
+1954|012|1954-06-19|Austria|Czechoslovakia,1954,1954-06-19,Austria,Czechoslovakia,"Group Matches, Group 3",data/raw/openfootball/1954/worldcup-full.json
+1954|013|1954-06-17|Switzerland|Italy,1954,1954-06-17,Switzerland,Italy,"Group Matches, Group 4",data/raw/openfootball/1954/worldcup-full.json
+1954|014|1954-06-17|England|Belgium,1954,1954-06-17,England,Belgium,"Group Matches, Group 4",data/raw/openfootball/1954/worldcup-full.json
+1954|015|1954-06-20|Italy|Belgium,1954,1954-06-20,Italy,Belgium,"Group Matches, Group 4",data/raw/openfootball/1954/worldcup-full.json
+1954|016|1954-06-20|England|Switzerland,1954,1954-06-20,England,Switzerland,"Group Matches, Group 4",data/raw/openfootball/1954/worldcup-full.json
+1954|017|1954-06-23|Switzerland|Italy,1954,1954-06-23,Switzerland,Italy,"Group Matches, Group 4",data/raw/openfootball/1954/worldcup-full.json
+1954|018|1954-06-26|Austria|Switzerland,1954,1954-06-26,Austria,Switzerland,Quarter-final,data/raw/openfootball/1954/worldcup-full.json
+1954|019|1954-06-26|Uruguay|England,1954,1954-06-26,Uruguay,England,Quarter-final,data/raw/openfootball/1954/worldcup-full.json
+1954|020|1954-06-27|West Germany|Yugoslavia,1954,1954-06-27,West Germany,Yugoslavia,Quarter-final,data/raw/openfootball/1954/worldcup-full.json
+1954|021|1954-06-27|Hungary|Brazil,1954,1954-06-27,Hungary,Brazil,Quarter-final,data/raw/openfootball/1954/worldcup-full.json
+1954|022|1954-06-30|West Germany|Austria,1954,1954-06-30,West Germany,Austria,Semi-final,data/raw/openfootball/1954/worldcup-full.json
+1954|023|1954-06-30|Hungary|Uruguay,1954,1954-06-30,Hungary,Uruguay,Semi-final,data/raw/openfootball/1954/worldcup-full.json
+1954|024|1954-07-03|Austria|Uruguay,1954,1954-07-03,Austria,Uruguay,Match for third place,data/raw/openfootball/1954/worldcup-full.json
+1954|025|1954-07-04|West Germany|Hungary,1954,1954-07-04,West Germany,Hungary,Final,data/raw/openfootball/1954/worldcup-full.json
+1958|000|1958-06-08|Argentina|West Germany,1958,1958-06-08,Argentina,West Germany,"Group Matches, Group 1",data/raw/openfootball/1958/worldcup-full.json
+1958|001|1958-06-08|Northern Ireland|Czechoslovakia,1958,1958-06-08,Northern Ireland,Czechoslovakia,"Group Matches, Group 1",data/raw/openfootball/1958/worldcup-full.json
+1958|002|1958-06-11|West Germany|Czechoslovakia,1958,1958-06-11,West Germany,Czechoslovakia,"Group Matches, Group 1",data/raw/openfootball/1958/worldcup-full.json
+1958|003|1958-06-11|Argentina|Northern Ireland,1958,1958-06-11,Argentina,Northern Ireland,"Group Matches, Group 1",data/raw/openfootball/1958/worldcup-full.json
+1958|004|1958-06-15|Czechoslovakia|Argentina,1958,1958-06-15,Czechoslovakia,Argentina,"Group Matches, Group 1",data/raw/openfootball/1958/worldcup-full.json
+1958|005|1958-06-15|West Germany|Northern Ireland,1958,1958-06-15,West Germany,Northern Ireland,"Group Matches, Group 1",data/raw/openfootball/1958/worldcup-full.json
+1958|006|1958-06-17|Northern Ireland|Czechoslovakia,1958,1958-06-17,Northern Ireland,Czechoslovakia,"Group Matches, Group 1",data/raw/openfootball/1958/worldcup-full.json
+1958|007|1958-06-08|France|Paraguay,1958,1958-06-08,France,Paraguay,"Group Matches, Group 2",data/raw/openfootball/1958/worldcup-full.json
+1958|008|1958-06-08|Yugoslavia|Scotland,1958,1958-06-08,Yugoslavia,Scotland,"Group Matches, Group 2",data/raw/openfootball/1958/worldcup-full.json
+1958|009|1958-06-11|Yugoslavia|France,1958,1958-06-11,Yugoslavia,France,"Group Matches, Group 2",data/raw/openfootball/1958/worldcup-full.json
+1958|010|1958-06-11|Paraguay|Scotland,1958,1958-06-11,Paraguay,Scotland,"Group Matches, Group 2",data/raw/openfootball/1958/worldcup-full.json
+1958|011|1958-06-15|Paraguay|Yugoslavia,1958,1958-06-15,Paraguay,Yugoslavia,"Group Matches, Group 2",data/raw/openfootball/1958/worldcup-full.json
+1958|012|1958-06-15|France|Scotland,1958,1958-06-15,France,Scotland,"Group Matches, Group 2",data/raw/openfootball/1958/worldcup-full.json
+1958|013|1958-06-08|Sweden|Mexico,1958,1958-06-08,Sweden,Mexico,"Group Matches, Group 3",data/raw/openfootball/1958/worldcup-full.json
+1958|014|1958-06-08|Hungary|Wales,1958,1958-06-08,Hungary,Wales,"Group Matches, Group 3",data/raw/openfootball/1958/worldcup-full.json
+1958|015|1958-06-11|Mexico|Wales,1958,1958-06-11,Mexico,Wales,"Group Matches, Group 3",data/raw/openfootball/1958/worldcup-full.json
+1958|016|1958-06-12|Sweden|Hungary,1958,1958-06-12,Sweden,Hungary,"Group Matches, Group 3",data/raw/openfootball/1958/worldcup-full.json
+1958|017|1958-06-15|Sweden|Wales,1958,1958-06-15,Sweden,Wales,"Group Matches, Group 3",data/raw/openfootball/1958/worldcup-full.json
+1958|018|1958-06-15|Hungary|Mexico,1958,1958-06-15,Hungary,Mexico,"Group Matches, Group 3",data/raw/openfootball/1958/worldcup-full.json
+1958|019|1958-06-17|Wales|Hungary,1958,1958-06-17,Wales,Hungary,"Group Matches, Group 3",data/raw/openfootball/1958/worldcup-full.json
+1958|020|1958-06-08|Soviet Union|England,1958,1958-06-08,Soviet Union,England,"Group Matches, Group 4",data/raw/openfootball/1958/worldcup-full.json
+1958|021|1958-06-08|Brazil|Austria,1958,1958-06-08,Brazil,Austria,"Group Matches, Group 4",data/raw/openfootball/1958/worldcup-full.json
+1958|022|1958-06-11|Soviet Union|Austria,1958,1958-06-11,Soviet Union,Austria,"Group Matches, Group 4",data/raw/openfootball/1958/worldcup-full.json
+1958|023|1958-06-11|Brazil|England,1958,1958-06-11,Brazil,England,"Group Matches, Group 4",data/raw/openfootball/1958/worldcup-full.json
+1958|024|1958-06-15|Brazil|Soviet Union,1958,1958-06-15,Brazil,Soviet Union,"Group Matches, Group 4",data/raw/openfootball/1958/worldcup-full.json
+1958|025|1958-06-15|England|Austria,1958,1958-06-15,England,Austria,"Group Matches, Group 4",data/raw/openfootball/1958/worldcup-full.json
+1958|026|1958-06-17|Soviet Union|England,1958,1958-06-17,Soviet Union,England,"Group Matches, Group 4",data/raw/openfootball/1958/worldcup-full.json
+1958|027|1958-06-19|West Germany|Yugoslavia,1958,1958-06-19,West Germany,Yugoslavia,Quarter-final,data/raw/openfootball/1958/worldcup-full.json
+1958|028|1958-06-19|Sweden|Soviet Union,1958,1958-06-19,Sweden,Soviet Union,Quarter-final,data/raw/openfootball/1958/worldcup-full.json
+1958|029|1958-06-19|Brazil|Wales,1958,1958-06-19,Brazil,Wales,Quarter-final,data/raw/openfootball/1958/worldcup-full.json
+1958|030|1958-06-19|France|Northern Ireland,1958,1958-06-19,France,Northern Ireland,Quarter-final,data/raw/openfootball/1958/worldcup-full.json
+1958|031|1958-06-24|Brazil|France,1958,1958-06-24,Brazil,France,Semi-final,data/raw/openfootball/1958/worldcup-full.json
+1958|032|1958-06-24|Sweden|West Germany,1958,1958-06-24,Sweden,West Germany,Semi-final,data/raw/openfootball/1958/worldcup-full.json
+1958|033|1958-06-28|France|West Germany,1958,1958-06-28,France,West Germany,Match for third place,data/raw/openfootball/1958/worldcup-full.json
+1958|034|1958-06-29|Brazil|Sweden,1958,1958-06-29,Brazil,Sweden,Final,data/raw/openfootball/1958/worldcup-full.json
+1962|000|1962-05-30|Uruguay|Colombia,1962,1962-05-30,Uruguay,Colombia,"Group Matches, Group 1",data/raw/openfootball/1962/worldcup-full.json
+1962|001|1962-05-31|Soviet Union|Yugoslavia,1962,1962-05-31,Soviet Union,Yugoslavia,"Group Matches, Group 1",data/raw/openfootball/1962/worldcup-full.json
+1962|002|1962-06-02|Yugoslavia|Uruguay,1962,1962-06-02,Yugoslavia,Uruguay,"Group Matches, Group 1",data/raw/openfootball/1962/worldcup-full.json
+1962|003|1962-06-03|Soviet Union|Colombia,1962,1962-06-03,Soviet Union,Colombia,"Group Matches, Group 1",data/raw/openfootball/1962/worldcup-full.json
+1962|004|1962-06-06|Soviet Union|Uruguay,1962,1962-06-06,Soviet Union,Uruguay,"Group Matches, Group 1",data/raw/openfootball/1962/worldcup-full.json
+1962|005|1962-06-07|Yugoslavia|Colombia,1962,1962-06-07,Yugoslavia,Colombia,"Group Matches, Group 1",data/raw/openfootball/1962/worldcup-full.json
+1962|006|1962-05-30|Chile|Switzerland,1962,1962-05-30,Chile,Switzerland,"Group Matches, Group 2",data/raw/openfootball/1962/worldcup-full.json
+1962|007|1962-05-31|West Germany|Italy,1962,1962-05-31,West Germany,Italy,"Group Matches, Group 2",data/raw/openfootball/1962/worldcup-full.json
+1962|008|1962-06-02|Chile|Italy,1962,1962-06-02,Chile,Italy,"Group Matches, Group 2",data/raw/openfootball/1962/worldcup-full.json
+1962|009|1962-06-03|West Germany|Switzerland,1962,1962-06-03,West Germany,Switzerland,"Group Matches, Group 2",data/raw/openfootball/1962/worldcup-full.json
+1962|010|1962-06-06|West Germany|Chile,1962,1962-06-06,West Germany,Chile,"Group Matches, Group 2",data/raw/openfootball/1962/worldcup-full.json
+1962|011|1962-06-07|Italy|Switzerland,1962,1962-06-07,Italy,Switzerland,"Group Matches, Group 2",data/raw/openfootball/1962/worldcup-full.json
+1962|012|1962-05-30|Brazil|Mexico,1962,1962-05-30,Brazil,Mexico,"Group Matches, Group 3",data/raw/openfootball/1962/worldcup-full.json
+1962|013|1962-05-31|Czechoslovakia|Spain,1962,1962-05-31,Czechoslovakia,Spain,"Group Matches, Group 3",data/raw/openfootball/1962/worldcup-full.json
+1962|014|1962-06-02|Brazil|Czechoslovakia,1962,1962-06-02,Brazil,Czechoslovakia,"Group Matches, Group 3",data/raw/openfootball/1962/worldcup-full.json
+1962|015|1962-06-03|Spain|Mexico,1962,1962-06-03,Spain,Mexico,"Group Matches, Group 3",data/raw/openfootball/1962/worldcup-full.json
+1962|016|1962-06-06|Brazil|Spain,1962,1962-06-06,Brazil,Spain,"Group Matches, Group 3",data/raw/openfootball/1962/worldcup-full.json
+1962|017|1962-06-07|Mexico|Czechoslovakia,1962,1962-06-07,Mexico,Czechoslovakia,"Group Matches, Group 3",data/raw/openfootball/1962/worldcup-full.json
+1962|018|1962-05-30|Argentina|Bulgaria,1962,1962-05-30,Argentina,Bulgaria,"Group Matches, Group 4",data/raw/openfootball/1962/worldcup-full.json
+1962|019|1962-05-31|Hungary|England,1962,1962-05-31,Hungary,England,"Group Matches, Group 4",data/raw/openfootball/1962/worldcup-full.json
+1962|020|1962-06-02|England|Argentina,1962,1962-06-02,England,Argentina,"Group Matches, Group 4",data/raw/openfootball/1962/worldcup-full.json
+1962|021|1962-06-03|Hungary|Bulgaria,1962,1962-06-03,Hungary,Bulgaria,"Group Matches, Group 4",data/raw/openfootball/1962/worldcup-full.json
+1962|022|1962-06-06|Hungary|Argentina,1962,1962-06-06,Hungary,Argentina,"Group Matches, Group 4",data/raw/openfootball/1962/worldcup-full.json
+1962|023|1962-06-07|England|Bulgaria,1962,1962-06-07,England,Bulgaria,"Group Matches, Group 4",data/raw/openfootball/1962/worldcup-full.json
+1962|024|1962-06-10|Chile|Soviet Union,1962,1962-06-10,Chile,Soviet Union,Quarter-final,data/raw/openfootball/1962/worldcup-full.json
+1962|025|1962-06-10|Czechoslovakia|Hungary,1962,1962-06-10,Czechoslovakia,Hungary,Quarter-final,data/raw/openfootball/1962/worldcup-full.json
+1962|026|1962-06-10|Yugoslavia|West Germany,1962,1962-06-10,Yugoslavia,West Germany,Quarter-final,data/raw/openfootball/1962/worldcup-full.json
+1962|027|1962-06-10|Brazil|England,1962,1962-06-10,Brazil,England,Quarter-final,data/raw/openfootball/1962/worldcup-full.json
+1962|028|1962-06-13|Czechoslovakia|Yugoslavia,1962,1962-06-13,Czechoslovakia,Yugoslavia,Semi-final,data/raw/openfootball/1962/worldcup-full.json
+1962|029|1962-06-13|Brazil|Chile,1962,1962-06-13,Brazil,Chile,Semi-final,data/raw/openfootball/1962/worldcup-full.json
+1962|030|1962-06-16|Chile|Yugoslavia,1962,1962-06-16,Chile,Yugoslavia,Match for third place,data/raw/openfootball/1962/worldcup-full.json
+1962|031|1962-06-17|Brazil|Czechoslovakia,1962,1962-06-17,Brazil,Czechoslovakia,Final,data/raw/openfootball/1962/worldcup-full.json
+1966|000|1966-07-11|England|Uruguay,1966,1966-07-11,England,Uruguay,"Group Matches, Group 1",data/raw/openfootball/1966/worldcup-full.json
+1966|001|1966-07-13|France|Mexico,1966,1966-07-13,France,Mexico,"Group Matches, Group 1",data/raw/openfootball/1966/worldcup-full.json
+1966|002|1966-07-15|Uruguay|France,1966,1966-07-15,Uruguay,France,"Group Matches, Group 1",data/raw/openfootball/1966/worldcup-full.json
+1966|003|1966-07-16|England|Mexico,1966,1966-07-16,England,Mexico,"Group Matches, Group 1",data/raw/openfootball/1966/worldcup-full.json
+1966|004|1966-07-19|Uruguay|Mexico,1966,1966-07-19,Uruguay,Mexico,"Group Matches, Group 1",data/raw/openfootball/1966/worldcup-full.json
+1966|005|1966-07-20|England|France,1966,1966-07-20,England,France,"Group Matches, Group 1",data/raw/openfootball/1966/worldcup-full.json
+1966|006|1966-07-12|West Germany|Switzerland,1966,1966-07-12,West Germany,Switzerland,"Group Matches, Group 2",data/raw/openfootball/1966/worldcup-full.json
+1966|007|1966-07-13|Argentina|Spain,1966,1966-07-13,Argentina,Spain,"Group Matches, Group 2",data/raw/openfootball/1966/worldcup-full.json
+1966|008|1966-07-15|Spain|Switzerland,1966,1966-07-15,Spain,Switzerland,"Group Matches, Group 2",data/raw/openfootball/1966/worldcup-full.json
+1966|009|1966-07-16|West Germany|Argentina,1966,1966-07-16,West Germany,Argentina,"Group Matches, Group 2",data/raw/openfootball/1966/worldcup-full.json
+1966|010|1966-07-19|Argentina|Switzerland,1966,1966-07-19,Argentina,Switzerland,"Group Matches, Group 2",data/raw/openfootball/1966/worldcup-full.json
+1966|011|1966-07-20|West Germany|Spain,1966,1966-07-20,West Germany,Spain,"Group Matches, Group 2",data/raw/openfootball/1966/worldcup-full.json
+1966|012|1966-07-12|Brazil|Bulgaria,1966,1966-07-12,Brazil,Bulgaria,"Group Matches, Group 3",data/raw/openfootball/1966/worldcup-full.json
+1966|013|1966-07-13|Portugal|Hungary,1966,1966-07-13,Portugal,Hungary,"Group Matches, Group 3",data/raw/openfootball/1966/worldcup-full.json
+1966|014|1966-07-15|Hungary|Brazil,1966,1966-07-15,Hungary,Brazil,"Group Matches, Group 3",data/raw/openfootball/1966/worldcup-full.json
+1966|015|1966-07-16|Portugal|Bulgaria,1966,1966-07-16,Portugal,Bulgaria,"Group Matches, Group 3",data/raw/openfootball/1966/worldcup-full.json
+1966|016|1966-07-19|Portugal|Brazil,1966,1966-07-19,Portugal,Brazil,"Group Matches, Group 3",data/raw/openfootball/1966/worldcup-full.json
+1966|017|1966-07-20|Hungary|Bulgaria,1966,1966-07-20,Hungary,Bulgaria,"Group Matches, Group 3",data/raw/openfootball/1966/worldcup-full.json
+1966|018|1966-07-12|Soviet Union|North Korea,1966,1966-07-12,Soviet Union,North Korea,"Group Matches, Group 4",data/raw/openfootball/1966/worldcup-full.json
+1966|019|1966-07-13|Italy|Chile,1966,1966-07-13,Italy,Chile,"Group Matches, Group 4",data/raw/openfootball/1966/worldcup-full.json
+1966|020|1966-07-15|North Korea|Chile,1966,1966-07-15,North Korea,Chile,"Group Matches, Group 4",data/raw/openfootball/1966/worldcup-full.json
+1966|021|1966-07-16|Soviet Union|Italy,1966,1966-07-16,Soviet Union,Italy,"Group Matches, Group 4",data/raw/openfootball/1966/worldcup-full.json
+1966|022|1966-07-19|North Korea|Italy,1966,1966-07-19,North Korea,Italy,"Group Matches, Group 4",data/raw/openfootball/1966/worldcup-full.json
+1966|023|1966-07-20|Soviet Union|Chile,1966,1966-07-20,Soviet Union,Chile,"Group Matches, Group 4",data/raw/openfootball/1966/worldcup-full.json
+1966|024|1966-07-23|Soviet Union|Hungary,1966,1966-07-23,Soviet Union,Hungary,Quarter-final,data/raw/openfootball/1966/worldcup-full.json
+1966|025|1966-07-23|Portugal|North Korea,1966,1966-07-23,Portugal,North Korea,Quarter-final,data/raw/openfootball/1966/worldcup-full.json
+1966|026|1966-07-23|West Germany|Uruguay,1966,1966-07-23,West Germany,Uruguay,Quarter-final,data/raw/openfootball/1966/worldcup-full.json
+1966|027|1966-07-23|England|Argentina,1966,1966-07-23,England,Argentina,Quarter-final,data/raw/openfootball/1966/worldcup-full.json
+1966|028|1966-07-25|West Germany|Soviet Union,1966,1966-07-25,West Germany,Soviet Union,Semi-final,data/raw/openfootball/1966/worldcup-full.json
+1966|029|1966-07-26|England|Portugal,1966,1966-07-26,England,Portugal,Semi-final,data/raw/openfootball/1966/worldcup-full.json
+1966|030|1966-07-28|Portugal|Soviet Union,1966,1966-07-28,Portugal,Soviet Union,Match for third place,data/raw/openfootball/1966/worldcup-full.json
+1966|031|1966-07-30|England|West Germany,1966,1966-07-30,England,West Germany,Final,data/raw/openfootball/1966/worldcup-full.json
+1970|000|1970-05-31|Mexico|Soviet Union,1970,1970-05-31,Mexico,Soviet Union,"Group Matches, Group 1",data/raw/openfootball/1970/worldcup-full.json
+1970|001|1970-06-03|Belgium|El Salvador,1970,1970-06-03,Belgium,El Salvador,"Group Matches, Group 1",data/raw/openfootball/1970/worldcup-full.json
+1970|002|1970-06-06|Soviet Union|Belgium,1970,1970-06-06,Soviet Union,Belgium,"Group Matches, Group 1",data/raw/openfootball/1970/worldcup-full.json
+1970|003|1970-06-07|Mexico|El Salvador,1970,1970-06-07,Mexico,El Salvador,"Group Matches, Group 1",data/raw/openfootball/1970/worldcup-full.json
+1970|004|1970-06-10|Soviet Union|El Salvador,1970,1970-06-10,Soviet Union,El Salvador,"Group Matches, Group 1",data/raw/openfootball/1970/worldcup-full.json
+1970|005|1970-06-11|Mexico|Belgium,1970,1970-06-11,Mexico,Belgium,"Group Matches, Group 1",data/raw/openfootball/1970/worldcup-full.json
+1970|006|1970-06-02|Uruguay|Israel,1970,1970-06-02,Uruguay,Israel,"Group Matches, Group 2",data/raw/openfootball/1970/worldcup-full.json
+1970|007|1970-06-03|Italy|Sweden,1970,1970-06-03,Italy,Sweden,"Group Matches, Group 2",data/raw/openfootball/1970/worldcup-full.json
+1970|008|1970-06-06|Uruguay|Italy,1970,1970-06-06,Uruguay,Italy,"Group Matches, Group 2",data/raw/openfootball/1970/worldcup-full.json
+1970|009|1970-06-07|Sweden|Israel,1970,1970-06-07,Sweden,Israel,"Group Matches, Group 2",data/raw/openfootball/1970/worldcup-full.json
+1970|010|1970-06-10|Sweden|Uruguay,1970,1970-06-10,Sweden,Uruguay,"Group Matches, Group 2",data/raw/openfootball/1970/worldcup-full.json
+1970|011|1970-06-11|Italy|Israel,1970,1970-06-11,Italy,Israel,"Group Matches, Group 2",data/raw/openfootball/1970/worldcup-full.json
+1970|012|1970-06-02|England|Romania,1970,1970-06-02,England,Romania,"Group Matches, Group 3",data/raw/openfootball/1970/worldcup-full.json
+1970|013|1970-06-03|Brazil|Czechoslovakia,1970,1970-06-03,Brazil,Czechoslovakia,"Group Matches, Group 3",data/raw/openfootball/1970/worldcup-full.json
+1970|014|1970-06-06|Romania|Czechoslovakia,1970,1970-06-06,Romania,Czechoslovakia,"Group Matches, Group 3",data/raw/openfootball/1970/worldcup-full.json
+1970|015|1970-06-07|Brazil|England,1970,1970-06-07,Brazil,England,"Group Matches, Group 3",data/raw/openfootball/1970/worldcup-full.json
+1970|016|1970-06-10|Brazil|Romania,1970,1970-06-10,Brazil,Romania,"Group Matches, Group 3",data/raw/openfootball/1970/worldcup-full.json
+1970|017|1970-06-11|England|Czechoslovakia,1970,1970-06-11,England,Czechoslovakia,"Group Matches, Group 3",data/raw/openfootball/1970/worldcup-full.json
+1970|018|1970-06-02|Peru|Bulgaria,1970,1970-06-02,Peru,Bulgaria,"Group Matches, Group 4",data/raw/openfootball/1970/worldcup-full.json
+1970|019|1970-06-03|West Germany|Morocco,1970,1970-06-03,West Germany,Morocco,"Group Matches, Group 4",data/raw/openfootball/1970/worldcup-full.json
+1970|020|1970-06-06|Peru|Morocco,1970,1970-06-06,Peru,Morocco,"Group Matches, Group 4",data/raw/openfootball/1970/worldcup-full.json
+1970|021|1970-06-07|West Germany|Bulgaria,1970,1970-06-07,West Germany,Bulgaria,"Group Matches, Group 4",data/raw/openfootball/1970/worldcup-full.json
+1970|022|1970-06-10|West Germany|Peru,1970,1970-06-10,West Germany,Peru,"Group Matches, Group 4",data/raw/openfootball/1970/worldcup-full.json
+1970|023|1970-06-11|Bulgaria|Morocco,1970,1970-06-11,Bulgaria,Morocco,"Group Matches, Group 4",data/raw/openfootball/1970/worldcup-full.json
+1970|024|1970-06-14|Uruguay|Soviet Union,1970,1970-06-14,Uruguay,Soviet Union,Quarter-final,data/raw/openfootball/1970/worldcup-full.json
+1970|025|1970-06-14|Brazil|Peru,1970,1970-06-14,Brazil,Peru,Quarter-final,data/raw/openfootball/1970/worldcup-full.json
+1970|026|1970-06-14|West Germany|England,1970,1970-06-14,West Germany,England,Quarter-final,data/raw/openfootball/1970/worldcup-full.json
+1970|027|1970-06-14|Italy|Mexico,1970,1970-06-14,Italy,Mexico,Quarter-final,data/raw/openfootball/1970/worldcup-full.json
+1970|028|1970-06-17|Brazil|Uruguay,1970,1970-06-17,Brazil,Uruguay,Semi-final,data/raw/openfootball/1970/worldcup-full.json
+1970|029|1970-06-17|Italy|West Germany,1970,1970-06-17,Italy,West Germany,Semi-final,data/raw/openfootball/1970/worldcup-full.json
+1970|030|1970-06-20|West Germany|Uruguay,1970,1970-06-20,West Germany,Uruguay,Match for third place,data/raw/openfootball/1970/worldcup-full.json
+1970|031|1970-06-21|Brazil|Italy,1970,1970-06-21,Brazil,Italy,Final,data/raw/openfootball/1970/worldcup-full.json
+1974|000|1974-06-14|West Germany|Chile,1974,1974-06-14,West Germany,Chile,"Group Matches, Group 1",data/raw/openfootball/1974/worldcup-full.json
+1974|001|1974-06-14|East Germany|Australia,1974,1974-06-14,East Germany,Australia,"Group Matches, Group 1",data/raw/openfootball/1974/worldcup-full.json
+1974|002|1974-06-18|Australia|West Germany,1974,1974-06-18,Australia,West Germany,"Group Matches, Group 1",data/raw/openfootball/1974/worldcup-full.json
+1974|003|1974-06-18|Chile|East Germany,1974,1974-06-18,Chile,East Germany,"Group Matches, Group 1",data/raw/openfootball/1974/worldcup-full.json
+1974|004|1974-06-22|Australia|Chile,1974,1974-06-22,Australia,Chile,"Group Matches, Group 1",data/raw/openfootball/1974/worldcup-full.json
+1974|005|1974-06-22|East Germany|West Germany,1974,1974-06-22,East Germany,West Germany,"Group Matches, Group 1",data/raw/openfootball/1974/worldcup-full.json
+1974|006|1974-06-13|Brazil|Yugoslavia,1974,1974-06-13,Brazil,Yugoslavia,"Group Matches, Group 2",data/raw/openfootball/1974/worldcup-full.json
+1974|007|1974-06-14|Zaire|Scotland,1974,1974-06-14,Zaire,Scotland,"Group Matches, Group 2",data/raw/openfootball/1974/worldcup-full.json
+1974|008|1974-06-18|Scotland|Brazil,1974,1974-06-18,Scotland,Brazil,"Group Matches, Group 2",data/raw/openfootball/1974/worldcup-full.json
+1974|009|1974-06-18|Yugoslavia|Zaire,1974,1974-06-18,Yugoslavia,Zaire,"Group Matches, Group 2",data/raw/openfootball/1974/worldcup-full.json
+1974|010|1974-06-22|Scotland|Yugoslavia,1974,1974-06-22,Scotland,Yugoslavia,"Group Matches, Group 2",data/raw/openfootball/1974/worldcup-full.json
+1974|011|1974-06-22|Zaire|Brazil,1974,1974-06-22,Zaire,Brazil,"Group Matches, Group 2",data/raw/openfootball/1974/worldcup-full.json
+1974|012|1974-06-15|Sweden|Bulgaria,1974,1974-06-15,Sweden,Bulgaria,"Group Matches, Group 3",data/raw/openfootball/1974/worldcup-full.json
+1974|013|1974-06-15|Uruguay|Netherlands,1974,1974-06-15,Uruguay,Netherlands,"Group Matches, Group 3",data/raw/openfootball/1974/worldcup-full.json
+1974|014|1974-06-19|Netherlands|Sweden,1974,1974-06-19,Netherlands,Sweden,"Group Matches, Group 3",data/raw/openfootball/1974/worldcup-full.json
+1974|015|1974-06-19|Bulgaria|Uruguay,1974,1974-06-19,Bulgaria,Uruguay,"Group Matches, Group 3",data/raw/openfootball/1974/worldcup-full.json
+1974|016|1974-06-23|Bulgaria|Netherlands,1974,1974-06-23,Bulgaria,Netherlands,"Group Matches, Group 3",data/raw/openfootball/1974/worldcup-full.json
+1974|017|1974-06-23|Sweden|Uruguay,1974,1974-06-23,Sweden,Uruguay,"Group Matches, Group 3",data/raw/openfootball/1974/worldcup-full.json
+1974|018|1974-06-15|Italy|Haiti,1974,1974-06-15,Italy,Haiti,"Group Matches, Group 4",data/raw/openfootball/1974/worldcup-full.json
+1974|019|1974-06-15|Poland|Argentina,1974,1974-06-15,Poland,Argentina,"Group Matches, Group 4",data/raw/openfootball/1974/worldcup-full.json
+1974|020|1974-06-19|Argentina|Italy,1974,1974-06-19,Argentina,Italy,"Group Matches, Group 4",data/raw/openfootball/1974/worldcup-full.json
+1974|021|1974-06-19|Haiti|Poland,1974,1974-06-19,Haiti,Poland,"Group Matches, Group 4",data/raw/openfootball/1974/worldcup-full.json
+1974|022|1974-06-23|Poland|Italy,1974,1974-06-23,Poland,Italy,"Group Matches, Group 4",data/raw/openfootball/1974/worldcup-full.json
+1974|023|1974-06-23|Argentina|Haiti,1974,1974-06-23,Argentina,Haiti,"Group Matches, Group 4",data/raw/openfootball/1974/worldcup-full.json
+1974|024|1974-06-26|Brazil|East Germany,1974,1974-06-26,Brazil,East Germany,"Second Round, Group A",data/raw/openfootball/1974/worldcup-full.json
+1974|025|1974-06-26|Netherlands|Argentina,1974,1974-06-26,Netherlands,Argentina,"Second Round, Group A",data/raw/openfootball/1974/worldcup-full.json
+1974|026|1974-06-30|East Germany|Netherlands,1974,1974-06-30,East Germany,Netherlands,"Second Round, Group A",data/raw/openfootball/1974/worldcup-full.json
+1974|027|1974-06-30|Argentina|Brazil,1974,1974-06-30,Argentina,Brazil,"Second Round, Group A",data/raw/openfootball/1974/worldcup-full.json
+1974|028|1974-07-03|Argentina|East Germany,1974,1974-07-03,Argentina,East Germany,"Second Round, Group A",data/raw/openfootball/1974/worldcup-full.json
+1974|029|1974-07-03|Netherlands|Brazil,1974,1974-07-03,Netherlands,Brazil,"Second Round, Group A",data/raw/openfootball/1974/worldcup-full.json
+1974|030|1974-06-26|Yugoslavia|West Germany,1974,1974-06-26,Yugoslavia,West Germany,"Second Round, Group B",data/raw/openfootball/1974/worldcup-full.json
+1974|031|1974-06-26|Sweden|Poland,1974,1974-06-26,Sweden,Poland,"Second Round, Group B",data/raw/openfootball/1974/worldcup-full.json
+1974|032|1974-06-30|Poland|Yugoslavia,1974,1974-06-30,Poland,Yugoslavia,"Second Round, Group B",data/raw/openfootball/1974/worldcup-full.json
+1974|033|1974-06-30|West Germany|Sweden,1974,1974-06-30,West Germany,Sweden,"Second Round, Group B",data/raw/openfootball/1974/worldcup-full.json
+1974|034|1974-07-03|Poland|West Germany,1974,1974-07-03,Poland,West Germany,"Second Round, Group B",data/raw/openfootball/1974/worldcup-full.json
+1974|035|1974-07-03|Sweden|Yugoslavia,1974,1974-07-03,Sweden,Yugoslavia,"Second Round, Group B",data/raw/openfootball/1974/worldcup-full.json
+1974|036|1974-07-06|Brazil|Poland,1974,1974-07-06,Brazil,Poland,Match for third place,data/raw/openfootball/1974/worldcup-full.json
+1974|037|1974-07-07|Netherlands|West Germany,1974,1974-07-07,Netherlands,West Germany,Final,data/raw/openfootball/1974/worldcup-full.json
+1978|000|1978-06-02|Italy|France,1978,1978-06-02,Italy,France,"Group Matches, Group 1",data/raw/openfootball/1978/worldcup-full.json
+1978|001|1978-06-02|Argentina|Hungary,1978,1978-06-02,Argentina,Hungary,"Group Matches, Group 1",data/raw/openfootball/1978/worldcup-full.json
+1978|002|1978-06-06|Italy|Hungary,1978,1978-06-06,Italy,Hungary,"Group Matches, Group 1",data/raw/openfootball/1978/worldcup-full.json
+1978|003|1978-06-06|Argentina|France,1978,1978-06-06,Argentina,France,"Group Matches, Group 1",data/raw/openfootball/1978/worldcup-full.json
+1978|004|1978-06-10|France|Hungary,1978,1978-06-10,France,Hungary,"Group Matches, Group 1",data/raw/openfootball/1978/worldcup-full.json
+1978|005|1978-06-10|Italy|Argentina,1978,1978-06-10,Italy,Argentina,"Group Matches, Group 1",data/raw/openfootball/1978/worldcup-full.json
+1978|006|1978-06-01|West Germany|Poland,1978,1978-06-01,West Germany,Poland,"Group Matches, Group 2",data/raw/openfootball/1978/worldcup-full.json
+1978|007|1978-06-02|Tunisia|Mexico,1978,1978-06-02,Tunisia,Mexico,"Group Matches, Group 2",data/raw/openfootball/1978/worldcup-full.json
+1978|008|1978-06-06|Poland|Tunisia,1978,1978-06-06,Poland,Tunisia,"Group Matches, Group 2",data/raw/openfootball/1978/worldcup-full.json
+1978|009|1978-06-06|West Germany|Mexico,1978,1978-06-06,West Germany,Mexico,"Group Matches, Group 2",data/raw/openfootball/1978/worldcup-full.json
+1978|010|1978-06-10|West Germany|Tunisia,1978,1978-06-10,West Germany,Tunisia,"Group Matches, Group 2",data/raw/openfootball/1978/worldcup-full.json
+1978|011|1978-06-10|Poland|Mexico,1978,1978-06-10,Poland,Mexico,"Group Matches, Group 2",data/raw/openfootball/1978/worldcup-full.json
+1978|012|1978-06-03|Sweden|Brazil,1978,1978-06-03,Sweden,Brazil,"Group Matches, Group 3",data/raw/openfootball/1978/worldcup-full.json
+1978|013|1978-06-03|Austria|Spain,1978,1978-06-03,Austria,Spain,"Group Matches, Group 3",data/raw/openfootball/1978/worldcup-full.json
+1978|014|1978-06-07|Brazil|Spain,1978,1978-06-07,Brazil,Spain,"Group Matches, Group 3",data/raw/openfootball/1978/worldcup-full.json
+1978|015|1978-06-07|Austria|Sweden,1978,1978-06-07,Austria,Sweden,"Group Matches, Group 3",data/raw/openfootball/1978/worldcup-full.json
+1978|016|1978-06-11|Brazil|Austria,1978,1978-06-11,Brazil,Austria,"Group Matches, Group 3",data/raw/openfootball/1978/worldcup-full.json
+1978|017|1978-06-11|Spain|Sweden,1978,1978-06-11,Spain,Sweden,"Group Matches, Group 3",data/raw/openfootball/1978/worldcup-full.json
+1978|018|1978-06-03|Netherlands|Iran,1978,1978-06-03,Netherlands,Iran,"Group Matches, Group 4",data/raw/openfootball/1978/worldcup-full.json
+1978|019|1978-06-03|Peru|Scotland,1978,1978-06-03,Peru,Scotland,"Group Matches, Group 4",data/raw/openfootball/1978/worldcup-full.json
+1978|020|1978-06-07|Scotland|Iran,1978,1978-06-07,Scotland,Iran,"Group Matches, Group 4",data/raw/openfootball/1978/worldcup-full.json
+1978|021|1978-06-07|Netherlands|Peru,1978,1978-06-07,Netherlands,Peru,"Group Matches, Group 4",data/raw/openfootball/1978/worldcup-full.json
+1978|022|1978-06-11|Scotland|Netherlands,1978,1978-06-11,Scotland,Netherlands,"Group Matches, Group 4",data/raw/openfootball/1978/worldcup-full.json
+1978|023|1978-06-11|Peru|Iran,1978,1978-06-11,Peru,Iran,"Group Matches, Group 4",data/raw/openfootball/1978/worldcup-full.json
+1978|024|1978-06-14|Netherlands|Austria,1978,1978-06-14,Netherlands,Austria,"Second Round, Group A",data/raw/openfootball/1978/worldcup-full.json
+1978|025|1978-06-14|West Germany|Italy,1978,1978-06-14,West Germany,Italy,"Second Round, Group A",data/raw/openfootball/1978/worldcup-full.json
+1978|026|1978-06-18|West Germany|Netherlands,1978,1978-06-18,West Germany,Netherlands,"Second Round, Group A",data/raw/openfootball/1978/worldcup-full.json
+1978|027|1978-06-18|Italy|Austria,1978,1978-06-18,Italy,Austria,"Second Round, Group A",data/raw/openfootball/1978/worldcup-full.json
+1978|028|1978-06-21|Netherlands|Italy,1978,1978-06-21,Netherlands,Italy,"Second Round, Group A",data/raw/openfootball/1978/worldcup-full.json
+1978|029|1978-06-21|Austria|West Germany,1978,1978-06-21,Austria,West Germany,"Second Round, Group A",data/raw/openfootball/1978/worldcup-full.json
+1978|030|1978-06-14|Brazil|Peru,1978,1978-06-14,Brazil,Peru,"Second Round, Group B",data/raw/openfootball/1978/worldcup-full.json
+1978|031|1978-06-14|Argentina|Poland,1978,1978-06-14,Argentina,Poland,"Second Round, Group B",data/raw/openfootball/1978/worldcup-full.json
+1978|032|1978-06-18|Poland|Peru,1978,1978-06-18,Poland,Peru,"Second Round, Group B",data/raw/openfootball/1978/worldcup-full.json
+1978|033|1978-06-18|Argentina|Brazil,1978,1978-06-18,Argentina,Brazil,"Second Round, Group B",data/raw/openfootball/1978/worldcup-full.json
+1978|034|1978-06-21|Brazil|Poland,1978,1978-06-21,Brazil,Poland,"Second Round, Group B",data/raw/openfootball/1978/worldcup-full.json
+1978|035|1978-06-21|Argentina|Peru,1978,1978-06-21,Argentina,Peru,"Second Round, Group B",data/raw/openfootball/1978/worldcup-full.json
+1978|036|1978-06-24|Brazil|Italy,1978,1978-06-24,Brazil,Italy,Match for third place,data/raw/openfootball/1978/worldcup-full.json
+1978|037|1978-06-25|Argentina|Netherlands,1978,1978-06-25,Argentina,Netherlands,Final,data/raw/openfootball/1978/worldcup-full.json
+1982|000|1982-06-14|Italy|Poland,1982,1982-06-14,Italy,Poland,"Group Matches, Group 1",data/raw/openfootball/1982/worldcup-full.json
+1982|001|1982-06-15|Peru|Cameroon,1982,1982-06-15,Peru,Cameroon,"Group Matches, Group 1",data/raw/openfootball/1982/worldcup-full.json
+1982|002|1982-06-18|Italy|Peru,1982,1982-06-18,Italy,Peru,"Group Matches, Group 1",data/raw/openfootball/1982/worldcup-full.json
+1982|003|1982-06-19|Poland|Cameroon,1982,1982-06-19,Poland,Cameroon,"Group Matches, Group 1",data/raw/openfootball/1982/worldcup-full.json
+1982|004|1982-06-22|Poland|Peru,1982,1982-06-22,Poland,Peru,"Group Matches, Group 1",data/raw/openfootball/1982/worldcup-full.json
+1982|005|1982-06-23|Italy|Cameroon,1982,1982-06-23,Italy,Cameroon,"Group Matches, Group 1",data/raw/openfootball/1982/worldcup-full.json
+1982|006|1982-06-16|West Germany|Algeria,1982,1982-06-16,West Germany,Algeria,"Group Matches, Group 2",data/raw/openfootball/1982/worldcup-full.json
+1982|007|1982-06-17|Chile|Austria,1982,1982-06-17,Chile,Austria,"Group Matches, Group 2",data/raw/openfootball/1982/worldcup-full.json
+1982|008|1982-06-20|West Germany|Chile,1982,1982-06-20,West Germany,Chile,"Group Matches, Group 2",data/raw/openfootball/1982/worldcup-full.json
+1982|009|1982-06-21|Algeria|Austria,1982,1982-06-21,Algeria,Austria,"Group Matches, Group 2",data/raw/openfootball/1982/worldcup-full.json
+1982|010|1982-06-24|Algeria|Chile,1982,1982-06-24,Algeria,Chile,"Group Matches, Group 2",data/raw/openfootball/1982/worldcup-full.json
+1982|011|1982-06-25|West Germany|Austria,1982,1982-06-25,West Germany,Austria,"Group Matches, Group 2",data/raw/openfootball/1982/worldcup-full.json
+1982|012|1982-06-13|Argentina|Belgium,1982,1982-06-13,Argentina,Belgium,"Group Matches, Group 3",data/raw/openfootball/1982/worldcup-full.json
+1982|013|1982-06-15|Hungary|El Salvador,1982,1982-06-15,Hungary,El Salvador,"Group Matches, Group 3",data/raw/openfootball/1982/worldcup-full.json
+1982|014|1982-06-18|Argentina|Hungary,1982,1982-06-18,Argentina,Hungary,"Group Matches, Group 3",data/raw/openfootball/1982/worldcup-full.json
+1982|015|1982-06-19|Belgium|El Salvador,1982,1982-06-19,Belgium,El Salvador,"Group Matches, Group 3",data/raw/openfootball/1982/worldcup-full.json
+1982|016|1982-06-22|Belgium|Hungary,1982,1982-06-22,Belgium,Hungary,"Group Matches, Group 3",data/raw/openfootball/1982/worldcup-full.json
+1982|017|1982-06-23|Argentina|El Salvador,1982,1982-06-23,Argentina,El Salvador,"Group Matches, Group 3",data/raw/openfootball/1982/worldcup-full.json
+1982|018|1982-06-16|England|France,1982,1982-06-16,England,France,"Group Matches, Group 4",data/raw/openfootball/1982/worldcup-full.json
+1982|019|1982-06-17|Czechoslovakia|Kuwait,1982,1982-06-17,Czechoslovakia,Kuwait,"Group Matches, Group 4",data/raw/openfootball/1982/worldcup-full.json
+1982|020|1982-06-20|England|Czechoslovakia,1982,1982-06-20,England,Czechoslovakia,"Group Matches, Group 4",data/raw/openfootball/1982/worldcup-full.json
+1982|021|1982-06-21|France|Kuwait,1982,1982-06-21,France,Kuwait,"Group Matches, Group 4",data/raw/openfootball/1982/worldcup-full.json
+1982|022|1982-06-24|France|Czechoslovakia,1982,1982-06-24,France,Czechoslovakia,"Group Matches, Group 4",data/raw/openfootball/1982/worldcup-full.json
+1982|023|1982-06-25|England|Kuwait,1982,1982-06-25,England,Kuwait,"Group Matches, Group 4",data/raw/openfootball/1982/worldcup-full.json
+1982|024|1982-06-16|Spain|Honduras,1982,1982-06-16,Spain,Honduras,"Group Matches, Group 5",data/raw/openfootball/1982/worldcup-full.json
+1982|025|1982-06-17|Yugoslavia|Northern Ireland,1982,1982-06-17,Yugoslavia,Northern Ireland,"Group Matches, Group 5",data/raw/openfootball/1982/worldcup-full.json
+1982|026|1982-06-20|Spain|Yugoslavia,1982,1982-06-20,Spain,Yugoslavia,"Group Matches, Group 5",data/raw/openfootball/1982/worldcup-full.json
+1982|027|1982-06-21|Honduras|Northern Ireland,1982,1982-06-21,Honduras,Northern Ireland,"Group Matches, Group 5",data/raw/openfootball/1982/worldcup-full.json
+1982|028|1982-06-24|Honduras|Yugoslavia,1982,1982-06-24,Honduras,Yugoslavia,"Group Matches, Group 5",data/raw/openfootball/1982/worldcup-full.json
+1982|029|1982-06-25|Northern Ireland|Spain,1982,1982-06-25,Northern Ireland,Spain,"Group Matches, Group 5",data/raw/openfootball/1982/worldcup-full.json
+1982|030|1982-06-14|Brazil|Soviet Union,1982,1982-06-14,Brazil,Soviet Union,"Group Matches, Group 6",data/raw/openfootball/1982/worldcup-full.json
+1982|031|1982-06-15|Scotland|New Zealand,1982,1982-06-15,Scotland,New Zealand,"Group Matches, Group 6",data/raw/openfootball/1982/worldcup-full.json
+1982|032|1982-06-18|Brazil|Scotland,1982,1982-06-18,Brazil,Scotland,"Group Matches, Group 6",data/raw/openfootball/1982/worldcup-full.json
+1982|033|1982-06-19|Soviet Union|New Zealand,1982,1982-06-19,Soviet Union,New Zealand,"Group Matches, Group 6",data/raw/openfootball/1982/worldcup-full.json
+1982|034|1982-06-22|Soviet Union|Scotland,1982,1982-06-22,Soviet Union,Scotland,"Group Matches, Group 6",data/raw/openfootball/1982/worldcup-full.json
+1982|035|1982-06-23|Brazil|New Zealand,1982,1982-06-23,Brazil,New Zealand,"Group Matches, Group 6",data/raw/openfootball/1982/worldcup-full.json
+1982|036|1982-06-28|Poland|Belgium,1982,1982-06-28,Poland,Belgium,"Second Round, Group A",data/raw/openfootball/1982/worldcup-full.json
+1982|037|1982-07-01|Belgium|Soviet Union,1982,1982-07-01,Belgium,Soviet Union,"Second Round, Group A",data/raw/openfootball/1982/worldcup-full.json
+1982|038|1982-07-04|Poland|Soviet Union,1982,1982-07-04,Poland,Soviet Union,"Second Round, Group A",data/raw/openfootball/1982/worldcup-full.json
+1982|039|1982-06-29|West Germany|England,1982,1982-06-29,West Germany,England,"Second Round, Group B",data/raw/openfootball/1982/worldcup-full.json
+1982|040|1982-07-02|West Germany|Spain,1982,1982-07-02,West Germany,Spain,"Second Round, Group B",data/raw/openfootball/1982/worldcup-full.json
+1982|041|1982-07-05|Spain|England,1982,1982-07-05,Spain,England,"Second Round, Group B",data/raw/openfootball/1982/worldcup-full.json
+1982|042|1982-06-29|Italy|Argentina,1982,1982-06-29,Italy,Argentina,"Second Round, Group C",data/raw/openfootball/1982/worldcup-full.json
+1982|043|1982-07-02|Argentina|Brazil,1982,1982-07-02,Argentina,Brazil,"Second Round, Group C",data/raw/openfootball/1982/worldcup-full.json
+1982|044|1982-07-05|Italy|Brazil,1982,1982-07-05,Italy,Brazil,"Second Round, Group C",data/raw/openfootball/1982/worldcup-full.json
+1982|045|1982-06-28|Austria|France,1982,1982-06-28,Austria,France,"Second Round, Group D",data/raw/openfootball/1982/worldcup-full.json
+1982|046|1982-07-01|Austria|Northern Ireland,1982,1982-07-01,Austria,Northern Ireland,"Second Round, Group D",data/raw/openfootball/1982/worldcup-full.json
+1982|047|1982-07-04|France|Northern Ireland,1982,1982-07-04,France,Northern Ireland,"Second Round, Group D",data/raw/openfootball/1982/worldcup-full.json
+1982|048|1982-07-08|Poland|Italy,1982,1982-07-08,Poland,Italy,Semi-final,data/raw/openfootball/1982/worldcup-full.json
+1982|049|1982-07-08|West Germany|France,1982,1982-07-08,West Germany,France,Semi-final,data/raw/openfootball/1982/worldcup-full.json
+1982|050|1982-07-10|Poland|France,1982,1982-07-10,Poland,France,Match for third place,data/raw/openfootball/1982/worldcup-full.json
+1982|051|1982-07-11|Italy|West Germany,1982,1982-07-11,Italy,West Germany,Final,data/raw/openfootball/1982/worldcup-full.json
+1986|000|1986-05-31|Bulgaria|Italy,1986,1986-05-31,Bulgaria,Italy,"Group Matches, Group A",data/raw/openfootball/1986/worldcup-full.json
+1986|001|1986-06-02|Argentina|South Korea,1986,1986-06-02,Argentina,South Korea,"Group Matches, Group A",data/raw/openfootball/1986/worldcup-full.json
+1986|002|1986-06-05|Italy|Argentina,1986,1986-06-05,Italy,Argentina,"Group Matches, Group A",data/raw/openfootball/1986/worldcup-full.json
+1986|003|1986-06-05|South Korea|Bulgaria,1986,1986-06-05,South Korea,Bulgaria,"Group Matches, Group A",data/raw/openfootball/1986/worldcup-full.json
+1986|004|1986-06-10|Argentina|Bulgaria,1986,1986-06-10,Argentina,Bulgaria,"Group Matches, Group A",data/raw/openfootball/1986/worldcup-full.json
+1986|005|1986-06-10|South Korea|Italy,1986,1986-06-10,South Korea,Italy,"Group Matches, Group A",data/raw/openfootball/1986/worldcup-full.json
+1986|006|1986-06-03|Belgium|Mexico,1986,1986-06-03,Belgium,Mexico,"Group Matches, Group B",data/raw/openfootball/1986/worldcup-full.json
+1986|007|1986-06-04|Paraguay|Iraq,1986,1986-06-04,Paraguay,Iraq,"Group Matches, Group B",data/raw/openfootball/1986/worldcup-full.json
+1986|008|1986-06-07|Mexico|Paraguay,1986,1986-06-07,Mexico,Paraguay,"Group Matches, Group B",data/raw/openfootball/1986/worldcup-full.json
+1986|009|1986-06-08|Iraq|Belgium,1986,1986-06-08,Iraq,Belgium,"Group Matches, Group B",data/raw/openfootball/1986/worldcup-full.json
+1986|010|1986-06-11|Iraq|Mexico,1986,1986-06-11,Iraq,Mexico,"Group Matches, Group B",data/raw/openfootball/1986/worldcup-full.json
+1986|011|1986-06-11|Paraguay|Belgium,1986,1986-06-11,Paraguay,Belgium,"Group Matches, Group B",data/raw/openfootball/1986/worldcup-full.json
+1986|012|1986-06-01|Canada|France,1986,1986-06-01,Canada,France,"Group Matches, Group C",data/raw/openfootball/1986/worldcup-full.json
+1986|013|1986-06-02|Soviet Union|Hungary,1986,1986-06-02,Soviet Union,Hungary,"Group Matches, Group C",data/raw/openfootball/1986/worldcup-full.json
+1986|014|1986-06-05|France|Soviet Union,1986,1986-06-05,France,Soviet Union,"Group Matches, Group C",data/raw/openfootball/1986/worldcup-full.json
+1986|015|1986-06-06|Hungary|Canada,1986,1986-06-06,Hungary,Canada,"Group Matches, Group C",data/raw/openfootball/1986/worldcup-full.json
+1986|016|1986-06-09|Hungary|France,1986,1986-06-09,Hungary,France,"Group Matches, Group C",data/raw/openfootball/1986/worldcup-full.json
+1986|017|1986-06-09|Soviet Union|Canada,1986,1986-06-09,Soviet Union,Canada,"Group Matches, Group C",data/raw/openfootball/1986/worldcup-full.json
+1986|018|1986-06-01|Spain|Brazil,1986,1986-06-01,Spain,Brazil,"Group Matches, Group D",data/raw/openfootball/1986/worldcup-full.json
+1986|019|1986-06-03|Algeria|Northern Ireland,1986,1986-06-03,Algeria,Northern Ireland,"Group Matches, Group D",data/raw/openfootball/1986/worldcup-full.json
+1986|020|1986-06-06|Brazil|Algeria,1986,1986-06-06,Brazil,Algeria,"Group Matches, Group D",data/raw/openfootball/1986/worldcup-full.json
+1986|021|1986-06-07|Northern Ireland|Spain,1986,1986-06-07,Northern Ireland,Spain,"Group Matches, Group D",data/raw/openfootball/1986/worldcup-full.json
+1986|022|1986-06-12|Algeria|Spain,1986,1986-06-12,Algeria,Spain,"Group Matches, Group D",data/raw/openfootball/1986/worldcup-full.json
+1986|023|1986-06-12|Northern Ireland|Brazil,1986,1986-06-12,Northern Ireland,Brazil,"Group Matches, Group D",data/raw/openfootball/1986/worldcup-full.json
+1986|024|1986-06-04|Uruguay|West Germany,1986,1986-06-04,Uruguay,West Germany,"Group Matches, Group E",data/raw/openfootball/1986/worldcup-full.json
+1986|025|1986-06-04|Scotland|Denmark,1986,1986-06-04,Scotland,Denmark,"Group Matches, Group E",data/raw/openfootball/1986/worldcup-full.json
+1986|026|1986-06-08|West Germany|Scotland,1986,1986-06-08,West Germany,Scotland,"Group Matches, Group E",data/raw/openfootball/1986/worldcup-full.json
+1986|027|1986-06-08|Denmark|Uruguay,1986,1986-06-08,Denmark,Uruguay,"Group Matches, Group E",data/raw/openfootball/1986/worldcup-full.json
+1986|028|1986-06-13|Denmark|West Germany,1986,1986-06-13,Denmark,West Germany,"Group Matches, Group E",data/raw/openfootball/1986/worldcup-full.json
+1986|029|1986-06-13|Scotland|Uruguay,1986,1986-06-13,Scotland,Uruguay,"Group Matches, Group E",data/raw/openfootball/1986/worldcup-full.json
+1986|030|1986-06-02|Morocco|Poland,1986,1986-06-02,Morocco,Poland,"Group Matches, Group F",data/raw/openfootball/1986/worldcup-full.json
+1986|031|1986-06-03|Portugal|England,1986,1986-06-03,Portugal,England,"Group Matches, Group F",data/raw/openfootball/1986/worldcup-full.json
+1986|032|1986-06-06|England|Morocco,1986,1986-06-06,England,Morocco,"Group Matches, Group F",data/raw/openfootball/1986/worldcup-full.json
+1986|033|1986-06-07|Poland|Portugal,1986,1986-06-07,Poland,Portugal,"Group Matches, Group F",data/raw/openfootball/1986/worldcup-full.json
+1986|034|1986-06-11|Portugal|Morocco,1986,1986-06-11,Portugal,Morocco,"Group Matches, Group F",data/raw/openfootball/1986/worldcup-full.json
+1986|035|1986-06-11|England|Poland,1986,1986-06-11,England,Poland,"Group Matches, Group F",data/raw/openfootball/1986/worldcup-full.json
+1986|036|1986-06-15|Mexico|Bulgaria,1986,1986-06-15,Mexico,Bulgaria,Round of 16,data/raw/openfootball/1986/worldcup-full.json
+1986|037|1986-06-15|Soviet Union|Belgium,1986,1986-06-15,Soviet Union,Belgium,Round of 16,data/raw/openfootball/1986/worldcup-full.json
+1986|038|1986-06-16|Brazil|Poland,1986,1986-06-16,Brazil,Poland,Round of 16,data/raw/openfootball/1986/worldcup-full.json
+1986|039|1986-06-16|Argentina|Uruguay,1986,1986-06-16,Argentina,Uruguay,Round of 16,data/raw/openfootball/1986/worldcup-full.json
+1986|040|1986-06-17|Italy|France,1986,1986-06-17,Italy,France,Round of 16,data/raw/openfootball/1986/worldcup-full.json
+1986|041|1986-06-17|Morocco|West Germany,1986,1986-06-17,Morocco,West Germany,Round of 16,data/raw/openfootball/1986/worldcup-full.json
+1986|042|1986-06-18|England|Paraguay,1986,1986-06-18,England,Paraguay,Round of 16,data/raw/openfootball/1986/worldcup-full.json
+1986|043|1986-06-18|Denmark|Spain,1986,1986-06-18,Denmark,Spain,Round of 16,data/raw/openfootball/1986/worldcup-full.json
+1986|044|1986-06-21|Brazil|France,1986,1986-06-21,Brazil,France,Quarter-final,data/raw/openfootball/1986/worldcup-full.json
+1986|045|1986-06-21|West Germany|Mexico,1986,1986-06-21,West Germany,Mexico,Quarter-final,data/raw/openfootball/1986/worldcup-full.json
+1986|046|1986-06-22|Argentina|England,1986,1986-06-22,Argentina,England,Quarter-final,data/raw/openfootball/1986/worldcup-full.json
+1986|047|1986-06-22|Spain|Belgium,1986,1986-06-22,Spain,Belgium,Quarter-final,data/raw/openfootball/1986/worldcup-full.json
+1986|048|1986-06-25|France|West Germany,1986,1986-06-25,France,West Germany,Semi-final,data/raw/openfootball/1986/worldcup-full.json
+1986|049|1986-06-25|Argentina|Belgium,1986,1986-06-25,Argentina,Belgium,Semi-final,data/raw/openfootball/1986/worldcup-full.json
+1986|050|1986-06-28|France|Belgium,1986,1986-06-28,France,Belgium,Match for third place,data/raw/openfootball/1986/worldcup-full.json
+1986|051|1986-06-29|Argentina|West Germany,1986,1986-06-29,Argentina,West Germany,Final,data/raw/openfootball/1986/worldcup-full.json
+1990|000|1990-06-09|Italy|Austria,1990,1990-06-09,Italy,Austria,"Group Matches, Group A",data/raw/openfootball/1990/worldcup-full.json
+1990|001|1990-06-10|USA|Czechoslovakia,1990,1990-06-10,USA,Czechoslovakia,"Group Matches, Group A",data/raw/openfootball/1990/worldcup-full.json
+1990|002|1990-06-14|Italy|USA,1990,1990-06-14,Italy,USA,"Group Matches, Group A",data/raw/openfootball/1990/worldcup-full.json
+1990|003|1990-06-15|Austria|Czechoslovakia,1990,1990-06-15,Austria,Czechoslovakia,"Group Matches, Group A",data/raw/openfootball/1990/worldcup-full.json
+1990|004|1990-06-19|Austria|USA,1990,1990-06-19,Austria,USA,"Group Matches, Group A",data/raw/openfootball/1990/worldcup-full.json
+1990|005|1990-06-19|Italy|Czechoslovakia,1990,1990-06-19,Italy,Czechoslovakia,"Group Matches, Group A",data/raw/openfootball/1990/worldcup-full.json
+1990|006|1990-06-08|Argentina|Cameroon,1990,1990-06-08,Argentina,Cameroon,"Group Matches, Group B",data/raw/openfootball/1990/worldcup-full.json
+1990|007|1990-06-09|Soviet Union|Romania,1990,1990-06-09,Soviet Union,Romania,"Group Matches, Group B",data/raw/openfootball/1990/worldcup-full.json
+1990|008|1990-06-13|Argentina|Soviet Union,1990,1990-06-13,Argentina,Soviet Union,"Group Matches, Group B",data/raw/openfootball/1990/worldcup-full.json
+1990|009|1990-06-14|Cameroon|Romania,1990,1990-06-14,Cameroon,Romania,"Group Matches, Group B",data/raw/openfootball/1990/worldcup-full.json
+1990|010|1990-06-18|Cameroon|Soviet Union,1990,1990-06-18,Cameroon,Soviet Union,"Group Matches, Group B",data/raw/openfootball/1990/worldcup-full.json
+1990|011|1990-06-18|Argentina|Romania,1990,1990-06-18,Argentina,Romania,"Group Matches, Group B",data/raw/openfootball/1990/worldcup-full.json
+1990|012|1990-06-10|Brazil|Sweden,1990,1990-06-10,Brazil,Sweden,"Group Matches, Group C",data/raw/openfootball/1990/worldcup-full.json
+1990|013|1990-06-11|Costa Rica|Scotland,1990,1990-06-11,Costa Rica,Scotland,"Group Matches, Group C",data/raw/openfootball/1990/worldcup-full.json
+1990|014|1990-06-16|Brazil|Costa Rica,1990,1990-06-16,Brazil,Costa Rica,"Group Matches, Group C",data/raw/openfootball/1990/worldcup-full.json
+1990|015|1990-06-16|Sweden|Scotland,1990,1990-06-16,Sweden,Scotland,"Group Matches, Group C",data/raw/openfootball/1990/worldcup-full.json
+1990|016|1990-06-20|Sweden|Costa Rica,1990,1990-06-20,Sweden,Costa Rica,"Group Matches, Group C",data/raw/openfootball/1990/worldcup-full.json
+1990|017|1990-06-20|Brazil|Scotland,1990,1990-06-20,Brazil,Scotland,"Group Matches, Group C",data/raw/openfootball/1990/worldcup-full.json
+1990|018|1990-06-09|United Arab Emirates|Colombia,1990,1990-06-09,United Arab Emirates,Colombia,"Group Matches, Group D",data/raw/openfootball/1990/worldcup-full.json
+1990|019|1990-06-10|West Germany|Yugoslavia,1990,1990-06-10,West Germany,Yugoslavia,"Group Matches, Group D",data/raw/openfootball/1990/worldcup-full.json
+1990|020|1990-06-14|Yugoslavia|Colombia,1990,1990-06-14,Yugoslavia,Colombia,"Group Matches, Group D",data/raw/openfootball/1990/worldcup-full.json
+1990|021|1990-06-15|West Germany|United Arab Emirates,1990,1990-06-15,West Germany,United Arab Emirates,"Group Matches, Group D",data/raw/openfootball/1990/worldcup-full.json
+1990|022|1990-06-19|West Germany|Colombia,1990,1990-06-19,West Germany,Colombia,"Group Matches, Group D",data/raw/openfootball/1990/worldcup-full.json
+1990|023|1990-06-19|Yugoslavia|United Arab Emirates,1990,1990-06-19,Yugoslavia,United Arab Emirates,"Group Matches, Group D",data/raw/openfootball/1990/worldcup-full.json
+1990|024|1990-06-12|Belgium|South Korea,1990,1990-06-12,Belgium,South Korea,"Group Matches, Group E",data/raw/openfootball/1990/worldcup-full.json
+1990|025|1990-06-13|Uruguay|Spain,1990,1990-06-13,Uruguay,Spain,"Group Matches, Group E",data/raw/openfootball/1990/worldcup-full.json
+1990|026|1990-06-17|Belgium|Uruguay,1990,1990-06-17,Belgium,Uruguay,"Group Matches, Group E",data/raw/openfootball/1990/worldcup-full.json
+1990|027|1990-06-17|South Korea|Spain,1990,1990-06-17,South Korea,Spain,"Group Matches, Group E",data/raw/openfootball/1990/worldcup-full.json
+1990|028|1990-06-21|Belgium|Spain,1990,1990-06-21,Belgium,Spain,"Group Matches, Group E",data/raw/openfootball/1990/worldcup-full.json
+1990|029|1990-06-21|South Korea|Uruguay,1990,1990-06-21,South Korea,Uruguay,"Group Matches, Group E",data/raw/openfootball/1990/worldcup-full.json
+1990|030|1990-06-11|England|Ireland,1990,1990-06-11,England,Ireland,"Group Matches, Group F",data/raw/openfootball/1990/worldcup-full.json
+1990|031|1990-06-12|Netherlands|Egypt,1990,1990-06-12,Netherlands,Egypt,"Group Matches, Group F",data/raw/openfootball/1990/worldcup-full.json
+1990|032|1990-06-16|England|Netherlands,1990,1990-06-16,England,Netherlands,"Group Matches, Group F",data/raw/openfootball/1990/worldcup-full.json
+1990|033|1990-06-17|Ireland|Egypt,1990,1990-06-17,Ireland,Egypt,"Group Matches, Group F",data/raw/openfootball/1990/worldcup-full.json
+1990|034|1990-06-21|Ireland|Netherlands,1990,1990-06-21,Ireland,Netherlands,"Group Matches, Group F",data/raw/openfootball/1990/worldcup-full.json
+1990|035|1990-06-21|England|Egypt,1990,1990-06-21,England,Egypt,"Group Matches, Group F",data/raw/openfootball/1990/worldcup-full.json
+1990|036|1990-06-23|Cameroon|Colombia,1990,1990-06-23,Cameroon,Colombia,Round of 16,data/raw/openfootball/1990/worldcup-full.json
+1990|037|1990-06-23|Czechoslovakia|Costa Rica,1990,1990-06-23,Czechoslovakia,Costa Rica,Round of 16,data/raw/openfootball/1990/worldcup-full.json
+1990|038|1990-06-24|Brazil|Argentina,1990,1990-06-24,Brazil,Argentina,Round of 16,data/raw/openfootball/1990/worldcup-full.json
+1990|039|1990-06-24|West Germany|Netherlands,1990,1990-06-24,West Germany,Netherlands,Round of 16,data/raw/openfootball/1990/worldcup-full.json
+1990|040|1990-06-25|Ireland|Romania,1990,1990-06-25,Ireland,Romania,Round of 16,data/raw/openfootball/1990/worldcup-full.json
+1990|041|1990-06-25|Italy|Uruguay,1990,1990-06-25,Italy,Uruguay,Round of 16,data/raw/openfootball/1990/worldcup-full.json
+1990|042|1990-06-26|Spain|Yugoslavia,1990,1990-06-26,Spain,Yugoslavia,Round of 16,data/raw/openfootball/1990/worldcup-full.json
+1990|043|1990-06-26|England|Belgium,1990,1990-06-26,England,Belgium,Round of 16,data/raw/openfootball/1990/worldcup-full.json
+1990|044|1990-06-30|Yugoslavia|Argentina,1990,1990-06-30,Yugoslavia,Argentina,Quarter-final,data/raw/openfootball/1990/worldcup-full.json
+1990|045|1990-06-30|Italy|Ireland,1990,1990-06-30,Italy,Ireland,Quarter-final,data/raw/openfootball/1990/worldcup-full.json
+1990|046|1990-07-01|West Germany|Czechoslovakia,1990,1990-07-01,West Germany,Czechoslovakia,Quarter-final,data/raw/openfootball/1990/worldcup-full.json
+1990|047|1990-07-01|England|Cameroon,1990,1990-07-01,England,Cameroon,Quarter-final,data/raw/openfootball/1990/worldcup-full.json
+1990|048|1990-07-03|Italy|Argentina,1990,1990-07-03,Italy,Argentina,Semi-final,data/raw/openfootball/1990/worldcup-full.json
+1990|049|1990-07-04|West Germany|England,1990,1990-07-04,West Germany,England,Semi-final,data/raw/openfootball/1990/worldcup-full.json
+1990|050|1990-07-07|Italy|England,1990,1990-07-07,Italy,England,Match for third place,data/raw/openfootball/1990/worldcup-full.json
+1990|051|1990-07-08|West Germany|Argentina,1990,1990-07-08,West Germany,Argentina,Final,data/raw/openfootball/1990/worldcup-full.json
+1994|000|1994-06-18|USA|Switzerland,1994,1994-06-18,USA,Switzerland,"Group Matches, Group A",data/raw/openfootball/1994/worldcup-full.json
+1994|001|1994-06-18|Colombia|Romania,1994,1994-06-18,Colombia,Romania,"Group Matches, Group A",data/raw/openfootball/1994/worldcup-full.json
+1994|002|1994-06-22|Romania|Switzerland,1994,1994-06-22,Romania,Switzerland,"Group Matches, Group A",data/raw/openfootball/1994/worldcup-full.json
+1994|003|1994-06-22|USA|Colombia,1994,1994-06-22,USA,Colombia,"Group Matches, Group A",data/raw/openfootball/1994/worldcup-full.json
+1994|004|1994-06-26|USA|Romania,1994,1994-06-26,USA,Romania,"Group Matches, Group A",data/raw/openfootball/1994/worldcup-full.json
+1994|005|1994-06-26|Switzerland|Colombia,1994,1994-06-26,Switzerland,Colombia,"Group Matches, Group A",data/raw/openfootball/1994/worldcup-full.json
+1994|006|1994-06-19|Cameroon|Sweden,1994,1994-06-19,Cameroon,Sweden,"Group Matches, Group B",data/raw/openfootball/1994/worldcup-full.json
+1994|007|1994-06-20|Brazil|Russia,1994,1994-06-20,Brazil,Russia,"Group Matches, Group B",data/raw/openfootball/1994/worldcup-full.json
+1994|008|1994-06-24|Brazil|Cameroon,1994,1994-06-24,Brazil,Cameroon,"Group Matches, Group B",data/raw/openfootball/1994/worldcup-full.json
+1994|009|1994-06-24|Sweden|Russia,1994,1994-06-24,Sweden,Russia,"Group Matches, Group B",data/raw/openfootball/1994/worldcup-full.json
+1994|010|1994-06-28|Brazil|Sweden,1994,1994-06-28,Brazil,Sweden,"Group Matches, Group B",data/raw/openfootball/1994/worldcup-full.json
+1994|011|1994-06-28|Russia|Cameroon,1994,1994-06-28,Russia,Cameroon,"Group Matches, Group B",data/raw/openfootball/1994/worldcup-full.json
+1994|012|1994-06-17|Germany|Bolivia,1994,1994-06-17,Germany,Bolivia,"Group Matches, Group C",data/raw/openfootball/1994/worldcup-full.json
+1994|013|1994-06-17|Spain|South Korea,1994,1994-06-17,Spain,South Korea,"Group Matches, Group C",data/raw/openfootball/1994/worldcup-full.json
+1994|014|1994-06-21|Germany|Spain,1994,1994-06-21,Germany,Spain,"Group Matches, Group C",data/raw/openfootball/1994/worldcup-full.json
+1994|015|1994-06-23|South Korea|Bolivia,1994,1994-06-23,South Korea,Bolivia,"Group Matches, Group C",data/raw/openfootball/1994/worldcup-full.json
+1994|016|1994-06-27|Germany|South Korea,1994,1994-06-27,Germany,South Korea,"Group Matches, Group C",data/raw/openfootball/1994/worldcup-full.json
+1994|017|1994-06-27|Bolivia|Spain,1994,1994-06-27,Bolivia,Spain,"Group Matches, Group C",data/raw/openfootball/1994/worldcup-full.json
+1994|018|1994-06-21|Argentina|Greece,1994,1994-06-21,Argentina,Greece,"Group Matches, Group D",data/raw/openfootball/1994/worldcup-full.json
+1994|019|1994-06-21|Nigeria|Bulgaria,1994,1994-06-21,Nigeria,Bulgaria,"Group Matches, Group D",data/raw/openfootball/1994/worldcup-full.json
+1994|020|1994-06-25|Argentina|Nigeria,1994,1994-06-25,Argentina,Nigeria,"Group Matches, Group D",data/raw/openfootball/1994/worldcup-full.json
+1994|021|1994-06-26|Bulgaria|Greece,1994,1994-06-26,Bulgaria,Greece,"Group Matches, Group D",data/raw/openfootball/1994/worldcup-full.json
+1994|022|1994-06-30|Greece|Nigeria,1994,1994-06-30,Greece,Nigeria,"Group Matches, Group D",data/raw/openfootball/1994/worldcup-full.json
+1994|023|1994-06-30|Argentina|Bulgaria,1994,1994-06-30,Argentina,Bulgaria,"Group Matches, Group D",data/raw/openfootball/1994/worldcup-full.json
+1994|024|1994-06-18|Italy|Ireland,1994,1994-06-18,Italy,Ireland,"Group Matches, Group E",data/raw/openfootball/1994/worldcup-full.json
+1994|025|1994-06-19|Norway|Mexico,1994,1994-06-19,Norway,Mexico,"Group Matches, Group E",data/raw/openfootball/1994/worldcup-full.json
+1994|026|1994-06-23|Italy|Norway,1994,1994-06-23,Italy,Norway,"Group Matches, Group E",data/raw/openfootball/1994/worldcup-full.json
+1994|027|1994-06-24|Mexico|Ireland,1994,1994-06-24,Mexico,Ireland,"Group Matches, Group E",data/raw/openfootball/1994/worldcup-full.json
+1994|028|1994-06-28|Italy|Mexico,1994,1994-06-28,Italy,Mexico,"Group Matches, Group E",data/raw/openfootball/1994/worldcup-full.json
+1994|029|1994-06-28|Ireland|Norway,1994,1994-06-28,Ireland,Norway,"Group Matches, Group E",data/raw/openfootball/1994/worldcup-full.json
+1994|030|1994-06-19|Belgium|Morocco,1994,1994-06-19,Belgium,Morocco,"Group Matches, Group F",data/raw/openfootball/1994/worldcup-full.json
+1994|031|1994-06-20|Netherlands|Saudi Arabia,1994,1994-06-20,Netherlands,Saudi Arabia,"Group Matches, Group F",data/raw/openfootball/1994/worldcup-full.json
+1994|032|1994-06-25|Saudi Arabia|Morocco,1994,1994-06-25,Saudi Arabia,Morocco,"Group Matches, Group F",data/raw/openfootball/1994/worldcup-full.json
+1994|033|1994-06-25|Belgium|Netherlands,1994,1994-06-25,Belgium,Netherlands,"Group Matches, Group F",data/raw/openfootball/1994/worldcup-full.json
+1994|034|1994-06-29|Belgium|Saudi Arabia,1994,1994-06-29,Belgium,Saudi Arabia,"Group Matches, Group F",data/raw/openfootball/1994/worldcup-full.json
+1994|035|1994-06-29|Morocco|Netherlands,1994,1994-06-29,Morocco,Netherlands,"Group Matches, Group F",data/raw/openfootball/1994/worldcup-full.json
+1994|036|1994-07-02|Germany|Belgium,1994,1994-07-02,Germany,Belgium,Round of 16,data/raw/openfootball/1994/worldcup-full.json
+1994|037|1994-07-02|Spain|Switzerland,1994,1994-07-02,Spain,Switzerland,Round of 16,data/raw/openfootball/1994/worldcup-full.json
+1994|038|1994-07-03|Saudi Arabia|Sweden,1994,1994-07-03,Saudi Arabia,Sweden,Round of 16,data/raw/openfootball/1994/worldcup-full.json
+1994|039|1994-07-03|Romania|Argentina,1994,1994-07-03,Romania,Argentina,Round of 16,data/raw/openfootball/1994/worldcup-full.json
+1994|040|1994-07-04|Netherlands|Ireland,1994,1994-07-04,Netherlands,Ireland,Round of 16,data/raw/openfootball/1994/worldcup-full.json
+1994|041|1994-07-04|Brazil|USA,1994,1994-07-04,Brazil,USA,Round of 16,data/raw/openfootball/1994/worldcup-full.json
+1994|042|1994-07-05|Nigeria|Italy,1994,1994-07-05,Nigeria,Italy,Round of 16,data/raw/openfootball/1994/worldcup-full.json
+1994|043|1994-07-05|Mexico|Bulgaria,1994,1994-07-05,Mexico,Bulgaria,Round of 16,data/raw/openfootball/1994/worldcup-full.json
+1994|044|1994-07-09|Italy|Spain,1994,1994-07-09,Italy,Spain,Quarter-final,data/raw/openfootball/1994/worldcup-full.json
+1994|045|1994-07-09|Netherlands|Brazil,1994,1994-07-09,Netherlands,Brazil,Quarter-final,data/raw/openfootball/1994/worldcup-full.json
+1994|046|1994-07-10|Bulgaria|Germany,1994,1994-07-10,Bulgaria,Germany,Quarter-final,data/raw/openfootball/1994/worldcup-full.json
+1994|047|1994-07-10|Romania|Sweden,1994,1994-07-10,Romania,Sweden,Quarter-final,data/raw/openfootball/1994/worldcup-full.json
+1994|048|1994-07-13|Bulgaria|Italy,1994,1994-07-13,Bulgaria,Italy,Semi-final,data/raw/openfootball/1994/worldcup-full.json
+1994|049|1994-07-13|Sweden|Brazil,1994,1994-07-13,Sweden,Brazil,Semi-final,data/raw/openfootball/1994/worldcup-full.json
+1994|050|1994-07-16|Sweden|Bulgaria,1994,1994-07-16,Sweden,Bulgaria,Match for third place,data/raw/openfootball/1994/worldcup-full.json
+1994|051|1994-07-17|Brazil|Italy,1994,1994-07-17,Brazil,Italy,Final,data/raw/openfootball/1994/worldcup-full.json
+1998|000|1998-06-10|Brazil|Scotland,1998,1998-06-10,Brazil,Scotland,"Group Matches, Group A",data/raw/openfootball/1998/worldcup-full.json
+1998|001|1998-06-10|Morocco|Norway,1998,1998-06-10,Morocco,Norway,"Group Matches, Group A",data/raw/openfootball/1998/worldcup-full.json
+1998|002|1998-06-16|Scotland|Norway,1998,1998-06-16,Scotland,Norway,"Group Matches, Group A",data/raw/openfootball/1998/worldcup-full.json
+1998|003|1998-06-16|Brazil|Morocco,1998,1998-06-16,Brazil,Morocco,"Group Matches, Group A",data/raw/openfootball/1998/worldcup-full.json
+1998|004|1998-06-23|Brazil|Norway,1998,1998-06-23,Brazil,Norway,"Group Matches, Group A",data/raw/openfootball/1998/worldcup-full.json
+1998|005|1998-06-23|Scotland|Morocco,1998,1998-06-23,Scotland,Morocco,"Group Matches, Group A",data/raw/openfootball/1998/worldcup-full.json
+1998|006|1998-06-11|Italy|Chile,1998,1998-06-11,Italy,Chile,"Group Matches, Group B",data/raw/openfootball/1998/worldcup-full.json
+1998|007|1998-06-11|Cameroon|Austria,1998,1998-06-11,Cameroon,Austria,"Group Matches, Group B",data/raw/openfootball/1998/worldcup-full.json
+1998|008|1998-06-17|Chile|Austria,1998,1998-06-17,Chile,Austria,"Group Matches, Group B",data/raw/openfootball/1998/worldcup-full.json
+1998|009|1998-06-17|Italy|Cameroon,1998,1998-06-17,Italy,Cameroon,"Group Matches, Group B",data/raw/openfootball/1998/worldcup-full.json
+1998|010|1998-06-23|Chile|Cameroon,1998,1998-06-23,Chile,Cameroon,"Group Matches, Group B",data/raw/openfootball/1998/worldcup-full.json
+1998|011|1998-06-23|Italy|Austria,1998,1998-06-23,Italy,Austria,"Group Matches, Group B",data/raw/openfootball/1998/worldcup-full.json
+1998|012|1998-06-12|Saudi Arabia|Denmark,1998,1998-06-12,Saudi Arabia,Denmark,"Group Matches, Group C",data/raw/openfootball/1998/worldcup-full.json
+1998|013|1998-06-12|France|South Africa,1998,1998-06-12,France,South Africa,"Group Matches, Group C",data/raw/openfootball/1998/worldcup-full.json
+1998|014|1998-06-18|South Africa|Denmark,1998,1998-06-18,South Africa,Denmark,"Group Matches, Group C",data/raw/openfootball/1998/worldcup-full.json
+1998|015|1998-06-18|France|Saudi Arabia,1998,1998-06-18,France,Saudi Arabia,"Group Matches, Group C",data/raw/openfootball/1998/worldcup-full.json
+1998|016|1998-06-24|South Africa|Saudi Arabia,1998,1998-06-24,South Africa,Saudi Arabia,"Group Matches, Group C",data/raw/openfootball/1998/worldcup-full.json
+1998|017|1998-06-24|France|Denmark,1998,1998-06-24,France,Denmark,"Group Matches, Group C",data/raw/openfootball/1998/worldcup-full.json
+1998|018|1998-06-12|Paraguay|Bulgaria,1998,1998-06-12,Paraguay,Bulgaria,"Group Matches, Group D",data/raw/openfootball/1998/worldcup-full.json
+1998|019|1998-06-13|Spain|Nigeria,1998,1998-06-13,Spain,Nigeria,"Group Matches, Group D",data/raw/openfootball/1998/worldcup-full.json
+1998|020|1998-06-19|Nigeria|Bulgaria,1998,1998-06-19,Nigeria,Bulgaria,"Group Matches, Group D",data/raw/openfootball/1998/worldcup-full.json
+1998|021|1998-06-19|Spain|Paraguay,1998,1998-06-19,Spain,Paraguay,"Group Matches, Group D",data/raw/openfootball/1998/worldcup-full.json
+1998|022|1998-06-24|Nigeria|Paraguay,1998,1998-06-24,Nigeria,Paraguay,"Group Matches, Group D",data/raw/openfootball/1998/worldcup-full.json
+1998|023|1998-06-24|Spain|Bulgaria,1998,1998-06-24,Spain,Bulgaria,"Group Matches, Group D",data/raw/openfootball/1998/worldcup-full.json
+1998|024|1998-06-13|South Korea|Mexico,1998,1998-06-13,South Korea,Mexico,"Group Matches, Group E",data/raw/openfootball/1998/worldcup-full.json
+1998|025|1998-06-13|Netherlands|Belgium,1998,1998-06-13,Netherlands,Belgium,"Group Matches, Group E",data/raw/openfootball/1998/worldcup-full.json
+1998|026|1998-06-20|Belgium|Mexico,1998,1998-06-20,Belgium,Mexico,"Group Matches, Group E",data/raw/openfootball/1998/worldcup-full.json
+1998|027|1998-06-20|Netherlands|South Korea,1998,1998-06-20,Netherlands,South Korea,"Group Matches, Group E",data/raw/openfootball/1998/worldcup-full.json
+1998|028|1998-06-25|Belgium|South Korea,1998,1998-06-25,Belgium,South Korea,"Group Matches, Group E",data/raw/openfootball/1998/worldcup-full.json
+1998|029|1998-06-25|Netherlands|Mexico,1998,1998-06-25,Netherlands,Mexico,"Group Matches, Group E",data/raw/openfootball/1998/worldcup-full.json
+1998|030|1998-06-14|Yugoslavia|Iran,1998,1998-06-14,Yugoslavia,Iran,"Group Matches, Group F",data/raw/openfootball/1998/worldcup-full.json
+1998|031|1998-06-15|Germany|USA,1998,1998-06-15,Germany,USA,"Group Matches, Group F",data/raw/openfootball/1998/worldcup-full.json
+1998|032|1998-06-21|Germany|Yugoslavia,1998,1998-06-21,Germany,Yugoslavia,"Group Matches, Group F",data/raw/openfootball/1998/worldcup-full.json
+1998|033|1998-06-21|USA|Iran,1998,1998-06-21,USA,Iran,"Group Matches, Group F",data/raw/openfootball/1998/worldcup-full.json
+1998|034|1998-06-25|Germany|Iran,1998,1998-06-25,Germany,Iran,"Group Matches, Group F",data/raw/openfootball/1998/worldcup-full.json
+1998|035|1998-06-25|USA|Yugoslavia,1998,1998-06-25,USA,Yugoslavia,"Group Matches, Group F",data/raw/openfootball/1998/worldcup-full.json
+1998|036|1998-06-15|England|Tunisia,1998,1998-06-15,England,Tunisia,"Group Matches, Group G",data/raw/openfootball/1998/worldcup-full.json
+1998|037|1998-06-15|Romania|Colombia,1998,1998-06-15,Romania,Colombia,"Group Matches, Group G",data/raw/openfootball/1998/worldcup-full.json
+1998|038|1998-06-22|Colombia|Tunisia,1998,1998-06-22,Colombia,Tunisia,"Group Matches, Group G",data/raw/openfootball/1998/worldcup-full.json
+1998|039|1998-06-22|Romania|England,1998,1998-06-22,Romania,England,"Group Matches, Group G",data/raw/openfootball/1998/worldcup-full.json
+1998|040|1998-06-26|Colombia|England,1998,1998-06-26,Colombia,England,"Group Matches, Group G",data/raw/openfootball/1998/worldcup-full.json
+1998|041|1998-06-26|Romania|Tunisia,1998,1998-06-26,Romania,Tunisia,"Group Matches, Group G",data/raw/openfootball/1998/worldcup-full.json
+1998|042|1998-06-14|Argentina|Japan,1998,1998-06-14,Argentina,Japan,"Group Matches, Group H",data/raw/openfootball/1998/worldcup-full.json
+1998|043|1998-06-14|Jamaica|Croatia,1998,1998-06-14,Jamaica,Croatia,"Group Matches, Group H",data/raw/openfootball/1998/worldcup-full.json
+1998|044|1998-06-20|Japan|Croatia,1998,1998-06-20,Japan,Croatia,"Group Matches, Group H",data/raw/openfootball/1998/worldcup-full.json
+1998|045|1998-06-21|Argentina|Jamaica,1998,1998-06-21,Argentina,Jamaica,"Group Matches, Group H",data/raw/openfootball/1998/worldcup-full.json
+1998|046|1998-06-26|Argentina|Croatia,1998,1998-06-26,Argentina,Croatia,"Group Matches, Group H",data/raw/openfootball/1998/worldcup-full.json
+1998|047|1998-06-26|Japan|Jamaica,1998,1998-06-26,Japan,Jamaica,"Group Matches, Group H",data/raw/openfootball/1998/worldcup-full.json
+1998|048|1998-06-27|Italy|Norway,1998,1998-06-27,Italy,Norway,Round of 16,data/raw/openfootball/1998/worldcup-full.json
+1998|049|1998-06-27|Brazil|Chile,1998,1998-06-27,Brazil,Chile,Round of 16,data/raw/openfootball/1998/worldcup-full.json
+1998|050|1998-06-28|France|Paraguay,1998,1998-06-28,France,Paraguay,Round of 16,data/raw/openfootball/1998/worldcup-full.json
+1998|051|1998-06-28|Nigeria|Denmark,1998,1998-06-28,Nigeria,Denmark,Round of 16,data/raw/openfootball/1998/worldcup-full.json
+1998|052|1998-06-29|Germany|Mexico,1998,1998-06-29,Germany,Mexico,Round of 16,data/raw/openfootball/1998/worldcup-full.json
+1998|053|1998-06-29|Netherlands|Yugoslavia,1998,1998-06-29,Netherlands,Yugoslavia,Round of 16,data/raw/openfootball/1998/worldcup-full.json
+1998|054|1998-06-30|Romania|Croatia,1998,1998-06-30,Romania,Croatia,Round of 16,data/raw/openfootball/1998/worldcup-full.json
+1998|055|1998-06-30|Argentina|England,1998,1998-06-30,Argentina,England,Round of 16,data/raw/openfootball/1998/worldcup-full.json
+1998|056|1998-07-03|Italy|France,1998,1998-07-03,Italy,France,Quarter-final,data/raw/openfootball/1998/worldcup-full.json
+1998|057|1998-07-03|Brazil|Denmark,1998,1998-07-03,Brazil,Denmark,Quarter-final,data/raw/openfootball/1998/worldcup-full.json
+1998|058|1998-07-04|Netherlands|Argentina,1998,1998-07-04,Netherlands,Argentina,Quarter-final,data/raw/openfootball/1998/worldcup-full.json
+1998|059|1998-07-04|Germany|Croatia,1998,1998-07-04,Germany,Croatia,Quarter-final,data/raw/openfootball/1998/worldcup-full.json
+1998|060|1998-07-07|Brazil|Netherlands,1998,1998-07-07,Brazil,Netherlands,Semi-final,data/raw/openfootball/1998/worldcup-full.json
+1998|061|1998-07-08|France|Croatia,1998,1998-07-08,France,Croatia,Semi-final,data/raw/openfootball/1998/worldcup-full.json
+1998|062|1998-07-11|Netherlands|Croatia,1998,1998-07-11,Netherlands,Croatia,Match for third place,data/raw/openfootball/1998/worldcup-full.json
+1998|063|1998-07-12|Brazil|France,1998,1998-07-12,Brazil,France,Final,data/raw/openfootball/1998/worldcup-full.json
+2002|000|2002-05-31|France|Senegal,2002,2002-05-31,France,Senegal,"Group Stage, Group A",data/raw/openfootball/2002/worldcup-full.json
+2002|001|2002-06-01|Uruguay|Denmark,2002,2002-06-01,Uruguay,Denmark,"Group Stage, Group A",data/raw/openfootball/2002/worldcup-full.json
+2002|002|2002-06-06|Denmark|Senegal,2002,2002-06-06,Denmark,Senegal,"Group Stage, Group A",data/raw/openfootball/2002/worldcup-full.json
+2002|003|2002-06-06|France|Uruguay,2002,2002-06-06,France,Uruguay,"Group Stage, Group A",data/raw/openfootball/2002/worldcup-full.json
+2002|004|2002-06-11|Denmark|France,2002,2002-06-11,Denmark,France,"Group Stage, Group A",data/raw/openfootball/2002/worldcup-full.json
+2002|005|2002-06-11|Senegal|Uruguay,2002,2002-06-11,Senegal,Uruguay,"Group Stage, Group A",data/raw/openfootball/2002/worldcup-full.json
+2002|006|2002-06-02|Paraguay|South Africa,2002,2002-06-02,Paraguay,South Africa,"Group Stage, Group B",data/raw/openfootball/2002/worldcup-full.json
+2002|007|2002-06-02|Spain|Slovenia,2002,2002-06-02,Spain,Slovenia,"Group Stage, Group B",data/raw/openfootball/2002/worldcup-full.json
+2002|008|2002-06-07|Spain|Paraguay,2002,2002-06-07,Spain,Paraguay,"Group Stage, Group B",data/raw/openfootball/2002/worldcup-full.json
+2002|009|2002-06-08|South Africa|Slovenia,2002,2002-06-08,South Africa,Slovenia,"Group Stage, Group B",data/raw/openfootball/2002/worldcup-full.json
+2002|010|2002-06-12|Slovenia|Paraguay,2002,2002-06-12,Slovenia,Paraguay,"Group Stage, Group B",data/raw/openfootball/2002/worldcup-full.json
+2002|011|2002-06-12|South Africa|Spain,2002,2002-06-12,South Africa,Spain,"Group Stage, Group B",data/raw/openfootball/2002/worldcup-full.json
+2002|012|2002-06-03|Brazil|Turkey,2002,2002-06-03,Brazil,Turkey,"Group Stage, Group C",data/raw/openfootball/2002/worldcup-full.json
+2002|013|2002-06-04|China|Costa Rica,2002,2002-06-04,China,Costa Rica,"Group Stage, Group C",data/raw/openfootball/2002/worldcup-full.json
+2002|014|2002-06-08|Brazil|China,2002,2002-06-08,Brazil,China,"Group Stage, Group C",data/raw/openfootball/2002/worldcup-full.json
+2002|015|2002-06-09|Costa Rica|Turkey,2002,2002-06-09,Costa Rica,Turkey,"Group Stage, Group C",data/raw/openfootball/2002/worldcup-full.json
+2002|016|2002-06-13|Costa Rica|Brazil,2002,2002-06-13,Costa Rica,Brazil,"Group Stage, Group C",data/raw/openfootball/2002/worldcup-full.json
+2002|017|2002-06-13|Turkey|China,2002,2002-06-13,Turkey,China,"Group Stage, Group C",data/raw/openfootball/2002/worldcup-full.json
+2002|018|2002-06-04|South Korea|Poland,2002,2002-06-04,South Korea,Poland,"Group Stage, Group D",data/raw/openfootball/2002/worldcup-full.json
+2002|019|2002-06-05|USA|Portugal,2002,2002-06-05,USA,Portugal,"Group Stage, Group D",data/raw/openfootball/2002/worldcup-full.json
+2002|020|2002-06-10|South Korea|USA,2002,2002-06-10,South Korea,USA,"Group Stage, Group D",data/raw/openfootball/2002/worldcup-full.json
+2002|021|2002-06-10|Portugal|Poland,2002,2002-06-10,Portugal,Poland,"Group Stage, Group D",data/raw/openfootball/2002/worldcup-full.json
+2002|022|2002-06-14|Poland|USA,2002,2002-06-14,Poland,USA,"Group Stage, Group D",data/raw/openfootball/2002/worldcup-full.json
+2002|023|2002-06-14|Portugal|South Korea,2002,2002-06-14,Portugal,South Korea,"Group Stage, Group D",data/raw/openfootball/2002/worldcup-full.json
+2002|024|2002-06-01|Ireland|Cameroon,2002,2002-06-01,Ireland,Cameroon,"Group Stage, Group E",data/raw/openfootball/2002/worldcup-full.json
+2002|025|2002-06-01|Germany|Saudi Arabia,2002,2002-06-01,Germany,Saudi Arabia,"Group Stage, Group E",data/raw/openfootball/2002/worldcup-full.json
+2002|026|2002-06-05|Germany|Ireland,2002,2002-06-05,Germany,Ireland,"Group Stage, Group E",data/raw/openfootball/2002/worldcup-full.json
+2002|027|2002-06-06|Cameroon|Saudi Arabia,2002,2002-06-06,Cameroon,Saudi Arabia,"Group Stage, Group E",data/raw/openfootball/2002/worldcup-full.json
+2002|028|2002-06-11|Saudi Arabia|Ireland,2002,2002-06-11,Saudi Arabia,Ireland,"Group Stage, Group E",data/raw/openfootball/2002/worldcup-full.json
+2002|029|2002-06-11|Cameroon|Germany,2002,2002-06-11,Cameroon,Germany,"Group Stage, Group E",data/raw/openfootball/2002/worldcup-full.json
+2002|030|2002-06-02|Argentina|Nigeria,2002,2002-06-02,Argentina,Nigeria,"Group Stage, Group F",data/raw/openfootball/2002/worldcup-full.json
+2002|031|2002-06-02|England|Sweden,2002,2002-06-02,England,Sweden,"Group Stage, Group F",data/raw/openfootball/2002/worldcup-full.json
+2002|032|2002-06-07|Sweden|Nigeria,2002,2002-06-07,Sweden,Nigeria,"Group Stage, Group F",data/raw/openfootball/2002/worldcup-full.json
+2002|033|2002-06-07|Argentina|England,2002,2002-06-07,Argentina,England,"Group Stage, Group F",data/raw/openfootball/2002/worldcup-full.json
+2002|034|2002-06-12|Sweden|Argentina,2002,2002-06-12,Sweden,Argentina,"Group Stage, Group F",data/raw/openfootball/2002/worldcup-full.json
+2002|035|2002-06-12|Nigeria|England,2002,2002-06-12,Nigeria,England,"Group Stage, Group F",data/raw/openfootball/2002/worldcup-full.json
+2002|036|2002-06-03|Croatia|Mexico,2002,2002-06-03,Croatia,Mexico,"Group Stage, Group G",data/raw/openfootball/2002/worldcup-full.json
+2002|037|2002-06-03|Italy|Ecuador,2002,2002-06-03,Italy,Ecuador,"Group Stage, Group G",data/raw/openfootball/2002/worldcup-full.json
+2002|038|2002-06-08|Italy|Croatia,2002,2002-06-08,Italy,Croatia,"Group Stage, Group G",data/raw/openfootball/2002/worldcup-full.json
+2002|039|2002-06-09|Mexico|Ecuador,2002,2002-06-09,Mexico,Ecuador,"Group Stage, Group G",data/raw/openfootball/2002/worldcup-full.json
+2002|040|2002-06-13|Mexico|Italy,2002,2002-06-13,Mexico,Italy,"Group Stage, Group G",data/raw/openfootball/2002/worldcup-full.json
+2002|041|2002-06-13|Ecuador|Croatia,2002,2002-06-13,Ecuador,Croatia,"Group Stage, Group G",data/raw/openfootball/2002/worldcup-full.json
+2002|042|2002-06-04|Japan|Belgium,2002,2002-06-04,Japan,Belgium,"Group Stage, Group H",data/raw/openfootball/2002/worldcup-full.json
+2002|043|2002-06-05|Russia|Tunisia,2002,2002-06-05,Russia,Tunisia,"Group Stage, Group H",data/raw/openfootball/2002/worldcup-full.json
+2002|044|2002-06-09|Japan|Russia,2002,2002-06-09,Japan,Russia,"Group Stage, Group H",data/raw/openfootball/2002/worldcup-full.json
+2002|045|2002-06-10|Tunisia|Belgium,2002,2002-06-10,Tunisia,Belgium,"Group Stage, Group H",data/raw/openfootball/2002/worldcup-full.json
+2002|046|2002-06-14|Belgium|Russia,2002,2002-06-14,Belgium,Russia,"Group Stage, Group H",data/raw/openfootball/2002/worldcup-full.json
+2002|047|2002-06-14|Tunisia|Japan,2002,2002-06-14,Tunisia,Japan,"Group Stage, Group H",data/raw/openfootball/2002/worldcup-full.json
+2002|048|2002-06-15|Germany|Paraguay,2002,2002-06-15,Germany,Paraguay,Round of 16,data/raw/openfootball/2002/worldcup-full.json
+2002|049|2002-06-15|Denmark|England,2002,2002-06-15,Denmark,England,Round of 16,data/raw/openfootball/2002/worldcup-full.json
+2002|050|2002-06-16|Sweden|Senegal,2002,2002-06-16,Sweden,Senegal,Round of 16,data/raw/openfootball/2002/worldcup-full.json
+2002|051|2002-06-16|Spain|Ireland,2002,2002-06-16,Spain,Ireland,Round of 16,data/raw/openfootball/2002/worldcup-full.json
+2002|052|2002-06-17|Mexico|USA,2002,2002-06-17,Mexico,USA,Round of 16,data/raw/openfootball/2002/worldcup-full.json
+2002|053|2002-06-17|Brazil|Belgium,2002,2002-06-17,Brazil,Belgium,Round of 16,data/raw/openfootball/2002/worldcup-full.json
+2002|054|2002-06-18|Japan|Turkey,2002,2002-06-18,Japan,Turkey,Round of 16,data/raw/openfootball/2002/worldcup-full.json
+2002|055|2002-06-18|South Korea|Italy,2002,2002-06-18,South Korea,Italy,Round of 16,data/raw/openfootball/2002/worldcup-full.json
+2002|056|2002-06-21|England|Brazil,2002,2002-06-21,England,Brazil,Quarter-final,data/raw/openfootball/2002/worldcup-full.json
+2002|057|2002-06-21|Germany|USA,2002,2002-06-21,Germany,USA,Quarter-final,data/raw/openfootball/2002/worldcup-full.json
+2002|058|2002-06-22|Spain|South Korea,2002,2002-06-22,Spain,South Korea,Quarter-final,data/raw/openfootball/2002/worldcup-full.json
+2002|059|2002-06-22|Senegal|Turkey,2002,2002-06-22,Senegal,Turkey,Quarter-final,data/raw/openfootball/2002/worldcup-full.json
+2002|060|2002-06-25|Germany|South Korea,2002,2002-06-25,Germany,South Korea,Semi-final,data/raw/openfootball/2002/worldcup-full.json
+2002|061|2002-06-26|Brazil|Turkey,2002,2002-06-26,Brazil,Turkey,Semi-final,data/raw/openfootball/2002/worldcup-full.json
+2002|062|2002-06-29|South Korea|Turkey,2002,2002-06-29,South Korea,Turkey,Match for third place,data/raw/openfootball/2002/worldcup-full.json
+2002|063|2002-06-30|Germany|Brazil,2002,2002-06-30,Germany,Brazil,Final,data/raw/openfootball/2002/worldcup-full.json
+2006|000|2006-06-09|Germany|Costa Rica,2006,2006-06-09,Germany,Costa Rica,"First stage, Group A",data/raw/openfootball/2006/worldcup-full.json
+2006|001|2006-06-09|Poland|Ecuador,2006,2006-06-09,Poland,Ecuador,"First stage, Group A",data/raw/openfootball/2006/worldcup-full.json
+2006|002|2006-06-14|Germany|Poland,2006,2006-06-14,Germany,Poland,"First stage, Group A",data/raw/openfootball/2006/worldcup-full.json
+2006|003|2006-06-15|Ecuador|Costa Rica,2006,2006-06-15,Ecuador,Costa Rica,"First stage, Group A",data/raw/openfootball/2006/worldcup-full.json
+2006|004|2006-06-20|Ecuador|Germany,2006,2006-06-20,Ecuador,Germany,"First stage, Group A",data/raw/openfootball/2006/worldcup-full.json
+2006|005|2006-06-20|Costa Rica|Poland,2006,2006-06-20,Costa Rica,Poland,"First stage, Group A",data/raw/openfootball/2006/worldcup-full.json
+2006|006|2006-06-10|England|Paraguay,2006,2006-06-10,England,Paraguay,"First stage, Group B",data/raw/openfootball/2006/worldcup-full.json
+2006|007|2006-06-10|Trinidad and Tobago|Sweden,2006,2006-06-10,Trinidad and Tobago,Sweden,"First stage, Group B",data/raw/openfootball/2006/worldcup-full.json
+2006|008|2006-06-15|England|Trinidad and Tobago,2006,2006-06-15,England,Trinidad and Tobago,"First stage, Group B",data/raw/openfootball/2006/worldcup-full.json
+2006|009|2006-06-15|Sweden|Paraguay,2006,2006-06-15,Sweden,Paraguay,"First stage, Group B",data/raw/openfootball/2006/worldcup-full.json
+2006|010|2006-06-20|Sweden|England,2006,2006-06-20,Sweden,England,"First stage, Group B",data/raw/openfootball/2006/worldcup-full.json
+2006|011|2006-06-20|Paraguay|Trinidad and Tobago,2006,2006-06-20,Paraguay,Trinidad and Tobago,"First stage, Group B",data/raw/openfootball/2006/worldcup-full.json
+2006|012|2006-06-10|Argentina|Côte d'Ivoire,2006,2006-06-10,Argentina,Côte d'Ivoire,"First stage, Group C",data/raw/openfootball/2006/worldcup-full.json
+2006|013|2006-06-11|Serbia and Montenegro|Netherlands,2006,2006-06-11,Serbia and Montenegro,Netherlands,"First stage, Group C",data/raw/openfootball/2006/worldcup-full.json
+2006|014|2006-06-16|Argentina|Serbia and Montenegro,2006,2006-06-16,Argentina,Serbia and Montenegro,"First stage, Group C",data/raw/openfootball/2006/worldcup-full.json
+2006|015|2006-06-16|Netherlands|Côte d'Ivoire,2006,2006-06-16,Netherlands,Côte d'Ivoire,"First stage, Group C",data/raw/openfootball/2006/worldcup-full.json
+2006|016|2006-06-21|Côte d'Ivoire|Serbia and Montenegro,2006,2006-06-21,Côte d'Ivoire,Serbia and Montenegro,"First stage, Group C",data/raw/openfootball/2006/worldcup-full.json
+2006|017|2006-06-21|Netherlands|Argentina,2006,2006-06-21,Netherlands,Argentina,"First stage, Group C",data/raw/openfootball/2006/worldcup-full.json
+2006|018|2006-06-11|Mexico|Iran,2006,2006-06-11,Mexico,Iran,"First stage, Group D",data/raw/openfootball/2006/worldcup-full.json
+2006|019|2006-06-11|Angola|Portugal,2006,2006-06-11,Angola,Portugal,"First stage, Group D",data/raw/openfootball/2006/worldcup-full.json
+2006|020|2006-06-16|Mexico|Angola,2006,2006-06-16,Mexico,Angola,"First stage, Group D",data/raw/openfootball/2006/worldcup-full.json
+2006|021|2006-06-17|Portugal|Iran,2006,2006-06-17,Portugal,Iran,"First stage, Group D",data/raw/openfootball/2006/worldcup-full.json
+2006|022|2006-06-21|Iran|Angola,2006,2006-06-21,Iran,Angola,"First stage, Group D",data/raw/openfootball/2006/worldcup-full.json
+2006|023|2006-06-21|Portugal|Mexico,2006,2006-06-21,Portugal,Mexico,"First stage, Group D",data/raw/openfootball/2006/worldcup-full.json
+2006|024|2006-06-12|USA|Czechia,2006,2006-06-12,USA,Czechia,"First stage, Group E",data/raw/openfootball/2006/worldcup-full.json
+2006|025|2006-06-12|Italy|Ghana,2006,2006-06-12,Italy,Ghana,"First stage, Group E",data/raw/openfootball/2006/worldcup-full.json
+2006|026|2006-06-17|Czechia|Ghana,2006,2006-06-17,Czechia,Ghana,"First stage, Group E",data/raw/openfootball/2006/worldcup-full.json
+2006|027|2006-06-17|Italy|USA,2006,2006-06-17,Italy,USA,"First stage, Group E",data/raw/openfootball/2006/worldcup-full.json
+2006|028|2006-06-22|Ghana|USA,2006,2006-06-22,Ghana,USA,"First stage, Group E",data/raw/openfootball/2006/worldcup-full.json
+2006|029|2006-06-22|Czechia|Italy,2006,2006-06-22,Czechia,Italy,"First stage, Group E",data/raw/openfootball/2006/worldcup-full.json
+2006|030|2006-06-12|Australia|Japan,2006,2006-06-12,Australia,Japan,"First stage, Group F",data/raw/openfootball/2006/worldcup-full.json
+2006|031|2006-06-13|Brazil|Croatia,2006,2006-06-13,Brazil,Croatia,"First stage, Group F",data/raw/openfootball/2006/worldcup-full.json
+2006|032|2006-06-18|Japan|Croatia,2006,2006-06-18,Japan,Croatia,"First stage, Group F",data/raw/openfootball/2006/worldcup-full.json
+2006|033|2006-06-18|Brazil|Australia,2006,2006-06-18,Brazil,Australia,"First stage, Group F",data/raw/openfootball/2006/worldcup-full.json
+2006|034|2006-06-22|Croatia|Australia,2006,2006-06-22,Croatia,Australia,"First stage, Group F",data/raw/openfootball/2006/worldcup-full.json
+2006|035|2006-06-22|Japan|Brazil,2006,2006-06-22,Japan,Brazil,"First stage, Group F",data/raw/openfootball/2006/worldcup-full.json
+2006|036|2006-06-13|South Korea|Togo,2006,2006-06-13,South Korea,Togo,"First stage, Group G",data/raw/openfootball/2006/worldcup-full.json
+2006|037|2006-06-13|France|Switzerland,2006,2006-06-13,France,Switzerland,"First stage, Group G",data/raw/openfootball/2006/worldcup-full.json
+2006|038|2006-06-18|France|South Korea,2006,2006-06-18,France,South Korea,"First stage, Group G",data/raw/openfootball/2006/worldcup-full.json
+2006|039|2006-06-19|Togo|Switzerland,2006,2006-06-19,Togo,Switzerland,"First stage, Group G",data/raw/openfootball/2006/worldcup-full.json
+2006|040|2006-06-23|Togo|France,2006,2006-06-23,Togo,France,"First stage, Group G",data/raw/openfootball/2006/worldcup-full.json
+2006|041|2006-06-23|Switzerland|South Korea,2006,2006-06-23,Switzerland,South Korea,"First stage, Group G",data/raw/openfootball/2006/worldcup-full.json
+2006|042|2006-06-14|Spain|Ukraine,2006,2006-06-14,Spain,Ukraine,"First stage, Group H",data/raw/openfootball/2006/worldcup-full.json
+2006|043|2006-06-14|Tunisia|Saudi Arabia,2006,2006-06-14,Tunisia,Saudi Arabia,"First stage, Group H",data/raw/openfootball/2006/worldcup-full.json
+2006|044|2006-06-19|Saudi Arabia|Ukraine,2006,2006-06-19,Saudi Arabia,Ukraine,"First stage, Group H",data/raw/openfootball/2006/worldcup-full.json
+2006|045|2006-06-19|Spain|Tunisia,2006,2006-06-19,Spain,Tunisia,"First stage, Group H",data/raw/openfootball/2006/worldcup-full.json
+2006|046|2006-06-23|Ukraine|Tunisia,2006,2006-06-23,Ukraine,Tunisia,"First stage, Group H",data/raw/openfootball/2006/worldcup-full.json
+2006|047|2006-06-23|Saudi Arabia|Spain,2006,2006-06-23,Saudi Arabia,Spain,"First stage, Group H",data/raw/openfootball/2006/worldcup-full.json
+2006|048|2006-06-24|Germany|Sweden,2006,2006-06-24,Germany,Sweden,Round of 16,data/raw/openfootball/2006/worldcup-full.json
+2006|049|2006-06-24|Argentina|Mexico,2006,2006-06-24,Argentina,Mexico,Round of 16,data/raw/openfootball/2006/worldcup-full.json
+2006|050|2006-06-25|England|Ecuador,2006,2006-06-25,England,Ecuador,Round of 16,data/raw/openfootball/2006/worldcup-full.json
+2006|051|2006-06-25|Portugal|Netherlands,2006,2006-06-25,Portugal,Netherlands,Round of 16,data/raw/openfootball/2006/worldcup-full.json
+2006|052|2006-06-26|Italy|Australia,2006,2006-06-26,Italy,Australia,Round of 16,data/raw/openfootball/2006/worldcup-full.json
+2006|053|2006-06-26|Switzerland|Ukraine,2006,2006-06-26,Switzerland,Ukraine,Round of 16,data/raw/openfootball/2006/worldcup-full.json
+2006|054|2006-06-27|Brazil|Ghana,2006,2006-06-27,Brazil,Ghana,Round of 16,data/raw/openfootball/2006/worldcup-full.json
+2006|055|2006-06-27|Spain|France,2006,2006-06-27,Spain,France,Round of 16,data/raw/openfootball/2006/worldcup-full.json
+2006|056|2006-06-30|Germany|Argentina,2006,2006-06-30,Germany,Argentina,Quarter-final,data/raw/openfootball/2006/worldcup-full.json
+2006|057|2006-06-30|Italy|Ukraine,2006,2006-06-30,Italy,Ukraine,Quarter-final,data/raw/openfootball/2006/worldcup-full.json
+2006|058|2006-07-01|England|Portugal,2006,2006-07-01,England,Portugal,Quarter-final,data/raw/openfootball/2006/worldcup-full.json
+2006|059|2006-07-01|Brazil|France,2006,2006-07-01,Brazil,France,Quarter-final,data/raw/openfootball/2006/worldcup-full.json
+2006|060|2006-07-04|Germany|Italy,2006,2006-07-04,Germany,Italy,Semi-final,data/raw/openfootball/2006/worldcup-full.json
+2006|061|2006-07-05|Portugal|France,2006,2006-07-05,Portugal,France,Semi-final,data/raw/openfootball/2006/worldcup-full.json
+2006|062|2006-07-08|Germany|Portugal,2006,2006-07-08,Germany,Portugal,Match for third place,data/raw/openfootball/2006/worldcup-full.json
+2006|063|2006-07-09|Italy|France,2006,2006-07-09,Italy,France,Final,data/raw/openfootball/2006/worldcup-full.json
+2010|000|2010-06-11|South Africa|Mexico,2010,2010-06-11,South Africa,Mexico,"First stage, Group A",data/raw/openfootball/2010/worldcup-full.json
+2010|001|2010-06-11|Uruguay|France,2010,2010-06-11,Uruguay,France,"First stage, Group A",data/raw/openfootball/2010/worldcup-full.json
+2010|002|2010-06-16|South Africa|Uruguay,2010,2010-06-16,South Africa,Uruguay,"First stage, Group A",data/raw/openfootball/2010/worldcup-full.json
+2010|003|2010-06-17|France|Mexico,2010,2010-06-17,France,Mexico,"First stage, Group A",data/raw/openfootball/2010/worldcup-full.json
+2010|004|2010-06-22|Mexico|Uruguay,2010,2010-06-22,Mexico,Uruguay,"First stage, Group A",data/raw/openfootball/2010/worldcup-full.json
+2010|005|2010-06-22|France|South Africa,2010,2010-06-22,France,South Africa,"First stage, Group A",data/raw/openfootball/2010/worldcup-full.json
+2010|006|2010-06-12|South Korea|Greece,2010,2010-06-12,South Korea,Greece,"First stage, Group B",data/raw/openfootball/2010/worldcup-full.json
+2010|007|2010-06-12|Argentina|Nigeria,2010,2010-06-12,Argentina,Nigeria,"First stage, Group B",data/raw/openfootball/2010/worldcup-full.json
+2010|008|2010-06-17|Argentina|South Korea,2010,2010-06-17,Argentina,South Korea,"First stage, Group B",data/raw/openfootball/2010/worldcup-full.json
+2010|009|2010-06-17|Greece|Nigeria,2010,2010-06-17,Greece,Nigeria,"First stage, Group B",data/raw/openfootball/2010/worldcup-full.json
+2010|010|2010-06-22|Nigeria|South Korea,2010,2010-06-22,Nigeria,South Korea,"First stage, Group B",data/raw/openfootball/2010/worldcup-full.json
+2010|011|2010-06-22|Greece|Argentina,2010,2010-06-22,Greece,Argentina,"First stage, Group B",data/raw/openfootball/2010/worldcup-full.json
+2010|012|2010-06-12|England|USA,2010,2010-06-12,England,USA,"First stage, Group C",data/raw/openfootball/2010/worldcup-full.json
+2010|013|2010-06-13|Algeria|Slovenia,2010,2010-06-13,Algeria,Slovenia,"First stage, Group C",data/raw/openfootball/2010/worldcup-full.json
+2010|014|2010-06-18|Slovenia|USA,2010,2010-06-18,Slovenia,USA,"First stage, Group C",data/raw/openfootball/2010/worldcup-full.json
+2010|015|2010-06-18|England|Algeria,2010,2010-06-18,England,Algeria,"First stage, Group C",data/raw/openfootball/2010/worldcup-full.json
+2010|016|2010-06-23|USA|Algeria,2010,2010-06-23,USA,Algeria,"First stage, Group C",data/raw/openfootball/2010/worldcup-full.json
+2010|017|2010-06-23|Slovenia|England,2010,2010-06-23,Slovenia,England,"First stage, Group C",data/raw/openfootball/2010/worldcup-full.json
+2010|018|2010-06-13|Serbia|Ghana,2010,2010-06-13,Serbia,Ghana,"First stage, Group D",data/raw/openfootball/2010/worldcup-full.json
+2010|019|2010-06-13|Germany|Australia,2010,2010-06-13,Germany,Australia,"First stage, Group D",data/raw/openfootball/2010/worldcup-full.json
+2010|020|2010-06-18|Germany|Serbia,2010,2010-06-18,Germany,Serbia,"First stage, Group D",data/raw/openfootball/2010/worldcup-full.json
+2010|021|2010-06-19|Ghana|Australia,2010,2010-06-19,Ghana,Australia,"First stage, Group D",data/raw/openfootball/2010/worldcup-full.json
+2010|022|2010-06-23|Australia|Serbia,2010,2010-06-23,Australia,Serbia,"First stage, Group D",data/raw/openfootball/2010/worldcup-full.json
+2010|023|2010-06-23|Ghana|Germany,2010,2010-06-23,Ghana,Germany,"First stage, Group D",data/raw/openfootball/2010/worldcup-full.json
+2010|024|2010-06-14|Netherlands|Denmark,2010,2010-06-14,Netherlands,Denmark,"First stage, Group E",data/raw/openfootball/2010/worldcup-full.json
+2010|025|2010-06-14|Japan|Cameroon,2010,2010-06-14,Japan,Cameroon,"First stage, Group E",data/raw/openfootball/2010/worldcup-full.json
+2010|026|2010-06-19|Netherlands|Japan,2010,2010-06-19,Netherlands,Japan,"First stage, Group E",data/raw/openfootball/2010/worldcup-full.json
+2010|027|2010-06-19|Cameroon|Denmark,2010,2010-06-19,Cameroon,Denmark,"First stage, Group E",data/raw/openfootball/2010/worldcup-full.json
+2010|028|2010-06-24|Cameroon|Netherlands,2010,2010-06-24,Cameroon,Netherlands,"First stage, Group E",data/raw/openfootball/2010/worldcup-full.json
+2010|029|2010-06-24|Denmark|Japan,2010,2010-06-24,Denmark,Japan,"First stage, Group E",data/raw/openfootball/2010/worldcup-full.json
+2010|030|2010-06-14|Italy|Paraguay,2010,2010-06-14,Italy,Paraguay,"First stage, Group F",data/raw/openfootball/2010/worldcup-full.json
+2010|031|2010-06-15|New Zealand|Slovakia,2010,2010-06-15,New Zealand,Slovakia,"First stage, Group F",data/raw/openfootball/2010/worldcup-full.json
+2010|032|2010-06-20|Slovakia|Paraguay,2010,2010-06-20,Slovakia,Paraguay,"First stage, Group F",data/raw/openfootball/2010/worldcup-full.json
+2010|033|2010-06-20|Italy|New Zealand,2010,2010-06-20,Italy,New Zealand,"First stage, Group F",data/raw/openfootball/2010/worldcup-full.json
+2010|034|2010-06-24|Paraguay|New Zealand,2010,2010-06-24,Paraguay,New Zealand,"First stage, Group F",data/raw/openfootball/2010/worldcup-full.json
+2010|035|2010-06-24|Slovakia|Italy,2010,2010-06-24,Slovakia,Italy,"First stage, Group F",data/raw/openfootball/2010/worldcup-full.json
+2010|036|2010-06-15|Côte d'Ivoire|Portugal,2010,2010-06-15,Côte d'Ivoire,Portugal,"First stage, Group G",data/raw/openfootball/2010/worldcup-full.json
+2010|037|2010-06-15|Brazil|North Korea,2010,2010-06-15,Brazil,North Korea,"First stage, Group G",data/raw/openfootball/2010/worldcup-full.json
+2010|038|2010-06-20|Brazil|Côte d'Ivoire,2010,2010-06-20,Brazil,Côte d'Ivoire,"First stage, Group G",data/raw/openfootball/2010/worldcup-full.json
+2010|039|2010-06-21|Portugal|North Korea,2010,2010-06-21,Portugal,North Korea,"First stage, Group G",data/raw/openfootball/2010/worldcup-full.json
+2010|040|2010-06-25|North Korea|Côte d'Ivoire,2010,2010-06-25,North Korea,Côte d'Ivoire,"First stage, Group G",data/raw/openfootball/2010/worldcup-full.json
+2010|041|2010-06-25|Portugal|Brazil,2010,2010-06-25,Portugal,Brazil,"First stage, Group G",data/raw/openfootball/2010/worldcup-full.json
+2010|042|2010-06-16|Honduras|Chile,2010,2010-06-16,Honduras,Chile,"First stage, Group H",data/raw/openfootball/2010/worldcup-full.json
+2010|043|2010-06-16|Spain|Switzerland,2010,2010-06-16,Spain,Switzerland,"First stage, Group H",data/raw/openfootball/2010/worldcup-full.json
+2010|044|2010-06-21|Chile|Switzerland,2010,2010-06-21,Chile,Switzerland,"First stage, Group H",data/raw/openfootball/2010/worldcup-full.json
+2010|045|2010-06-21|Spain|Honduras,2010,2010-06-21,Spain,Honduras,"First stage, Group H",data/raw/openfootball/2010/worldcup-full.json
+2010|046|2010-06-25|Chile|Spain,2010,2010-06-25,Chile,Spain,"First stage, Group H",data/raw/openfootball/2010/worldcup-full.json
+2010|047|2010-06-25|Switzerland|Honduras,2010,2010-06-25,Switzerland,Honduras,"First stage, Group H",data/raw/openfootball/2010/worldcup-full.json
+2010|048|2010-06-26|Uruguay|South Korea,2010,2010-06-26,Uruguay,South Korea,Round of 16,data/raw/openfootball/2010/worldcup-full.json
+2010|049|2010-06-26|USA|Ghana,2010,2010-06-26,USA,Ghana,Round of 16,data/raw/openfootball/2010/worldcup-full.json
+2010|050|2010-06-27|Germany|England,2010,2010-06-27,Germany,England,Round of 16,data/raw/openfootball/2010/worldcup-full.json
+2010|051|2010-06-27|Argentina|Mexico,2010,2010-06-27,Argentina,Mexico,Round of 16,data/raw/openfootball/2010/worldcup-full.json
+2010|052|2010-06-28|Netherlands|Slovakia,2010,2010-06-28,Netherlands,Slovakia,Round of 16,data/raw/openfootball/2010/worldcup-full.json
+2010|053|2010-06-28|Brazil|Chile,2010,2010-06-28,Brazil,Chile,Round of 16,data/raw/openfootball/2010/worldcup-full.json
+2010|054|2010-06-29|Paraguay|Japan,2010,2010-06-29,Paraguay,Japan,Round of 16,data/raw/openfootball/2010/worldcup-full.json
+2010|055|2010-06-29|Spain|Portugal,2010,2010-06-29,Spain,Portugal,Round of 16,data/raw/openfootball/2010/worldcup-full.json
+2010|056|2010-07-02|Netherlands|Brazil,2010,2010-07-02,Netherlands,Brazil,Quarter-final,data/raw/openfootball/2010/worldcup-full.json
+2010|057|2010-07-02|Uruguay|Ghana,2010,2010-07-02,Uruguay,Ghana,Quarter-final,data/raw/openfootball/2010/worldcup-full.json
+2010|058|2010-07-03|Argentina|Germany,2010,2010-07-03,Argentina,Germany,Quarter-final,data/raw/openfootball/2010/worldcup-full.json
+2010|059|2010-07-03|Paraguay|Spain,2010,2010-07-03,Paraguay,Spain,Quarter-final,data/raw/openfootball/2010/worldcup-full.json
+2010|060|2010-07-06|Uruguay|Netherlands,2010,2010-07-06,Uruguay,Netherlands,Semi-final,data/raw/openfootball/2010/worldcup-full.json
+2010|061|2010-07-07|Germany|Spain,2010,2010-07-07,Germany,Spain,Semi-final,data/raw/openfootball/2010/worldcup-full.json
+2010|062|2010-07-10|Uruguay|Germany,2010,2010-07-10,Uruguay,Germany,Match for third place,data/raw/openfootball/2010/worldcup-full.json
+2010|063|2010-07-11|Netherlands|Spain,2010,2010-07-11,Netherlands,Spain,Final,data/raw/openfootball/2010/worldcup-full.json
+2014|000|2014-06-12|Brazil|Croatia,2014,2014-06-12,Brazil,Croatia,"First stage, Group A",data/raw/openfootball/2014/worldcup-full.json
+2014|001|2014-06-13|Mexico|Cameroon,2014,2014-06-13,Mexico,Cameroon,"First stage, Group A",data/raw/openfootball/2014/worldcup-full.json
+2014|002|2014-06-17|Brazil|Mexico,2014,2014-06-17,Brazil,Mexico,"First stage, Group A",data/raw/openfootball/2014/worldcup-full.json
+2014|003|2014-06-18|Cameroon|Croatia,2014,2014-06-18,Cameroon,Croatia,"First stage, Group A",data/raw/openfootball/2014/worldcup-full.json
+2014|004|2014-06-23|Croatia|Mexico,2014,2014-06-23,Croatia,Mexico,"First stage, Group A",data/raw/openfootball/2014/worldcup-full.json
+2014|005|2014-06-23|Cameroon|Brazil,2014,2014-06-23,Cameroon,Brazil,"First stage, Group A",data/raw/openfootball/2014/worldcup-full.json
+2014|006|2014-06-13|Spain|Netherlands,2014,2014-06-13,Spain,Netherlands,"First stage, Group B",data/raw/openfootball/2014/worldcup-full.json
+2014|007|2014-06-13|Chile|Australia,2014,2014-06-13,Chile,Australia,"First stage, Group B",data/raw/openfootball/2014/worldcup-full.json
+2014|008|2014-06-18|Australia|Netherlands,2014,2014-06-18,Australia,Netherlands,"First stage, Group B",data/raw/openfootball/2014/worldcup-full.json
+2014|009|2014-06-18|Spain|Chile,2014,2014-06-18,Spain,Chile,"First stage, Group B",data/raw/openfootball/2014/worldcup-full.json
+2014|010|2014-06-23|Netherlands|Chile,2014,2014-06-23,Netherlands,Chile,"First stage, Group B",data/raw/openfootball/2014/worldcup-full.json
+2014|011|2014-06-23|Australia|Spain,2014,2014-06-23,Australia,Spain,"First stage, Group B",data/raw/openfootball/2014/worldcup-full.json
+2014|012|2014-06-14|Colombia|Greece,2014,2014-06-14,Colombia,Greece,"First stage, Group C",data/raw/openfootball/2014/worldcup-full.json
+2014|013|2014-06-14|Côte d'Ivoire|Japan,2014,2014-06-14,Côte d'Ivoire,Japan,"First stage, Group C",data/raw/openfootball/2014/worldcup-full.json
+2014|014|2014-06-19|Colombia|Côte d'Ivoire,2014,2014-06-19,Colombia,Côte d'Ivoire,"First stage, Group C",data/raw/openfootball/2014/worldcup-full.json
+2014|015|2014-06-19|Japan|Greece,2014,2014-06-19,Japan,Greece,"First stage, Group C",data/raw/openfootball/2014/worldcup-full.json
+2014|016|2014-06-24|Japan|Colombia,2014,2014-06-24,Japan,Colombia,"First stage, Group C",data/raw/openfootball/2014/worldcup-full.json
+2014|017|2014-06-24|Greece|Côte d'Ivoire,2014,2014-06-24,Greece,Côte d'Ivoire,"First stage, Group C",data/raw/openfootball/2014/worldcup-full.json
+2014|018|2014-06-14|Uruguay|Costa Rica,2014,2014-06-14,Uruguay,Costa Rica,"First stage, Group D",data/raw/openfootball/2014/worldcup-full.json
+2014|019|2014-06-14|England|Italy,2014,2014-06-14,England,Italy,"First stage, Group D",data/raw/openfootball/2014/worldcup-full.json
+2014|020|2014-06-19|Uruguay|England,2014,2014-06-19,Uruguay,England,"First stage, Group D",data/raw/openfootball/2014/worldcup-full.json
+2014|021|2014-06-20|Italy|Costa Rica,2014,2014-06-20,Italy,Costa Rica,"First stage, Group D",data/raw/openfootball/2014/worldcup-full.json
+2014|022|2014-06-24|Costa Rica|England,2014,2014-06-24,Costa Rica,England,"First stage, Group D",data/raw/openfootball/2014/worldcup-full.json
+2014|023|2014-06-24|Italy|Uruguay,2014,2014-06-24,Italy,Uruguay,"First stage, Group D",data/raw/openfootball/2014/worldcup-full.json
+2014|024|2014-06-15|Switzerland|Ecuador,2014,2014-06-15,Switzerland,Ecuador,"First stage, Group E",data/raw/openfootball/2014/worldcup-full.json
+2014|025|2014-06-15|France|Honduras,2014,2014-06-15,France,Honduras,"First stage, Group E",data/raw/openfootball/2014/worldcup-full.json
+2014|026|2014-06-20|Switzerland|France,2014,2014-06-20,Switzerland,France,"First stage, Group E",data/raw/openfootball/2014/worldcup-full.json
+2014|027|2014-06-20|Honduras|Ecuador,2014,2014-06-20,Honduras,Ecuador,"First stage, Group E",data/raw/openfootball/2014/worldcup-full.json
+2014|028|2014-06-25|Ecuador|France,2014,2014-06-25,Ecuador,France,"First stage, Group E",data/raw/openfootball/2014/worldcup-full.json
+2014|029|2014-06-25|Honduras|Switzerland,2014,2014-06-25,Honduras,Switzerland,"First stage, Group E",data/raw/openfootball/2014/worldcup-full.json
+2014|030|2014-06-15|Argentina|Bosnia-Herzegovina,2014,2014-06-15,Argentina,Bosnia-Herzegovina,"First stage, Group F",data/raw/openfootball/2014/worldcup-full.json
+2014|031|2014-06-16|Iran|Nigeria,2014,2014-06-16,Iran,Nigeria,"First stage, Group F",data/raw/openfootball/2014/worldcup-full.json
+2014|032|2014-06-21|Argentina|Iran,2014,2014-06-21,Argentina,Iran,"First stage, Group F",data/raw/openfootball/2014/worldcup-full.json
+2014|033|2014-06-21|Nigeria|Bosnia-Herzegovina,2014,2014-06-21,Nigeria,Bosnia-Herzegovina,"First stage, Group F",data/raw/openfootball/2014/worldcup-full.json
+2014|034|2014-06-25|Nigeria|Argentina,2014,2014-06-25,Nigeria,Argentina,"First stage, Group F",data/raw/openfootball/2014/worldcup-full.json
+2014|035|2014-06-25|Bosnia-Herzegovina|Iran,2014,2014-06-25,Bosnia-Herzegovina,Iran,"First stage, Group F",data/raw/openfootball/2014/worldcup-full.json
+2014|036|2014-06-16|Germany|Portugal,2014,2014-06-16,Germany,Portugal,"First stage, Group G",data/raw/openfootball/2014/worldcup-full.json
+2014|037|2014-06-16|Ghana|USA,2014,2014-06-16,Ghana,USA,"First stage, Group G",data/raw/openfootball/2014/worldcup-full.json
+2014|038|2014-06-21|Germany|Ghana,2014,2014-06-21,Germany,Ghana,"First stage, Group G",data/raw/openfootball/2014/worldcup-full.json
+2014|039|2014-06-22|USA|Portugal,2014,2014-06-22,USA,Portugal,"First stage, Group G",data/raw/openfootball/2014/worldcup-full.json
+2014|040|2014-06-26|USA|Germany,2014,2014-06-26,USA,Germany,"First stage, Group G",data/raw/openfootball/2014/worldcup-full.json
+2014|041|2014-06-26|Portugal|Ghana,2014,2014-06-26,Portugal,Ghana,"First stage, Group G",data/raw/openfootball/2014/worldcup-full.json
+2014|042|2014-06-17|Belgium|Algeria,2014,2014-06-17,Belgium,Algeria,"First stage, Group H",data/raw/openfootball/2014/worldcup-full.json
+2014|043|2014-06-17|Russia|South Korea,2014,2014-06-17,Russia,South Korea,"First stage, Group H",data/raw/openfootball/2014/worldcup-full.json
+2014|044|2014-06-22|Belgium|Russia,2014,2014-06-22,Belgium,Russia,"First stage, Group H",data/raw/openfootball/2014/worldcup-full.json
+2014|045|2014-06-22|South Korea|Algeria,2014,2014-06-22,South Korea,Algeria,"First stage, Group H",data/raw/openfootball/2014/worldcup-full.json
+2014|046|2014-06-26|Algeria|Russia,2014,2014-06-26,Algeria,Russia,"First stage, Group H",data/raw/openfootball/2014/worldcup-full.json
+2014|047|2014-06-26|South Korea|Belgium,2014,2014-06-26,South Korea,Belgium,"First stage, Group H",data/raw/openfootball/2014/worldcup-full.json
+2014|048|2014-06-28|Brazil|Chile,2014,2014-06-28,Brazil,Chile,Round of 16,data/raw/openfootball/2014/worldcup-full.json
+2014|049|2014-06-28|Colombia|Uruguay,2014,2014-06-28,Colombia,Uruguay,Round of 16,data/raw/openfootball/2014/worldcup-full.json
+2014|050|2014-06-29|Netherlands|Mexico,2014,2014-06-29,Netherlands,Mexico,Round of 16,data/raw/openfootball/2014/worldcup-full.json
+2014|051|2014-06-29|Costa Rica|Greece,2014,2014-06-29,Costa Rica,Greece,Round of 16,data/raw/openfootball/2014/worldcup-full.json
+2014|052|2014-06-30|France|Nigeria,2014,2014-06-30,France,Nigeria,Round of 16,data/raw/openfootball/2014/worldcup-full.json
+2014|053|2014-06-30|Germany|Algeria,2014,2014-06-30,Germany,Algeria,Round of 16,data/raw/openfootball/2014/worldcup-full.json
+2014|054|2014-07-01|Argentina|Switzerland,2014,2014-07-01,Argentina,Switzerland,Round of 16,data/raw/openfootball/2014/worldcup-full.json
+2014|055|2014-07-01|Belgium|USA,2014,2014-07-01,Belgium,USA,Round of 16,data/raw/openfootball/2014/worldcup-full.json
+2014|056|2014-07-04|France|Germany,2014,2014-07-04,France,Germany,Quarter-final,data/raw/openfootball/2014/worldcup-full.json
+2014|057|2014-07-04|Brazil|Colombia,2014,2014-07-04,Brazil,Colombia,Quarter-final,data/raw/openfootball/2014/worldcup-full.json
+2014|058|2014-07-05|Argentina|Belgium,2014,2014-07-05,Argentina,Belgium,Quarter-final,data/raw/openfootball/2014/worldcup-full.json
+2014|059|2014-07-05|Netherlands|Costa Rica,2014,2014-07-05,Netherlands,Costa Rica,Quarter-final,data/raw/openfootball/2014/worldcup-full.json
+2014|060|2014-07-08|Brazil|Germany,2014,2014-07-08,Brazil,Germany,Semi-final,data/raw/openfootball/2014/worldcup-full.json
+2014|061|2014-07-09|Netherlands|Argentina,2014,2014-07-09,Netherlands,Argentina,Semi-final,data/raw/openfootball/2014/worldcup-full.json
+2014|062|2014-07-12|Brazil|Netherlands,2014,2014-07-12,Brazil,Netherlands,Play-off for third place,data/raw/openfootball/2014/worldcup-full.json
+2014|063|2014-07-13|Germany|Argentina,2014,2014-07-13,Germany,Argentina,Final,data/raw/openfootball/2014/worldcup-full.json
+2018|000|2018-06-14|Russia|Saudi Arabia,2018,2018-06-14,Russia,Saudi Arabia,"First stage, Group A",data/raw/openfootball/2018/worldcup-full.json
+2018|001|2018-06-15|Egypt|Uruguay,2018,2018-06-15,Egypt,Uruguay,"First stage, Group A",data/raw/openfootball/2018/worldcup-full.json
+2018|002|2018-06-19|Russia|Egypt,2018,2018-06-19,Russia,Egypt,"First stage, Group A",data/raw/openfootball/2018/worldcup-full.json
+2018|003|2018-06-20|Uruguay|Saudi Arabia,2018,2018-06-20,Uruguay,Saudi Arabia,"First stage, Group A",data/raw/openfootball/2018/worldcup-full.json
+2018|004|2018-06-25|Saudi Arabia|Egypt,2018,2018-06-25,Saudi Arabia,Egypt,"First stage, Group A",data/raw/openfootball/2018/worldcup-full.json
+2018|005|2018-06-25|Uruguay|Russia,2018,2018-06-25,Uruguay,Russia,"First stage, Group A",data/raw/openfootball/2018/worldcup-full.json
+2018|006|2018-06-15|Morocco|Iran,2018,2018-06-15,Morocco,Iran,"First stage, Group B",data/raw/openfootball/2018/worldcup-full.json
+2018|007|2018-06-15|Portugal|Spain,2018,2018-06-15,Portugal,Spain,"First stage, Group B",data/raw/openfootball/2018/worldcup-full.json
+2018|008|2018-06-20|Portugal|Morocco,2018,2018-06-20,Portugal,Morocco,"First stage, Group B",data/raw/openfootball/2018/worldcup-full.json
+2018|009|2018-06-20|Iran|Spain,2018,2018-06-20,Iran,Spain,"First stage, Group B",data/raw/openfootball/2018/worldcup-full.json
+2018|010|2018-06-25|Iran|Portugal,2018,2018-06-25,Iran,Portugal,"First stage, Group B",data/raw/openfootball/2018/worldcup-full.json
+2018|011|2018-06-25|Spain|Morocco,2018,2018-06-25,Spain,Morocco,"First stage, Group B",data/raw/openfootball/2018/worldcup-full.json
+2018|012|2018-06-16|France|Australia,2018,2018-06-16,France,Australia,"First stage, Group C",data/raw/openfootball/2018/worldcup-full.json
+2018|013|2018-06-16|Peru|Denmark,2018,2018-06-16,Peru,Denmark,"First stage, Group C",data/raw/openfootball/2018/worldcup-full.json
+2018|014|2018-06-21|Denmark|Australia,2018,2018-06-21,Denmark,Australia,"First stage, Group C",data/raw/openfootball/2018/worldcup-full.json
+2018|015|2018-06-21|France|Peru,2018,2018-06-21,France,Peru,"First stage, Group C",data/raw/openfootball/2018/worldcup-full.json
+2018|016|2018-06-26|Denmark|France,2018,2018-06-26,Denmark,France,"First stage, Group C",data/raw/openfootball/2018/worldcup-full.json
+2018|017|2018-06-26|Australia|Peru,2018,2018-06-26,Australia,Peru,"First stage, Group C",data/raw/openfootball/2018/worldcup-full.json
+2018|018|2018-06-16|Argentina|Iceland,2018,2018-06-16,Argentina,Iceland,"First stage, Group D",data/raw/openfootball/2018/worldcup-full.json
+2018|019|2018-06-16|Croatia|Nigeria,2018,2018-06-16,Croatia,Nigeria,"First stage, Group D",data/raw/openfootball/2018/worldcup-full.json
+2018|020|2018-06-21|Argentina|Croatia,2018,2018-06-21,Argentina,Croatia,"First stage, Group D",data/raw/openfootball/2018/worldcup-full.json
+2018|021|2018-06-22|Nigeria|Iceland,2018,2018-06-22,Nigeria,Iceland,"First stage, Group D",data/raw/openfootball/2018/worldcup-full.json
+2018|022|2018-06-26|Nigeria|Argentina,2018,2018-06-26,Nigeria,Argentina,"First stage, Group D",data/raw/openfootball/2018/worldcup-full.json
+2018|023|2018-06-26|Iceland|Croatia,2018,2018-06-26,Iceland,Croatia,"First stage, Group D",data/raw/openfootball/2018/worldcup-full.json
+2018|024|2018-06-17|Costa Rica|Serbia,2018,2018-06-17,Costa Rica,Serbia,"First stage, Group E",data/raw/openfootball/2018/worldcup-full.json
+2018|025|2018-06-17|Brazil|Switzerland,2018,2018-06-17,Brazil,Switzerland,"First stage, Group E",data/raw/openfootball/2018/worldcup-full.json
+2018|026|2018-06-22|Brazil|Costa Rica,2018,2018-06-22,Brazil,Costa Rica,"First stage, Group E",data/raw/openfootball/2018/worldcup-full.json
+2018|027|2018-06-22|Serbia|Switzerland,2018,2018-06-22,Serbia,Switzerland,"First stage, Group E",data/raw/openfootball/2018/worldcup-full.json
+2018|028|2018-06-27|Switzerland|Costa Rica,2018,2018-06-27,Switzerland,Costa Rica,"First stage, Group E",data/raw/openfootball/2018/worldcup-full.json
+2018|029|2018-06-27|Serbia|Brazil,2018,2018-06-27,Serbia,Brazil,"First stage, Group E",data/raw/openfootball/2018/worldcup-full.json
+2018|030|2018-06-17|Germany|Mexico,2018,2018-06-17,Germany,Mexico,"First stage, Group F",data/raw/openfootball/2018/worldcup-full.json
+2018|031|2018-06-18|Sweden|South Korea,2018,2018-06-18,Sweden,South Korea,"First stage, Group F",data/raw/openfootball/2018/worldcup-full.json
+2018|032|2018-06-23|South Korea|Mexico,2018,2018-06-23,South Korea,Mexico,"First stage, Group F",data/raw/openfootball/2018/worldcup-full.json
+2018|033|2018-06-23|Germany|Sweden,2018,2018-06-23,Germany,Sweden,"First stage, Group F",data/raw/openfootball/2018/worldcup-full.json
+2018|034|2018-06-27|Mexico|Sweden,2018,2018-06-27,Mexico,Sweden,"First stage, Group F",data/raw/openfootball/2018/worldcup-full.json
+2018|035|2018-06-27|South Korea|Germany,2018,2018-06-27,South Korea,Germany,"First stage, Group F",data/raw/openfootball/2018/worldcup-full.json
+2018|036|2018-06-18|Belgium|Panama,2018,2018-06-18,Belgium,Panama,"First stage, Group G",data/raw/openfootball/2018/worldcup-full.json
+2018|037|2018-06-18|Tunisia|England,2018,2018-06-18,Tunisia,England,"First stage, Group G",data/raw/openfootball/2018/worldcup-full.json
+2018|038|2018-06-23|Belgium|Tunisia,2018,2018-06-23,Belgium,Tunisia,"First stage, Group G",data/raw/openfootball/2018/worldcup-full.json
+2018|039|2018-06-24|England|Panama,2018,2018-06-24,England,Panama,"First stage, Group G",data/raw/openfootball/2018/worldcup-full.json
+2018|040|2018-06-28|England|Belgium,2018,2018-06-28,England,Belgium,"First stage, Group G",data/raw/openfootball/2018/worldcup-full.json
+2018|041|2018-06-28|Panama|Tunisia,2018,2018-06-28,Panama,Tunisia,"First stage, Group G",data/raw/openfootball/2018/worldcup-full.json
+2018|042|2018-06-19|Colombia|Japan,2018,2018-06-19,Colombia,Japan,"First stage, Group H",data/raw/openfootball/2018/worldcup-full.json
+2018|043|2018-06-19|Poland|Senegal,2018,2018-06-19,Poland,Senegal,"First stage, Group H",data/raw/openfootball/2018/worldcup-full.json
+2018|044|2018-06-24|Japan|Senegal,2018,2018-06-24,Japan,Senegal,"First stage, Group H",data/raw/openfootball/2018/worldcup-full.json
+2018|045|2018-06-24|Poland|Colombia,2018,2018-06-24,Poland,Colombia,"First stage, Group H",data/raw/openfootball/2018/worldcup-full.json
+2018|046|2018-06-28|Japan|Poland,2018,2018-06-28,Japan,Poland,"First stage, Group H",data/raw/openfootball/2018/worldcup-full.json
+2018|047|2018-06-28|Senegal|Colombia,2018,2018-06-28,Senegal,Colombia,"First stage, Group H",data/raw/openfootball/2018/worldcup-full.json
+2018|048|2018-06-30|France|Argentina,2018,2018-06-30,France,Argentina,Round of 16,data/raw/openfootball/2018/worldcup-full.json
+2018|049|2018-06-30|Uruguay|Portugal,2018,2018-06-30,Uruguay,Portugal,Round of 16,data/raw/openfootball/2018/worldcup-full.json
+2018|050|2018-07-01|Spain|Russia,2018,2018-07-01,Spain,Russia,Round of 16,data/raw/openfootball/2018/worldcup-full.json
+2018|051|2018-07-01|Croatia|Denmark,2018,2018-07-01,Croatia,Denmark,Round of 16,data/raw/openfootball/2018/worldcup-full.json
+2018|052|2018-07-02|Brazil|Mexico,2018,2018-07-02,Brazil,Mexico,Round of 16,data/raw/openfootball/2018/worldcup-full.json
+2018|053|2018-07-02|Belgium|Japan,2018,2018-07-02,Belgium,Japan,Round of 16,data/raw/openfootball/2018/worldcup-full.json
+2018|054|2018-07-03|Sweden|Switzerland,2018,2018-07-03,Sweden,Switzerland,Round of 16,data/raw/openfootball/2018/worldcup-full.json
+2018|055|2018-07-03|Colombia|England,2018,2018-07-03,Colombia,England,Round of 16,data/raw/openfootball/2018/worldcup-full.json
+2018|056|2018-07-06|Uruguay|France,2018,2018-07-06,Uruguay,France,Quarter-final,data/raw/openfootball/2018/worldcup-full.json
+2018|057|2018-07-06|Brazil|Belgium,2018,2018-07-06,Brazil,Belgium,Quarter-final,data/raw/openfootball/2018/worldcup-full.json
+2018|058|2018-07-07|Sweden|England,2018,2018-07-07,Sweden,England,Quarter-final,data/raw/openfootball/2018/worldcup-full.json
+2018|059|2018-07-07|Russia|Croatia,2018,2018-07-07,Russia,Croatia,Quarter-final,data/raw/openfootball/2018/worldcup-full.json
+2018|060|2018-07-10|France|Belgium,2018,2018-07-10,France,Belgium,Semi-final,data/raw/openfootball/2018/worldcup-full.json
+2018|061|2018-07-11|Croatia|England,2018,2018-07-11,Croatia,England,Semi-final,data/raw/openfootball/2018/worldcup-full.json
+2018|062|2018-07-14|Belgium|England,2018,2018-07-14,Belgium,England,Play-off for third place,data/raw/openfootball/2018/worldcup-full.json
+2018|063|2018-07-15|France|Croatia,2018,2018-07-15,France,Croatia,Final,data/raw/openfootball/2018/worldcup-full.json
+2022|000|2022-11-20|Qatar|Ecuador,2022,2022-11-20,Qatar,Ecuador,"First stage, Group A",data/raw/openfootball/2022/worldcup-full.json
+2022|001|2022-11-21|Senegal|Netherlands,2022,2022-11-21,Senegal,Netherlands,"First stage, Group A",data/raw/openfootball/2022/worldcup-full.json
+2022|002|2022-11-25|Qatar|Senegal,2022,2022-11-25,Qatar,Senegal,"First stage, Group A",data/raw/openfootball/2022/worldcup-full.json
+2022|003|2022-11-25|Netherlands|Ecuador,2022,2022-11-25,Netherlands,Ecuador,"First stage, Group A",data/raw/openfootball/2022/worldcup-full.json
+2022|004|2022-11-29|Netherlands|Qatar,2022,2022-11-29,Netherlands,Qatar,"First stage, Group A",data/raw/openfootball/2022/worldcup-full.json
+2022|005|2022-11-29|Ecuador|Senegal,2022,2022-11-29,Ecuador,Senegal,"First stage, Group A",data/raw/openfootball/2022/worldcup-full.json
+2022|006|2022-11-21|England|Iran,2022,2022-11-21,England,Iran,"First stage, Group B",data/raw/openfootball/2022/worldcup-full.json
+2022|007|2022-11-21|USA|Wales,2022,2022-11-21,USA,Wales,"First stage, Group B",data/raw/openfootball/2022/worldcup-full.json
+2022|008|2022-11-25|Wales|Iran,2022,2022-11-25,Wales,Iran,"First stage, Group B",data/raw/openfootball/2022/worldcup-full.json
+2022|009|2022-11-25|England|USA,2022,2022-11-25,England,USA,"First stage, Group B",data/raw/openfootball/2022/worldcup-full.json
+2022|010|2022-11-29|Wales|England,2022,2022-11-29,Wales,England,"First stage, Group B",data/raw/openfootball/2022/worldcup-full.json
+2022|011|2022-11-29|Iran|USA,2022,2022-11-29,Iran,USA,"First stage, Group B",data/raw/openfootball/2022/worldcup-full.json
+2022|012|2022-11-22|Argentina|Saudi Arabia,2022,2022-11-22,Argentina,Saudi Arabia,"First stage, Group C",data/raw/openfootball/2022/worldcup-full.json
+2022|013|2022-11-22|Mexico|Poland,2022,2022-11-22,Mexico,Poland,"First stage, Group C",data/raw/openfootball/2022/worldcup-full.json
+2022|014|2022-11-26|Poland|Saudi Arabia,2022,2022-11-26,Poland,Saudi Arabia,"First stage, Group C",data/raw/openfootball/2022/worldcup-full.json
+2022|015|2022-11-26|Argentina|Mexico,2022,2022-11-26,Argentina,Mexico,"First stage, Group C",data/raw/openfootball/2022/worldcup-full.json
+2022|016|2022-11-30|Poland|Argentina,2022,2022-11-30,Poland,Argentina,"First stage, Group C",data/raw/openfootball/2022/worldcup-full.json
+2022|017|2022-11-30|Saudi Arabia|Mexico,2022,2022-11-30,Saudi Arabia,Mexico,"First stage, Group C",data/raw/openfootball/2022/worldcup-full.json
+2022|018|2022-11-22|Denmark|Tunisia,2022,2022-11-22,Denmark,Tunisia,"First stage, Group D",data/raw/openfootball/2022/worldcup-full.json
+2022|019|2022-11-22|France|Australia,2022,2022-11-22,France,Australia,"First stage, Group D",data/raw/openfootball/2022/worldcup-full.json
+2022|020|2022-11-26|Tunisia|Australia,2022,2022-11-26,Tunisia,Australia,"First stage, Group D",data/raw/openfootball/2022/worldcup-full.json
+2022|021|2022-11-26|France|Denmark,2022,2022-11-26,France,Denmark,"First stage, Group D",data/raw/openfootball/2022/worldcup-full.json
+2022|022|2022-11-30|Australia|Denmark,2022,2022-11-30,Australia,Denmark,"First stage, Group D",data/raw/openfootball/2022/worldcup-full.json
+2022|023|2022-11-30|Tunisia|France,2022,2022-11-30,Tunisia,France,"First stage, Group D",data/raw/openfootball/2022/worldcup-full.json
+2022|024|2022-11-23|Germany|Japan,2022,2022-11-23,Germany,Japan,"First stage, Group E",data/raw/openfootball/2022/worldcup-full.json
+2022|025|2022-11-23|Spain|Costa Rica,2022,2022-11-23,Spain,Costa Rica,"First stage, Group E",data/raw/openfootball/2022/worldcup-full.json
+2022|026|2022-11-27|Japan|Costa Rica,2022,2022-11-27,Japan,Costa Rica,"First stage, Group E",data/raw/openfootball/2022/worldcup-full.json
+2022|027|2022-11-27|Spain|Germany,2022,2022-11-27,Spain,Germany,"First stage, Group E",data/raw/openfootball/2022/worldcup-full.json
+2022|028|2022-12-01|Japan|Spain,2022,2022-12-01,Japan,Spain,"First stage, Group E",data/raw/openfootball/2022/worldcup-full.json
+2022|029|2022-12-01|Costa Rica|Germany,2022,2022-12-01,Costa Rica,Germany,"First stage, Group E",data/raw/openfootball/2022/worldcup-full.json
+2022|030|2022-11-23|Morocco|Croatia,2022,2022-11-23,Morocco,Croatia,"First stage, Group F",data/raw/openfootball/2022/worldcup-full.json
+2022|031|2022-11-23|Belgium|Canada,2022,2022-11-23,Belgium,Canada,"First stage, Group F",data/raw/openfootball/2022/worldcup-full.json
+2022|032|2022-11-27|Belgium|Morocco,2022,2022-11-27,Belgium,Morocco,"First stage, Group F",data/raw/openfootball/2022/worldcup-full.json
+2022|033|2022-11-27|Croatia|Canada,2022,2022-11-27,Croatia,Canada,"First stage, Group F",data/raw/openfootball/2022/worldcup-full.json
+2022|034|2022-12-01|Croatia|Belgium,2022,2022-12-01,Croatia,Belgium,"First stage, Group F",data/raw/openfootball/2022/worldcup-full.json
+2022|035|2022-12-01|Canada|Morocco,2022,2022-12-01,Canada,Morocco,"First stage, Group F",data/raw/openfootball/2022/worldcup-full.json
+2022|036|2022-11-24|Switzerland|Cameroon,2022,2022-11-24,Switzerland,Cameroon,"First stage, Group G",data/raw/openfootball/2022/worldcup-full.json
+2022|037|2022-11-24|Brazil|Serbia,2022,2022-11-24,Brazil,Serbia,"First stage, Group G",data/raw/openfootball/2022/worldcup-full.json
+2022|038|2022-11-28|Cameroon|Serbia,2022,2022-11-28,Cameroon,Serbia,"First stage, Group G",data/raw/openfootball/2022/worldcup-full.json
+2022|039|2022-11-28|Brazil|Switzerland,2022,2022-11-28,Brazil,Switzerland,"First stage, Group G",data/raw/openfootball/2022/worldcup-full.json
+2022|040|2022-12-02|Serbia|Switzerland,2022,2022-12-02,Serbia,Switzerland,"First stage, Group G",data/raw/openfootball/2022/worldcup-full.json
+2022|041|2022-12-02|Cameroon|Brazil,2022,2022-12-02,Cameroon,Brazil,"First stage, Group G",data/raw/openfootball/2022/worldcup-full.json
+2022|042|2022-11-24|Uruguay|South Korea,2022,2022-11-24,Uruguay,South Korea,"First stage, Group H",data/raw/openfootball/2022/worldcup-full.json
+2022|043|2022-11-24|Portugal|Ghana,2022,2022-11-24,Portugal,Ghana,"First stage, Group H",data/raw/openfootball/2022/worldcup-full.json
+2022|044|2022-11-28|South Korea|Ghana,2022,2022-11-28,South Korea,Ghana,"First stage, Group H",data/raw/openfootball/2022/worldcup-full.json
+2022|045|2022-11-28|Portugal|Uruguay,2022,2022-11-28,Portugal,Uruguay,"First stage, Group H",data/raw/openfootball/2022/worldcup-full.json
+2022|046|2022-12-02|Ghana|Uruguay,2022,2022-12-02,Ghana,Uruguay,"First stage, Group H",data/raw/openfootball/2022/worldcup-full.json
+2022|047|2022-12-02|South Korea|Portugal,2022,2022-12-02,South Korea,Portugal,"First stage, Group H",data/raw/openfootball/2022/worldcup-full.json
+2022|048|2022-12-03|Netherlands|USA,2022,2022-12-03,Netherlands,USA,Round of 16,data/raw/openfootball/2022/worldcup-full.json
+2022|049|2022-12-03|Argentina|Australia,2022,2022-12-03,Argentina,Australia,Round of 16,data/raw/openfootball/2022/worldcup-full.json
+2022|050|2022-12-04|France|Poland,2022,2022-12-04,France,Poland,Round of 16,data/raw/openfootball/2022/worldcup-full.json
+2022|051|2022-12-04|England|Senegal,2022,2022-12-04,England,Senegal,Round of 16,data/raw/openfootball/2022/worldcup-full.json
+2022|052|2022-12-05|Japan|Croatia,2022,2022-12-05,Japan,Croatia,Round of 16,data/raw/openfootball/2022/worldcup-full.json
+2022|053|2022-12-05|Brazil|South Korea,2022,2022-12-05,Brazil,South Korea,Round of 16,data/raw/openfootball/2022/worldcup-full.json
+2022|054|2022-12-06|Morocco|Spain,2022,2022-12-06,Morocco,Spain,Round of 16,data/raw/openfootball/2022/worldcup-full.json
+2022|055|2022-12-06|Portugal|Switzerland,2022,2022-12-06,Portugal,Switzerland,Round of 16,data/raw/openfootball/2022/worldcup-full.json
+2022|056|2022-12-09|Croatia|Brazil,2022,2022-12-09,Croatia,Brazil,Quarter-final,data/raw/openfootball/2022/worldcup-full.json
+2022|057|2022-12-09|Netherlands|Argentina,2022,2022-12-09,Netherlands,Argentina,Quarter-final,data/raw/openfootball/2022/worldcup-full.json
+2022|058|2022-12-10|Morocco|Portugal,2022,2022-12-10,Morocco,Portugal,Quarter-final,data/raw/openfootball/2022/worldcup-full.json
+2022|059|2022-12-10|England|France,2022,2022-12-10,England,France,Quarter-final,data/raw/openfootball/2022/worldcup-full.json
+2022|060|2022-12-13|Argentina|Croatia,2022,2022-12-13,Argentina,Croatia,Semi-final,data/raw/openfootball/2022/worldcup-full.json
+2022|061|2022-12-14|France|Morocco,2022,2022-12-14,France,Morocco,Semi-final,data/raw/openfootball/2022/worldcup-full.json
+2022|062|2022-12-17|Croatia|Morocco,2022,2022-12-17,Croatia,Morocco,Play-off for third place,data/raw/openfootball/2022/worldcup-full.json
+2022|063|2022-12-18|Argentina|France,2022,2022-12-18,Argentina,France,Final,data/raw/openfootball/2022/worldcup-full.json
+2026|000|2026-06-11|Mexico|South Africa,2026,2026-06-11,Mexico,South Africa,"First Stage, Group A",data/raw/openfootball/2026/worldcup-full.json
+2026|001|2026-06-11|South Korea|Czech Republic,2026,2026-06-11,South Korea,Czech Republic,"First Stage, Group A",data/raw/openfootball/2026/worldcup-full.json
+2026|002|2026-06-18|Czech Republic|South Africa,2026,2026-06-18,Czech Republic,South Africa,"First Stage, Group A",data/raw/openfootball/2026/worldcup-full.json
+2026|003|2026-06-18|Mexico|South Korea,2026,2026-06-18,Mexico,South Korea,"First Stage, Group A",data/raw/openfootball/2026/worldcup-full.json
+2026|004|2026-06-24|South Africa|South Korea,2026,2026-06-24,South Africa,South Korea,"First Stage, Group A",data/raw/openfootball/2026/worldcup-full.json
+2026|005|2026-06-24|Czech Republic|Mexico,2026,2026-06-24,Czech Republic,Mexico,"First Stage, Group A",data/raw/openfootball/2026/worldcup-full.json
+2026|006|2026-06-12|Canada|Bosnia and Herzegovina,2026,2026-06-12,Canada,Bosnia and Herzegovina,"First Stage, Group B",data/raw/openfootball/2026/worldcup-full.json
+2026|007|2026-06-13|Qatar|Switzerland,2026,2026-06-13,Qatar,Switzerland,"First Stage, Group B",data/raw/openfootball/2026/worldcup-full.json
+2026|008|2026-06-18|Switzerland|Bosnia and Herzegovina,2026,2026-06-18,Switzerland,Bosnia and Herzegovina,"First Stage, Group B",data/raw/openfootball/2026/worldcup-full.json
+2026|009|2026-06-18|Canada|Qatar,2026,2026-06-18,Canada,Qatar,"First Stage, Group B",data/raw/openfootball/2026/worldcup-full.json
+2026|010|2026-06-24|Bosnia and Herzegovina|Qatar,2026,2026-06-24,Bosnia and Herzegovina,Qatar,"First Stage, Group B",data/raw/openfootball/2026/worldcup-full.json
+2026|011|2026-06-24|Switzerland|Canada,2026,2026-06-24,Switzerland,Canada,"First Stage, Group B",data/raw/openfootball/2026/worldcup-full.json
+2026|012|2026-06-13|Brazil|Morocco,2026,2026-06-13,Brazil,Morocco,"First Stage, Group C",data/raw/openfootball/2026/worldcup-full.json
+2026|013|2026-06-13|Haiti|Scotland,2026,2026-06-13,Haiti,Scotland,"First Stage, Group C",data/raw/openfootball/2026/worldcup-full.json
+2026|014|2026-06-19|Scotland|Morocco,2026,2026-06-19,Scotland,Morocco,"First Stage, Group C",data/raw/openfootball/2026/worldcup-full.json
+2026|015|2026-06-19|Brazil|Haiti,2026,2026-06-19,Brazil,Haiti,"First Stage, Group C",data/raw/openfootball/2026/worldcup-full.json
+2026|016|2026-06-24|Morocco|Haiti,2026,2026-06-24,Morocco,Haiti,"First Stage, Group C",data/raw/openfootball/2026/worldcup-full.json
+2026|017|2026-06-24|Scotland|Brazil,2026,2026-06-24,Scotland,Brazil,"First Stage, Group C",data/raw/openfootball/2026/worldcup-full.json
+2026|018|2026-06-12|USA|Paraguay,2026,2026-06-12,USA,Paraguay,"First Stage, Group D",data/raw/openfootball/2026/worldcup-full.json
+2026|019|2026-06-13|Australia|Turkey,2026,2026-06-13,Australia,Turkey,"First Stage, Group D",data/raw/openfootball/2026/worldcup-full.json
+2026|020|2026-06-19|USA|Australia,2026,2026-06-19,USA,Australia,"First Stage, Group D",data/raw/openfootball/2026/worldcup-full.json
+2026|021|2026-06-19|Turkey|Paraguay,2026,2026-06-19,Turkey,Paraguay,"First Stage, Group D",data/raw/openfootball/2026/worldcup-full.json
+2026|022|2026-06-25|Paraguay|Australia,2026,2026-06-25,Paraguay,Australia,"First Stage, Group D",data/raw/openfootball/2026/worldcup-full.json
+2026|023|2026-06-25|Turkey|USA,2026,2026-06-25,Turkey,USA,"First Stage, Group D",data/raw/openfootball/2026/worldcup-full.json
+2026|024|2026-06-14|Germany|Curaçao,2026,2026-06-14,Germany,Curaçao,"First Stage, Group E",data/raw/openfootball/2026/worldcup-full.json
+2026|025|2026-06-14|Côte d'Ivoire|Ecuador,2026,2026-06-14,Côte d'Ivoire,Ecuador,"First Stage, Group E",data/raw/openfootball/2026/worldcup-full.json
+2026|026|2026-06-20|Germany|Côte d'Ivoire,2026,2026-06-20,Germany,Côte d'Ivoire,"First Stage, Group E",data/raw/openfootball/2026/worldcup-full.json
+2026|027|2026-06-20|Ecuador|Curaçao,2026,2026-06-20,Ecuador,Curaçao,"First Stage, Group E",data/raw/openfootball/2026/worldcup-full.json
+2026|028|2026-06-25|Curaçao|Côte d'Ivoire,2026,2026-06-25,Curaçao,Côte d'Ivoire,"First Stage, Group E",data/raw/openfootball/2026/worldcup-full.json
+2026|029|2026-06-25|Ecuador|Germany,2026,2026-06-25,Ecuador,Germany,"First Stage, Group E",data/raw/openfootball/2026/worldcup-full.json
+2026|030|2026-06-14|Netherlands|Japan,2026,2026-06-14,Netherlands,Japan,"First Stage, Group F",data/raw/openfootball/2026/worldcup-full.json
+2026|031|2026-06-14|Sweden|Tunisia,2026,2026-06-14,Sweden,Tunisia,"First Stage, Group F",data/raw/openfootball/2026/worldcup-full.json
+2026|032|2026-06-20|Netherlands|Sweden,2026,2026-06-20,Netherlands,Sweden,"First Stage, Group F",data/raw/openfootball/2026/worldcup-full.json
+2026|033|2026-06-20|Tunisia|Japan,2026,2026-06-20,Tunisia,Japan,"First Stage, Group F",data/raw/openfootball/2026/worldcup-full.json
+2026|034|2026-06-25|Tunisia|Netherlands,2026,2026-06-25,Tunisia,Netherlands,"First Stage, Group F",data/raw/openfootball/2026/worldcup-full.json
+2026|035|2026-06-25|Japan|Sweden,2026,2026-06-25,Japan,Sweden,"First Stage, Group F",data/raw/openfootball/2026/worldcup-full.json
+2026|036|2026-06-15|Belgium|Egypt,2026,2026-06-15,Belgium,Egypt,"First Stage, Group G",data/raw/openfootball/2026/worldcup-full.json
+2026|037|2026-06-15|Iran|New Zealand,2026,2026-06-15,Iran,New Zealand,"First Stage, Group G",data/raw/openfootball/2026/worldcup-full.json
+2026|038|2026-06-21|Belgium|Iran,2026,2026-06-21,Belgium,Iran,"First Stage, Group G",data/raw/openfootball/2026/worldcup-full.json
+2026|039|2026-06-21|New Zealand|Egypt,2026,2026-06-21,New Zealand,Egypt,"First Stage, Group G",data/raw/openfootball/2026/worldcup-full.json
+2026|040|2026-06-26|New Zealand|Belgium,2026,2026-06-26,New Zealand,Belgium,"First Stage, Group G",data/raw/openfootball/2026/worldcup-full.json
+2026|041|2026-06-26|Egypt|Iran,2026,2026-06-26,Egypt,Iran,"First Stage, Group G",data/raw/openfootball/2026/worldcup-full.json
+2026|042|2026-06-15|Spain|Cabo Verde,2026,2026-06-15,Spain,Cabo Verde,"First Stage, Group H",data/raw/openfootball/2026/worldcup-full.json
+2026|043|2026-06-15|Saudi Arabia|Uruguay,2026,2026-06-15,Saudi Arabia,Uruguay,"First Stage, Group H",data/raw/openfootball/2026/worldcup-full.json
+2026|044|2026-06-21|Spain|Saudi Arabia,2026,2026-06-21,Spain,Saudi Arabia,"First Stage, Group H",data/raw/openfootball/2026/worldcup-full.json
+2026|045|2026-06-21|Uruguay|Cabo Verde,2026,2026-06-21,Uruguay,Cabo Verde,"First Stage, Group H",data/raw/openfootball/2026/worldcup-full.json
+2026|046|2026-06-26|Uruguay|Spain,2026,2026-06-26,Uruguay,Spain,"First Stage, Group H",data/raw/openfootball/2026/worldcup-full.json
+2026|047|2026-06-26|Cabo Verde|Saudi Arabia,2026,2026-06-26,Cabo Verde,Saudi Arabia,"First Stage, Group H",data/raw/openfootball/2026/worldcup-full.json
+2026|048|2026-06-16|France|Senegal,2026,2026-06-16,France,Senegal,"First Stage, Group I",data/raw/openfootball/2026/worldcup-full.json
+2026|049|2026-06-16|Iraq|Norway,2026,2026-06-16,Iraq,Norway,"First Stage, Group I",data/raw/openfootball/2026/worldcup-full.json
+2026|050|2026-06-22|France|Iraq,2026,2026-06-22,France,Iraq,"First Stage, Group I",data/raw/openfootball/2026/worldcup-full.json
+2026|051|2026-06-22|Norway|Senegal,2026,2026-06-22,Norway,Senegal,"First Stage, Group I",data/raw/openfootball/2026/worldcup-full.json
+2026|052|2026-06-26|Senegal|Iraq,2026,2026-06-26,Senegal,Iraq,"First Stage, Group I",data/raw/openfootball/2026/worldcup-full.json
+2026|053|2026-06-26|Norway|France,2026,2026-06-26,Norway,France,"First Stage, Group I",data/raw/openfootball/2026/worldcup-full.json
+2026|054|2026-06-16|Argentina|Algeria,2026,2026-06-16,Argentina,Algeria,"First Stage, Group J",data/raw/openfootball/2026/worldcup-full.json
+2026|055|2026-06-16|Austria|Jordan,2026,2026-06-16,Austria,Jordan,"First Stage, Group J",data/raw/openfootball/2026/worldcup-full.json
+2026|056|2026-06-22|Argentina|Austria,2026,2026-06-22,Argentina,Austria,"First Stage, Group J",data/raw/openfootball/2026/worldcup-full.json
+2026|057|2026-06-22|Jordan|Algeria,2026,2026-06-22,Jordan,Algeria,"First Stage, Group J",data/raw/openfootball/2026/worldcup-full.json
+2026|058|2026-06-27|Algeria|Austria,2026,2026-06-27,Algeria,Austria,"First Stage, Group J",data/raw/openfootball/2026/worldcup-full.json
+2026|059|2026-06-27|Jordan|Argentina,2026,2026-06-27,Jordan,Argentina,"First Stage, Group J",data/raw/openfootball/2026/worldcup-full.json
+2026|060|2026-06-17|Portugal|Congo DR,2026,2026-06-17,Portugal,Congo DR,"First Stage, Group K",data/raw/openfootball/2026/worldcup-full.json
+2026|061|2026-06-17|Uzbekistan|Colombia,2026,2026-06-17,Uzbekistan,Colombia,"First Stage, Group K",data/raw/openfootball/2026/worldcup-full.json
+2026|062|2026-06-23|Portugal|Uzbekistan,2026,2026-06-23,Portugal,Uzbekistan,"First Stage, Group K",data/raw/openfootball/2026/worldcup-full.json
+2026|063|2026-06-23|Colombia|Congo DR,2026,2026-06-23,Colombia,Congo DR,"First Stage, Group K",data/raw/openfootball/2026/worldcup-full.json
+2026|064|2026-06-27|Congo DR|Uzbekistan,2026,2026-06-27,Congo DR,Uzbekistan,"First Stage, Group K",data/raw/openfootball/2026/worldcup-full.json
+2026|065|2026-06-27|Colombia|Portugal,2026,2026-06-27,Colombia,Portugal,"First Stage, Group K",data/raw/openfootball/2026/worldcup-full.json
+2026|066|2026-06-17|England|Croatia,2026,2026-06-17,England,Croatia,"First Stage, Group L",data/raw/openfootball/2026/worldcup-full.json
+2026|067|2026-06-17|Ghana|Panama,2026,2026-06-17,Ghana,Panama,"First Stage, Group L",data/raw/openfootball/2026/worldcup-full.json
+2026|068|2026-06-23|England|Ghana,2026,2026-06-23,England,Ghana,"First Stage, Group L",data/raw/openfootball/2026/worldcup-full.json
+2026|069|2026-06-23|Panama|Croatia,2026,2026-06-23,Panama,Croatia,"First Stage, Group L",data/raw/openfootball/2026/worldcup-full.json
+2026|070|2026-06-27|Panama|England,2026,2026-06-27,Panama,England,"First Stage, Group L",data/raw/openfootball/2026/worldcup-full.json
+2026|071|2026-06-27|Croatia|Ghana,2026,2026-06-27,Croatia,Ghana,"First Stage, Group L",data/raw/openfootball/2026/worldcup-full.json
+2026|072|2026-06-28|South Africa|Canada,2026,2026-06-28,South Africa,Canada,Round of 32,data/raw/openfootball/2026/worldcup-full.json
+2026|073|2026-06-29|Brazil|Japan,2026,2026-06-29,Brazil,Japan,Round of 32,data/raw/openfootball/2026/worldcup-full.json
+2026|074|2026-06-29|Germany|Paraguay,2026,2026-06-29,Germany,Paraguay,Round of 32,data/raw/openfootball/2026/worldcup-full.json
+2026|075|2026-06-29|Netherlands|Morocco,2026,2026-06-29,Netherlands,Morocco,Round of 32,data/raw/openfootball/2026/worldcup-full.json
+2026|076|2026-06-30|Côte d'Ivoire|Norway,2026,2026-06-30,Côte d'Ivoire,Norway,Round of 32,data/raw/openfootball/2026/worldcup-full.json
+2026|077|2026-06-30|France|Sweden,2026,2026-06-30,France,Sweden,Round of 32,data/raw/openfootball/2026/worldcup-full.json
+2026|078|2026-06-30|Mexico|Ecuador,2026,2026-06-30,Mexico,Ecuador,Round of 32,data/raw/openfootball/2026/worldcup-full.json
+2026|079|2026-07-01|England|Congo DR,2026,2026-07-01,England,Congo DR,Round of 32,data/raw/openfootball/2026/worldcup-full.json
+2026|080|2026-07-01|Belgium|Senegal,2026,2026-07-01,Belgium,Senegal,Round of 32,data/raw/openfootball/2026/worldcup-full.json
+2026|081|2026-07-01|USA|Bosnia and Herzegovina,2026,2026-07-01,USA,Bosnia and Herzegovina,Round of 32,data/raw/openfootball/2026/worldcup-full.json
+2026|082|2026-07-02|Spain|Austria,2026,2026-07-02,Spain,Austria,Round of 32,data/raw/openfootball/2026/worldcup-full.json
+2026|083|2026-07-02|Portugal|Croatia,2026,2026-07-02,Portugal,Croatia,Round of 32,data/raw/openfootball/2026/worldcup-full.json
+2026|084|2026-07-02|Switzerland|Algeria,2026,2026-07-02,Switzerland,Algeria,Round of 32,data/raw/openfootball/2026/worldcup-full.json
+2026|085|2026-07-03|Australia|Egypt,2026,2026-07-03,Australia,Egypt,Round of 32,data/raw/openfootball/2026/worldcup-full.json
+2026|086|2026-07-03|Argentina|Cabo Verde,2026,2026-07-03,Argentina,Cabo Verde,Round of 32,data/raw/openfootball/2026/worldcup-full.json
+2026|087|2026-07-03|Colombia|Ghana,2026,2026-07-03,Colombia,Ghana,Round of 32,data/raw/openfootball/2026/worldcup-full.json
+2026|088|2026-07-04|Canada|Morocco,2026,2026-07-04,Canada,Morocco,Round of 16,data/raw/openfootball/2026/worldcup-full.json
+2026|089|2026-07-04|Paraguay|France,2026,2026-07-04,Paraguay,France,Round of 16,data/raw/openfootball/2026/worldcup-full.json
+2026|090|2026-07-05|Brazil|Norway,2026,2026-07-05,Brazil,Norway,Round of 16,data/raw/openfootball/2026/worldcup-full.json
+2026|091|2026-07-05|Mexico|England,2026,2026-07-05,Mexico,England,Round of 16,data/raw/openfootball/2026/worldcup-full.json
+2026|092|2026-07-06|Portugal|Spain,2026,2026-07-06,Portugal,Spain,Round of 16,data/raw/openfootball/2026/worldcup-full.json
+2026|093|2026-07-06|USA|Belgium,2026,2026-07-06,USA,Belgium,Round of 16,data/raw/openfootball/2026/worldcup-full.json
+2026|094|2026-07-07|Argentina|Egypt,2026,2026-07-07,Argentina,Egypt,Round of 16,data/raw/openfootball/2026/worldcup-full.json
+2026|095|2026-07-07|Switzerland|Colombia,2026,2026-07-07,Switzerland,Colombia,Round of 16,data/raw/openfootball/2026/worldcup-full.json
+2026|096|2026-07-09|France|Morocco,2026,2026-07-09,France,Morocco,Quarter-final,data/raw/openfootball/2026/worldcup-full.json
+2026|097|2026-07-10|Spain|Belgium,2026,2026-07-10,Spain,Belgium,Quarter-final,data/raw/openfootball/2026/worldcup-full.json
+2026|098|2026-07-11|Norway|England,2026,2026-07-11,Norway,England,Quarter-final,data/raw/openfootball/2026/worldcup-full.json
+2026|099|2026-07-11|Argentina|Switzerland,2026,2026-07-11,Argentina,Switzerland,Quarter-final,data/raw/openfootball/2026/worldcup-full.json
+2026|100|2026-07-14|France|Spain,2026,2026-07-14,France,Spain,Semi-final,data/raw/openfootball/2026/worldcup-full.json
+2026|101|2026-07-15|England|Argentina,2026,2026-07-15,England,Argentina,Semi-final,data/raw/openfootball/2026/worldcup-full.json
+2026|102|2026-07-18|France|England,2026,2026-07-18,France,England,Bronze final,data/raw/openfootball/2026/worldcup-full.json
+2026|103|2026-07-19|Spain|Argentina,2026,2026-07-19,Spain,Argentina,Final,data/raw/openfootball/2026/worldcup-full.json

@@ -1,0 +1,29 @@
+{
+  "comparison": {
+    "baseline_label": "team_1_win",
+    "n_test": 104,
+    "model_accuracy": 0.5865384615384616,
+    "baseline_accuracy": 0.4423076923076923,
+    "model_only_correct": 23,
+    "baseline_only_correct": 8,
+    "discordant_pairs": 31,
+    "mcnemar_exact_p_two_sided": 0.010673840530216694,
+    "test": "two-sided exact McNemar"
+  },
+  "format_exploration": {
+    "goals": {
+      "difference_2026_minus_2022": 0.2596153846153846,
+      "permutation_p_two_sided": 0.40351929614077187
+    },
+    "elo_gap": {
+      "difference_2026_minus_2022": -24.202810463630314,
+      "permutation_p_two_sided": 0.10977804439112178
+    }
+  },
+  "notes": [
+    "All p-values exploratory: dataset coverage and football-format changes prevent causal interpretation.",
+    "McNemar uses 2026 model predictions vs fixed training-set-majority baseline on exactly the same fixtures.",
+    "Ablation uses 2022 holdout; do not choose model using 2026 test results.",
+    "Clustering descriptive, not discovered tactical truths."
+  ]
+}

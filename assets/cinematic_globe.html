@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<style>
+*{box-sizing:border-box}
+html,body{margin:0;padding:0;background:transparent;color:#e8f4ff;font-family:Inter,ui-sans-serif,system-ui,-apple-system,'Segoe UI',Arial,sans-serif;overflow:hidden}
+#frame{height:590px;position:relative;overflow:hidden;border-radius:20px;background:radial-gradient(circle at 48% 49%,rgba(9,70,126,.48),transparent 55%),linear-gradient(120deg,rgba(4,12,30,.85),rgba(7,25,59,.94));border:1px solid rgba(25,225,255,.25)}
+#viewport{position:absolute;inset:0}
+#viewport canvas{display:block;width:100%;height:100%;cursor:grab}
+#viewport canvas:active{cursor:grabbing}
+#hud{position:absolute;left:22px;top:18px;max-width:45%;pointer-events:none;z-index:2}
+#tag{color:#67e9ff;font-size:11px;font-weight:800;letter-spacing:.21em;text-transform:uppercase}
+#title{font-size:21px;font-weight:800;letter-spacing:.015em;margin-top:4px;text-shadow:0 0 22px #0d6eaa}
+#sub{color:#96b9dc;font-size:12px;margin-top:5px;line-height:1.45}
+#meta{position:absolute;bottom:19px;left:20px;z-index:3;pointer-events:none;font-size:11px;color:#9abddd;letter-spacing:.04em}
+#info{position:absolute;right:18px;bottom:16px;min-width:180px;max-width:280px;border:1px solid rgba(25,225,255,.34);background:rgba(6,19,43,.85);backdrop-filter:blur(12px);border-radius:12px;padding:13px 15px;z-index:3;pointer-events:none}
+#info .label{font-size:11px;color:#75dfff;letter-spacing:.12em;text-transform:uppercase}
+#info .country{font-size:17px;color:#fff;font-weight:700;padding-top:5px}
+#info .score{color:#ffd06b;font-size:23px;font-weight:800;padding-top:2px}
+#loading{position:absolute;left:0;right:0;top:46%;text-align:center;font-size:14px;color:#9bd8ee;z-index:4}
+#scan{position:absolute;top:0;bottom:0;left:0;right:0;background:repeating-linear-gradient(0deg,rgba(38,190,242,.017) 0px,rgba(38,190,242,.017) 1px,transparent 2px,transparent 5px);pointer-events:none}
+.corner{position:absolute;width:40px;height:40px;border:1px solid rgba(80,225,255,.32);pointer-events:none}.tl{top:9px;left:9px;border-right:0;border-bottom:0}.br{bottom:9px;right:9px;border-left:0;border-top:0}
+@media(max-width:650px){#frame{height:480px}#title{font-size:16px}#hud{left:14px;top:14px}#info{right:10px;bottom:10px;min-width:125px;max-width:158px;padding:10px}#info .country{font-size:13px}#info .score{font-size:19px}}
+</style>
+</head>
+<body>
+<div id="frame">
+ <div id="viewport"></div>
+ <div id="scan"></div><div class="corner tl"></div><div class="corner br"></div>
+ <div id="hud"><div id="tag">FIFA • World Analytics</div><div id="title">THE GLOBAL GAME</div><div id="sub">3D Earth • drag to rotate • scroll to zoom • click to inspect country</div></div>
+ <div id="info"><div class="label" id="metricTitle">Metric</div><div class="country" id="country">Select a country</div><div class="score" id="score">—</div></div>
+ <div id="meta">NEON EARTH / WORLD CUP DATA · THREE.JS</div>
+ <div id="loading">Initialising cinematic globe…</div>
+</div>
+<script id="data" type="application/json">__GLOBE_DATA__</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/0.149.0/three.min.js"></script>
+<script>
+(function(){
+ const data=JSON.parse(document.getElementById('data').textContent);
+ const frame=document.getElementById('frame');
+ const view=document.getElementById('viewport');
+ const infoCountry=document.getElementById('country'),infoScore=document.getElementById('score');
+ document.getElementById('metricTitle').textContent=data.metric;
+ const msg=document.getElementById('loading');
+ if(!window.THREE){msg.textContent='3D library unavailable. Select “Interactive data map” above to use the offline-safe Plotly globe.';return;}
+ try {
+  const scene=new THREE.Scene();
+  const camera=new THREE.PerspectiveCamera(43,1,.1,100);camera.position.set(0,0,8.65);
+  const renderer=new THREE.WebGLRenderer({alpha:true,antialias:true,powerPreference:'high-performance'});
+  renderer.setPixelRatio(Math.min(1.6,window.devicePixelRatio||1));
+  renderer.setClearColor(0x000000,0);
+  view.appendChild(renderer.domElement);
+  const globe=new THREE.Group();scene.add(globe);globe.rotation.x=.12;globe.rotation.y=.1;
+  const sphereGeo=new THREE.SphereGeometry(2.18,64,48);
+  const ocean=new THREE.Mesh(sphereGeo,new THREE.MeshPhongMaterial({color:0x082d60,shininess:30,specular:0x2cc8e6,transparent:false}));globe.add(ocean);
+  const atmosphere=new THREE.Mesh(new THREE.SphereGeometry(2.28,64,48),new THREE.MeshBasicMaterial({color:0x11c9ed,side:THREE.BackSide,transparent:true,opacity:.085,blending:THREE.AdditiveBlending}));globe.add(atmosphere);
+  globe.add(new THREE.Mesh(new THREE.SphereGeometry(2.205,36,20),new THREE.MeshBasicMaterial({color:0x25c6fb,wireframe:true,transparent:true,opacity:.038})));
+  scene.add(new THREE.AmbientLight(0x62b4fc,.65));
+  const light=new THREE.DirectionalLight(0xf6ffff,2.0);light.position.set(-2,3,6);scene.add(light);
+  const backlight=new THREE.DirectionalLight(0x00dcff,1.1);backlight.position.set(4,-2,-4);scene.add(backlight);
+  const R=2.195;
+  function project(lon,lat,r=R){const a=lon*Math.PI/180,b=lat*Math.PI/180;return new THREE.Vector3(r*Math.cos(b)*Math.sin(a),r*Math.sin(b),r*Math.cos(b)*Math.cos(a));}
+  function rings(g){if(g.type==='Polygon')return g.coordinates;if(g.type==='MultiPolygon')return g.coordinates.flat();return [];}
+  for(const feature of data.features){
+   for(const ring of rings(feature.geometry)){
+    if(ring.length<3)continue;
+    let part=[];
+    const flush=()=>{if(part.length<2)return;const geo=new THREE.BufferGeometry().setFromPoints(part);const ln=new THREE.Line(geo,new THREE.LineBasicMaterial({color:0x55d8fa,transparent:true,opacity:.53}));globe.add(ln);part=[];};
+    let prev=null;
+    for(const c of ring){if(prev && Math.abs(c[0]-prev[0])>80)flush();part.push(project(c[0],c[1]));prev=c;}
+    flush();
+   }
+  }
+  // soft glowing meridians + equatorial circles
+  for(let lat=-60;lat<=60;lat+=30){let pts=[];for(let lon=-180;lon<=180;lon+=4)pts.push(project(lon,lat,2.191));const ln=new THREE.Line(new THREE.BufferGeometry().setFromPoints(pts),new THREE.LineBasicMaterial({color:0x28b5d8,transparent:true,opacity:.08}));globe.add(ln)}
+  for(let lon=-150;lon<=150;lon+=30){let pts=[];for(let lat=-88;lat<=88;lat+=4)pts.push(project(lon,lat,2.19));const ln=new THREE.Line(new THREE.BufferGeometry().setFromPoints(pts),new THREE.LineBasicMaterial({color:0x28b5d8,transparent:true,opacity:.07}));globe.add(ln)}
+  // glowing field markers are derived from country geometry centroids estimated on the sphere.
+  const centroids=[];
+  function areaCentroid(feat){let coords=[];for(const ring of rings(feat.geometry)){if(ring.length>=3)coords.push(ring);}if(!coords.length)return null;let best=coords.sort((a,b)=>b.length-a.length)[0];let vec=new THREE.Vector3();for(const [lon,lat] of best)vec.add(project(lon,lat,1));vec.normalize();return vec.lengthSq()?vec:null;}
+  const ranked=Object.entries(data.values).sort((a,b)=>b[1].value-a[1].value).slice(0,19);
+  for(const [name,stat] of ranked){
+    const feat=data.features.find(f=>f.name===name);
+    if(!feat)continue;
+    const pos=areaCentroid(feat);if(!pos)continue;
+    const dot=new THREE.Mesh(new THREE.SphereGeometry(.031,9,8),new THREE.MeshBasicMaterial({color:0xffcd62}));dot.position.copy(pos.clone().multiplyScalar(2.225));globe.add(dot);
+    const halo=new THREE.Mesh(new THREE.SphereGeometry(.065,9,8),new THREE.MeshBasicMaterial({color:0x00e8ff,transparent:true,opacity:.17}));halo.position.copy(pos.clone().multiplyScalar(2.21));globe.add(halo);
+    centroids.push({name,pos});
+  }
+  // Star field and HUD-style orbital guide outside globe
+  let stars=[];for(let i=0;i<440;i++){const r=9+Math.random()*24,phi=Math.random()*Math.PI*2,z=(Math.random()-.5)*2;stars.push(r*Math.cos(phi),r*Math.sin(phi),z);}
+  const starGeo=new THREE.BufferGeometry();starGeo.setAttribute('position',new THREE.Float32BufferAttribute(stars,3));
+  scene.add(new THREE.Points(starGeo,new THREE.PointsMaterial({color:0x5abbe5,size:.035,transparent:true,opacity:.55})));
+  const orbit=new THREE.Mesh(new THREE.TorusGeometry(2.66,.005,4,132),new THREE.MeshBasicMaterial({color:0x11d5ff,transparent:true,opacity:.21}));orbit.rotation.x=.32;orbit.rotation.y=.26;scene.add(orbit);
+  let isDragging=false,px=0,py=0,dragged=0,zoom=8.65;
+  renderer.domElement.addEventListener('pointerdown',e=>{isDragging=true;dragged=0;px=e.clientX;py=e.clientY;renderer.domElement.setPointerCapture(e.pointerId)});
+  renderer.domElement.addEventListener('pointermove',e=>{if(!isDragging)return;const dx=e.clientX-px,dy=e.clientY-py;dragged+=Math.abs(dx)+Math.abs(dy);globe.rotation.y+=dx*.006;globe.rotation.x=Math.max(-1.5,Math.min(1.5,globe.rotation.x+dy*.005));px=e.clientX;py=e.clientY;});
+  renderer.domElement.addEventListener('pointerup',e=>{isDragging=false;if(dragged<8)inspect(e);});
+  renderer.domElement.addEventListener('wheel',e=>{e.preventDefault();zoom=Math.max(6.7,Math.min(11.8,zoom+e.deltaY*.006));},{passive:false});
+  function contains(p,ring){let inside=false;for(let i=0,j=ring.length-1;i<ring.length;j=i++){const a=ring[i],b=ring[j];const intersects=((a[1]>p[1])!==(b[1]>p[1]))&&(p[0]<(b[0]-a[0])*(p[1]-a[1])/(b[1]-a[1]+1e-10)+a[0]);if(intersects)inside=!inside;}return inside;}
+  const raycaster=new THREE.Raycaster(),mouse=new THREE.Vector2();
+  function inspect(e){const rect=renderer.domElement.getBoundingClientRect();mouse.set((e.clientX-rect.left)/rect.width*2-1,-(e.clientY-rect.top)/rect.height*2+1);raycaster.setFromCamera(mouse,camera);const hits=raycaster.intersectObject(ocean);if(!hits.length)return;const local=globe.worldToLocal(hits[0].point.clone()).normalize();const lon=Math.atan2(local.x,local.z)*180/Math.PI;const lat=Math.asin(local.y)*180/Math.PI;let feature=null;
+    outer:for(const f of data.features){for(const ring of rings(f.geometry)){if(contains([lon,lat],ring)){feature=f;break outer}}}
+    if(!feature){infoCountry.textContent='Ocean';infoScore.textContent='—';return;}
+    infoCountry.textContent=feature.name;const val=data.values[feature.name];infoScore.textContent=val?Number(val.value).toLocaleString(undefined,{maximumFractionDigits:1}):'No World Cup value';}
+  function resize(){const rect=frame.getBoundingClientRect();const w=Math.max(rect.width,300),h=rect.height;camera.aspect=w/h;camera.updateProjectionMatrix();renderer.setSize(w,h,false);}
+  resize();new ResizeObserver(resize).observe(frame);
+  msg.style.display='none';
+  let time=0;function animate(){requestAnimationFrame(animate);time+=.01;if(!isDragging)globe.rotation.y+=.00065;orbit.rotation.z+=.0003;camera.position.z+=(zoom-camera.position.z)*.09;renderer.render(scene,camera);}animate();
+ }catch(e){msg.textContent='3D rendering is unavailable on this device. Switch to the interactive data globe above.';console.error(e);}
+})();
+</script>
+</body>
+</html>

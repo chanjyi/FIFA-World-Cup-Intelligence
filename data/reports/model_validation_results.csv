@@ -1,0 +1,6 @@
+model,accuracy,log_loss
+Random Forest + Elo,0.5,1.0288677782841147
+Random Forest (no Elo),0.46875,1.032364749843757
+Dummy prior,0.40625,1.089528971702942
+Logistic (no Elo),0.4375,1.1181101489160352
+Logistic + Elo,0.4166666666666667,1.139439803962657

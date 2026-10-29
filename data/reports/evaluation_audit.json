@@ -1,0 +1,46 @@
+{
+  "n_test": 104,
+  "model_accuracy": 0.5865384615384616,
+  "higher_elo_accuracy": 0.5865384615384616,
+  "elo_logistic_accuracy": 0.5865384615384616,
+  "model_log_loss": 0.928433312093717,
+  "elo_logistic_log_loss": 0.9514925563494295,
+  "model_brier": 0.5558792765587585,
+  "elo_logistic_brier": 0.5674602620153141,
+  "mcnemar_higher_elo": {
+    "model_only_correct": 10,
+    "baseline_only_correct": 10,
+    "discordant_matches": 20,
+    "p_value": 1.0
+  },
+  "team_cluster_bootstrap_accuracy_delta_ci": [
+    -0.060062445167088876,
+    0.06304862251718217
+  ],
+  "team_cluster_bootstrap_logloss_improvement_ci": [
+    -0.008459887051089335,
+    0.05413783555684864
+  ],
+  "accuracy_delta_model_minus_higher_elo": 0.0,
+  "logloss_improvement_over_elo_logistic": 0.02305924425571258,
+  "actual_draws": 29,
+  "predicted_draws": 14,
+  "draw_recall": 0.13793103448275862,
+  "experience_2022_validation": {
+    "full_model": {
+      "accuracy": 0.515625,
+      "log_loss": 1.0116185712171228
+    },
+    "without_experience": {
+      "accuracy": 0.515625,
+      "log_loss": 1.0077271335967917
+    },
+    "n": 64
+  },
+  "limitations": [
+    "All 2026 scores are retrospective tests, never pre-tournament odds.",
+    "Team-level multiplier bootstrap is a sensitivity analysis; it is not tournament-level replication.",
+    "Only one 2026 tournament was held out; estimates are not guaranteed to transfer to other tournaments.",
+    "Draw recalibration was not applied without independent validation."
+  ]
+}

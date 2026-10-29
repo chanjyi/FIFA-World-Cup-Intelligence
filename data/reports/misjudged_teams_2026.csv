@@ -1,0 +1,49 @@
+team,matches,errors,error_rate
+Spain,8,6,0.75
+Belgium,6,5,0.8333333333333334
+Cape Verde,4,4,1.0
+Portugal,5,4,0.8
+Argentina,8,4,0.5
+England,8,4,0.5
+Iran,3,3,1.0
+Uruguay,3,3,1.0
+Canada,5,3,0.6
+Egypt,5,3,0.6
+Paraguay,5,3,0.6
+United States,5,3,0.6
+Morocco,6,3,0.5
+France,8,3,0.375
+Qatar,3,2,0.6666666666666666
+Saudi Arabia,3,2,0.6666666666666666
+Australia,4,2,0.5
+Ecuador,4,2,0.5
+Germany,4,2,0.5
+Netherlands,4,2,0.5
+South Africa,4,2,0.5
+Brazil,5,2,0.4
+Norway,6,2,0.3333333333333333
+Switzerland,6,2,0.3333333333333333
+Czech Republic,3,1,0.3333333333333333
+New Zealand,3,1,0.3333333333333333
+South Korea,3,1,0.3333333333333333
+Turkey,3,1,0.3333333333333333
+Algeria,4,1,0.25
+Austria,4,1,0.25
+Bosnia & Herzegovina,4,1,0.25
+Croatia,4,1,0.25
+DR Congo,4,1,0.25
+Ghana,4,1,0.25
+Ivory Coast,4,1,0.25
+Japan,4,1,0.25
+Senegal,4,1,0.25
+Colombia,5,1,0.2
+Mexico,5,1,0.2
+Curaçao,3,0,0.0
+Haiti,3,0,0.0
+Iraq,3,0,0.0
+Jordan,3,0,0.0
+Panama,3,0,0.0
+Scotland,3,0,0.0
+Sweden,4,0,0.0
+Tunisia,3,0,0.0
+Uzbekistan,3,0,0.0

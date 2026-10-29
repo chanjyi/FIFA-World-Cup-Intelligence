@@ -1,0 +1,61 @@
+{
+  "selected_model": "Random Forest + Elo",
+  "test_matches": 104,
+  "accuracy": 0.5865384615384616,
+  "ci_low": 0.49038461538461536,
+  "ci_high": 0.6826923076923077,
+  "baseline_accuracy": 0.4423076923076923,
+  "baseline_label": "team_1_win",
+  "log_loss": 0.928433312093717,
+  "draw_recall": 0.13793103448275862,
+  "stage_accuracy": {
+    "Group stage": 0.6388888888888888,
+    "Knockout": 0.46875
+  },
+  "walkforward": [
+    {
+      "model": "Random Forest + Elo",
+      "accuracy": 0.5,
+      "log_loss": 1.0289
+    },
+    {
+      "model": "Random Forest (no Elo)",
+      "accuracy": 0.4688,
+      "log_loss": 1.0324
+    },
+    {
+      "model": "Dummy prior",
+      "accuracy": 0.4062,
+      "log_loss": 1.0895
+    },
+    {
+      "model": "Logistic (no Elo)",
+      "accuracy": 0.4375,
+      "log_loss": 1.1181
+    },
+    {
+      "model": "Logistic + Elo",
+      "accuracy": 0.4167,
+      "log_loss": 1.1394
+    }
+  ],
+  "importance": {
+    "team_2_prev_matches": 0.1324708873895035,
+    "elo_expected_1": 0.11633045213984801,
+    "elo_diff": 0.11206670131794773,
+    "team_1_prev_matches": 0.09963205805496096,
+    "elo_1": 0.09408529956480575,
+    "goals_for_diff": 0.0815837217397376,
+    "elo_2": 0.07882571657061042,
+    "team_1_goals_for_last5": 0.05155594225926162,
+    "team_1_goals_against_last5": 0.04686339177545202,
+    "team_2_goals_for_last5": 0.03772728577050892,
+    "goals_against_diff": 0.0364702691816322,
+    "win_rate_diff": 0.0317067527388567,
+    "team_2_goals_against_last5": 0.02494609158381806,
+    "team_2_win_rate_last5": 0.01967414154704398,
+    "team_1_win_rate_last5": 0.01958227455291848,
+    "head_to_head_team1_win_rate": 0.00860946528479727,
+    "head_to_head_matches": 0.007869548528296893
+  }
+}
