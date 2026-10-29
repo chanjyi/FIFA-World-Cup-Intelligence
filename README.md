@@ -124,3 +124,11 @@ verify_project.py              # Static/data + optional Streamlit app checks
 - **Unmodeled drivers:** injuries, current squad/manager decisions, travel, player fitness, home advantage and venue context are not established predictive features in the current model.
 
 For evaluation corrections and methodological caveats, see [`AUDIT_DECISIONS.md`](AUDIT_DECISIONS.md) and [`VERIFICATION_STATUS.md`](VERIFICATION_STATUS.md).
+
+## Screenshot
+
+![Overview](docs/images/overview.png)
+![Team Lab](docs/images/team_lab.png)
+![Match Predictor](docs/images/match_predictor.png)
+![Model Report](docs/images/model_report.png)
+![Insights](docs/images/insights.png)
