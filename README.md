@@ -33,7 +33,8 @@ Suggested judge walkthrough: Open **Overview** → select two countries in **Tea
 
 Requires Python 3.11 or newer. The repository includes the data, reports and a pretrained model, so no training is needed.
 
-```Windows (PowerShell):
+```
+Windows (PowerShell):
 py -m venv .venv
 .\.venv\Scripts\Activate.ps1
 python -m pip install --upgrade pip
